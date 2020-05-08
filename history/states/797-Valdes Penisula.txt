@@ -1,0 +1,23 @@
+
+state={
+    id=797
+    name="Valdes Penisula"
+    manpower = 500000
+    
+    state_category = rural
+    
+    resources={
+    }
+
+    history={
+        owner = ARG
+        buildings = {
+            infrastructure = 3
+        }
+        add_core_of = ARG
+    }
+
+    provinces={
+        12494 12321 10981 12349
+    }
+}
