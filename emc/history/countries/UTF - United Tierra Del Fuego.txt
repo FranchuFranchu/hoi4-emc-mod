@@ -1,4 +1,4 @@
-capital = 279
+capital = 512
 
 oob = "CHL_1936"
 

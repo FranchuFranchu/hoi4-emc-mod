@@ -1,0 +1,22 @@
+
+state={
+    id=800
+    name="Sucre"
+    manpower = 334500
+    
+    state_category = pastoral
+
+    history={
+        buildings = {
+            infrastructure = 1
+            industrial_complex = 1
+        }
+    }
+
+    provinces={
+        12917 5188 8211 10996 12973 8240
+    }
+    
+}
+
+

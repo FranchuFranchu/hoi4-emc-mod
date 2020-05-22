@@ -1,0 +1,22 @@
+
+state={
+	id=487
+	name="STATE_487"
+	manpower = 334500
+	
+	state_category = pastoral
+
+	history={
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+	}
+
+	provinces={
+		2160 10924 10982 12902 12916
+	}
+	
+}
+
+
