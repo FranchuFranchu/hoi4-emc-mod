@@ -132,7 +132,7 @@ set_politics = {
 	ruling_party = neutrality
 	last_election = "1931.11.8"
 	election_frequency = 72
-	elections_allowed = yes
+	elections_allowed = no
 }
 set_popularities = {
 	democratic = 10
@@ -154,9 +154,9 @@ create_country_leader = {
 
 
 create_country_leader = {
-	name = "Nimo de Anquín"
+	name = "iiNicoARG"
 	desc = "POLITICS_NIMO_DE_ANQUIN_DESC"
-	picture = "gfx/leaders/South America/Portrait_South_America_Generic_3.dds"
+	picture = "gfx/portaits/iiNicoARG.dds"
 	expire = "1965.1.1"
 	ideology = fascism_ideology
 	traits = {
@@ -165,23 +165,22 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Marcelo T. de Alvear"
+	name = "TawsHunter23"
 	desc = "POLITICS_MARCELO_ALVEAR_DESC"
-	picture = "gfx/leaders/South America/Portrait_South_America_Generic_land_3.dds"
+	picture = "gfx/portraits/TawsHunter23.dds"
 	expire = "1965.1.1"
-	ideology = socialism
+	ideology = marxism
 	traits = {
 		#
 	}
 }
 
 create_country_leader = {
-	name = "Fanny Jabcovsky"
+	name = "JonnyGrunge"
 	desc = "POLITICS_FANNY_JABCOVSKY_DESC"
-	picture = "Portrait_Argentina_Fanny_Jabcovsky.dds"
+	picture = "gfx/portraits/JonnyGrunge.dds"
 	expire = "1965.1.1"
-	ideology = marxism
-	female = yes
+	ideology = socialism
 	traits = {
 		#
 	}

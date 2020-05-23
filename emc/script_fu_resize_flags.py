@@ -1,6 +1,7 @@
 # Use this with GIMP
 # Copy and paste into the terminal
 # Last time i tested it didn't work
+# But sometimes it does
 
 
 def save_mod(filename):

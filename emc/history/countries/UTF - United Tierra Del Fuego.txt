@@ -123,49 +123,24 @@ set_politics = {
     elections_allowed = yes
 }
 set_popularities = {
-    democratic = 98
-    communism = 2
+    democratic = 50
+    fascism = 40
 }
 
 create_country_leader = {
-    name = "Arturo Alessandri"
+    name = "Ferrarinu"
     desc = "POLITICS_ARTURO_ALESSANDRI_DESC"
-    picture = "GFX_Portrait_chile_arturo_alessandri"
+    picture = "gfx/portraits/Ferrarinu.dds"
     expire = "1965.1.1"
     ideology = liberalism
     traits = {
         #
     }
 }
-
-1939.1.1 = {
-    set_politics = {
-        ruling_party = democratic
-        last_election = "1938.10.25"
-        election_frequency = 48
-        elections_allowed = yes
-    }
-
-    set_popularities = {
-        democratic = 100
-    }
-
-    create_country_leader = {
-        name = "Pedro Aguirre Cerda"
-        desc = "POLITICS_PEDRO_AGUIRRE_CERDA_DESC"
-        picture = "gfx/leaders/South America/Portrait_South_America_Generic_2.dds"
-        expire = "1965.1.1"
-        ideology = socialism
-        traits = {
-            #
-        }
-    }
-}
-
 create_country_leader = {
-    name = "Jorge González von Marées"
+    name = "mikolllaj60"
     desc = "POLITICS_JORGE_GONZÁLEZ_VON_MARÉES_DESC"
-    picture = "gfx/leaders/South America/Portrait_South_America_Generic_land_5.dds"
+    picture = "gfx/portraits/mikolllaj60.dds"
     expire = "1965.1.1"
     ideology = nazism
     traits = {
