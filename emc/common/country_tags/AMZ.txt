@@ -1,0 +1,1 @@
+AMZ = "countries/Amazon.txt"
