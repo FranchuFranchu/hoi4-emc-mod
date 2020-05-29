@@ -10,10 +10,11 @@ state={
     }
 
     history={
-        owner = ARG
+        owner = PLA
         buildings = {
             infrastructure = 3
         }
+        add_core_of = PLA
         add_core_of = ARG
     }
 

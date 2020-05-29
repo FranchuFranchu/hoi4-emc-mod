@@ -1,0 +1,23 @@
+bookmarks = {
+    bookmark = {
+        name = "EarthMC"
+        desc = "Dark times are coming, etc etc"
+        date = 2019.6.1.12
+        picture = "GFX_select_date_1936"
+        default_country = "PLA"
+        default = yes
+        
+        "PLA" = {
+            minor = no
+            history = "Nothing to see here, just a test for the scenario"
+        }
+        "UTF" = {
+            minor = no
+            history = "UTF is expanding etc etc"
+        }
+        effect = {
+            randomize_weather = 22345 # <- Obligatory in every bookmark !
+            #123 = { rain_light = yes }
+        }
+    }
+}

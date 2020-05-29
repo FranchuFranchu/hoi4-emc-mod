@@ -1,1 +1,1 @@
-CEA = "countries/CEAR.txt"
+CEA = "countries/Ceara.txt"

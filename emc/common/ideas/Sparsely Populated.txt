@@ -1,0 +1,10 @@
+ideas = {
+    country = {
+        "Sparsely Populated" = {
+            modifier = {
+
+                conscription = -0.50 
+            }    
+        }
+    }
+}

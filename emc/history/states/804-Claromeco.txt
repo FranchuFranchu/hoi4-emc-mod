@@ -1,0 +1,19 @@
+
+state={
+    id=804
+    name="Claromeco"
+    manpower = 5596366
+    
+    state_category = large_town
+
+    history={
+        owner = PLA
+        add_core_of = PLA
+        add_core_of = ARG
+
+    }
+
+    provinces={
+        12494 13281 1639 13283 13284 13285 13286 13287 13288 13289 13290  13282
+    }
+}

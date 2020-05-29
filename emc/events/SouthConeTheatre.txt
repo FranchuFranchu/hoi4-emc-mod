@@ -2,7 +2,7 @@
 add_namespace = southcone
 
 country_event = {
-    id = southcone.0 # valdes_annexation_ARG
+    id = southcone.0 # valdes_annexation_PLA
     title = "Valdes Annexation"
     desc = "Valdes Annexation"
     picture = GFX_report_event_soviet_purge_trial
@@ -52,7 +52,7 @@ country_event = {
     option = {
         name = "A compromise would be beneficial for us both."
         country_event = {
-            id = southcone.3 # valdes_land_deal_ARG
+            id = southcone.3 # valdes_land_deal_PLA
             days = 10
             random = 24
         }
@@ -65,7 +65,7 @@ country_event = {
 
 
 country_event = {
-    id = southcone.3 # valdes_land_deal_ARG
+    id = southcone.3 # valdes_land_deal_PLA
     title = "Land deal"
     desc = "Patagonia has offered to give us North Valdes"
     picture = GFX_report_event_soviet_purge_trial
@@ -105,7 +105,7 @@ country_event = {
     
     option = {
         name = "If they want it then they have to take it"
-        ARG = {
+        PLA = {
             create_wargoal = {
                 type = take_state
                 target = UTF
@@ -117,7 +117,7 @@ country_event = {
         UTF = {
             create_wargoal = {
                 type = take_state
-                target = ARG
+                target = PLA
                 generator = {
                     797 798 799
                 }
@@ -126,7 +126,7 @@ country_event = {
     }
     option = {
         name = "We can let them have all of it"
-        ARG = {
+        PLA = {
             transfer_state = 797
             transfer_state = 798
             transfer_state = 799

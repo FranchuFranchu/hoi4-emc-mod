@@ -1,6 +1,6 @@
 capital = 505
 
-capital = 500
+oob = "IBR_2019"
 
 set_politics = {
     ruling_party = fascism

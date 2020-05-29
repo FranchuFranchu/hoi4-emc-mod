@@ -117,7 +117,7 @@ AFG = {
 	color = rgb { 64 160 167 }
 	color_ui = rgb { 83 208 217 }
 }
-ARG = {
+PLA = {
 	color = rgb { 145 157 236 }
 	color_ui = rgb { 189 204 255 }
 }
