@@ -1,0 +1,34 @@
+ideas = {
+    country = {
+        scarce_population = {
+            modifier = {
+                conscription_factor = -0.75
+            }    
+        }
+        sparsely_populated = {
+            modifier = {
+                conscription_factor = -0.50
+            }    
+        }
+        not_many_population = {
+            modifier = {
+                conscription_factor = -0.25
+            }    
+        }
+        homogeneous_culture = {
+            modifier = {
+                stability_factor = 0.4
+            }
+        }
+        mostly_homogeneous = {
+            modifier = {
+                stability_factor = 0.2
+            }
+        }
+        heterogeneous_population = {
+            modifier = {
+                stability_factor = -0.2
+            }
+        }
+    }
+}

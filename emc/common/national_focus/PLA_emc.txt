@@ -1,0 +1,368 @@
+focus_tree = {
+	id = emc
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = PLA
+		}
+	}
+	#Focus for Native Effort
+	focus = {
+		id = PLA_native_effort_1
+		icon = GFX_goal_generic_allies_build_infantry
+		x = 3
+		y = 2
+		cost = 30
+		available_if_capitulated = yes
+		prerequisite = { focus = PLA_repopulation_effort }
+		mutually_exclusive = { focus = PLA_foreigner_effort_1 }
+		ai_will_do = {
+			factor = 1
+		}
+		completion_reward = {
+			swap_ideas = {
+			    remove_idea = scarce_population
+			    add_idea = sparsely_populated
+			}
+
+		}
+	}
+
+	#Focus for Foreigner Effort
+	focus = {
+		id = PLA_foreigner_effort_1
+		icon = GFX_goal_generic_propaganda
+		x = 1
+		y = 2
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PLA_repopulation_effort }
+		mutually_exclusive = { focus = PLA_native_effort_1 }
+		ai_will_do = {
+			factor = 1
+		}
+		completion_reward = {
+			swap_ideas = {
+			    remove_idea = scarce_population
+			    add_idea = sparsely_populated
+			}
+
+		}
+	}
+
+
+	#Focus for Native Effort 2
+	focus = {
+		id = PLA_native_effort_2
+		icon = GFX_goal_generic_allies_build_infantry
+		x = 3
+		y = 3
+		cost = 30
+		available_if_capitulated = yes
+		prerequisite = { focus = PLA_foreigner_effort_1 OR = PLA_native_effort_1 }
+		mutually_exclusive = { focus = PLA_foreigner_effort_2 }
+		
+		completion_reward = {
+			swap_ideas = {
+			    remove_idea = sparsely_populated
+			    add_idea = not_many_population
+			}
+
+		}
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Foreigner Effort 2
+	focus = {
+		id = PLA_foreigner_effort_2
+		icon = GFX_goal_generic_propaganda
+		x = 1
+		y = 3
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PLA_foreigner_effort_1 OR = PLA_native_effort_1  }
+		mutually_exclusive = { focus = PLA_native_effort_2 }
+		ai_will_do = {
+			factor = 1
+		}
+		completion_reward = {
+			swap_ideas = {
+			    remove_idea = sparsely_populated
+			    add_idea = not_many_population
+			}
+
+		}
+	}
+
+	#Focus for Native Effort
+	focus = {
+		id = PLA_native_effort_3
+		icon = GFX_goal_generic_allies_build_infantry
+		x = 3
+		y = 4
+		cost = 30
+		available_if_capitulated = yes
+		prerequisite = { focus = PLA_native_effort_2 }
+		mutually_exclusive = { focus = PLA_foreigner_effort_3 }
+		ai_will_do = {
+			factor = 1
+		}
+		completion_reward = {
+			remove_ideas = not_many_population
+		}
+	}
+
+	#Focus for Foreigner Effort 3
+	focus = {
+		id = PLA_foreigner_effort_3
+		icon = GFX_goal_generic_propaganda
+		x = 1
+		y = 4
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PLA_foreigner_effort_2  }
+		mutually_exclusive = { focus = PLA_native_effort_3 }
+		ai_will_do = {
+			factor = 1
+		}
+		remove_ideas = {
+			not_many_population
+		}
+	}
+
+
+	#Focus for Repopulation Effort
+	focus = {
+		id = PLA_repopulation_effort
+		icon = GFX_goal_generic_political_pressure
+		x = 2
+		y = 1
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PLA_create_the_senate }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Create the Senate
+	focus = {
+		id = PLA_create_the_senate
+		icon = GFX_goal_generic_neutrality_focus
+		x = 5
+		y = 0
+		cost = 10
+		available_if_capitulated = yes
+		ai_will_do = {
+			factor = 1
+
+		}
+		completion_reward = { 
+			add_ideas = sparsely_populated
+		}
+	}
+	#Focus for Territorial Expansion
+	focus = {
+		id = PLA_territorial_expansion
+		icon = GFX_focus_por_recover_latin_america
+		x = 14
+		y = 1
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PLA_create_the_senate }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Retake Valdes
+	focus = {
+		id = PLA_retake_valdes
+		icon = GFX_focus_spa_the_spanish_miracle
+		x = 19
+		y = 2
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PLA_territorial_expansion }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Integrate Bolivia
+	focus = {
+		id = PLA_integrate_bolivia
+		icon = GFX_goal_generic_build_tank
+		x = 8
+		y = 3
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { 
+			focus = PLA_territorial_expansion 
+		}
+		prerequisite = { 
+			focus = PLA_bolivian_ice_roads 
+		}
+		mutually_exclusive = { focus = PLA_create_bolivia }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Create a northern nation
+	focus = {
+		id = PLA_create_a_northern_nation
+		icon = GFX_goal_generic_intelligence_exchange
+		x = 12
+		y = 2
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PLA_territorial_expansion }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Create Bolivia
+	focus = {
+		id = PLA_create_bolivia
+		icon = GFX_goal_generic_axis_build_infantry
+		x = 11
+		y = 3
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { 
+			focus = PLA_bolivian_ice_roads 
+		}
+		prerequisite = { 
+			focus = PLA_create_a_northern_nation 
+		}
+		mutually_exclusive = { focus = PLA_integrate_bolivia }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Create Paraguay
+	focus = {
+		id = PLA_create_paraguay
+		icon = GFX_goal_generic_axis_build_infantry
+		x = 13
+		y = 3
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PLA_create_a_northern_nation }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Bolivian ice roads
+	focus = {
+		id = PLA_bolivian_ice_roads
+		icon = GFX_goal_generic_construct_infrastructure
+		x = 5
+		y = 1
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PLA_create_the_senate }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Patagonian compromise
+	focus = {
+		id = PLA_patagonian_compromise
+		icon = GFX_goal_molotov_ribbentrop_pact
+		x = 22
+		y = 3
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PLA_retake_valdes }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Extend our claims
+	focus = {
+		id = PLA_extend_our_claims
+		icon = GFX_goal_generic_CAS
+		x = 16
+		y = 3
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PLA_retake_valdes }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for South cone union
+	focus = {
+		id = PLA_south_cone_union
+		icon = GFX_goal_continuous_increase_nu
+		x = 23
+		y = 4
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PLA_patagonian_compromise }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Transandine Ice Road
+	focus = {
+		id = PLA_transandine_ice_road
+		icon = GFX_goal_generic_construct_infrastructure
+		x = 5
+		y = 3
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PLA_bolivian_ice_roads }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Calafate or War
+	focus = {
+		id = PLA_calafate_or_war
+		icon = GFX_goal_generic_demand_territory
+		x = 19
+		y = 3
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PLA_retake_valdes }
+		mutually_exclusive = { focus = PLA_patagonian_compromise }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for La Plata's Fleet
+	focus = {
+		id = PLA_la_platas_fleet
+		icon = GFX_goal_generic_navy_cruiser
+		x = 19
+		y = 5
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { 
+			focus = PLA_patagonian_compromise 
+			focus = PLA_extend_our_claims 
+			focus = PLA_calafate_or_war 
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+
+ }

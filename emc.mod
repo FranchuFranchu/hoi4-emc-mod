@@ -7,4 +7,4 @@ tags={
 }
 name="emc"
 supported_version="1.9.2"
-path="/home/usuario/.local/share/Paradox Interactive/Hearts of Iron IV/mod/emc"
+path="mod/emc"

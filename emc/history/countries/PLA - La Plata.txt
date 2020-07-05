@@ -110,3 +110,8 @@ create_navy_leader = {
 	maneuvering_skill = 3
 	coordination_skill = 3
 }
+
+add_ideas = {
+	scarce_population
+	homogeneous_culture
+}
