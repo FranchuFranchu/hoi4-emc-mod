@@ -37,7 +37,7 @@ create_country_leader = {
 	name = "SoyGalletita"
 	desc = "POLITICS_AGUSTIN_PEDRO_JUSTO_DESC"
 	picture = "gfx/portraits/SoyGalletita.dds"
-	expire = "1965.1.1"
+	expire = "2040.1.1"
 	ideology = despotism
 	traits = {
 		#
@@ -46,10 +46,10 @@ create_country_leader = {
 
 
 create_country_leader = {
-	name = "iiNicoPLA"
+	name = "Nikocholas"
 	desc = "POLITICS_NIMO_DE_ANQUIN_DESC"
 	picture = "gfx/portaits/iiNicoPLA.dds"
-	expire = "1965.1.1"
+	expire = "2040.1.1"
 	ideology = fascism_ideology
 	traits = {
 		#
@@ -60,7 +60,7 @@ create_country_leader = {
 	name = "TawsHunter23"
 	desc = "POLITICS_MARCELO_ALVEAR_DESC"
 	picture = "gfx/portraits/TawsHunter23.dds"
-	expire = "1965.1.1"
+	expire = "2040.1.1"
 	ideology = marxism
 	traits = {
 		#
@@ -71,44 +71,11 @@ create_country_leader = {
 	name = "JonnyGrunge"
 	desc = "POLITICS_FANNY_JABCOVSKY_DESC"
 	picture = "gfx/portraits/JonnyGrunge.dds"
-	expire = "1965.1.1"
+	expire = "2040.1.1"
 	ideology = socialism
 	traits = {
 		#
 	}
-}
-
-create_field_marshal = {
-	name = "Arturo Rawson"
-	portrait_path = "gfx/leaders/South America/Portrait_South_America_Generic_land_2.dds"
-	traits = { defensive_doctrine }
-	skill = 3
-    attack_skill = 4
-    defense_skill = 3
-    planning_skill = 1
-    logistics_skill = 2
-}
-
-create_corps_commander = {
-	name = "Juan Pistarini"
-	portrait_path = "gfx/leaders/South America/Portrait_South_America_Generic_land_3.dds"
-	traits = { urban_assault_specialist fortress_buster }
-	skill = 3
-    attack_skill = 1
-    defense_skill = 2
-    planning_skill = 4
-    logistics_skill = 3
-}
-
-create_navy_leader = {
-	name = "Alberto Teisaire"
-	portrait_path = "gfx/leaders/South America/Portrait_South_America_Generic_navy_1.dds"
-	traits = { chief_engineer }
-	skill = 3
-	attack_skill = 2
-	defense_skill = 2
-	maneuvering_skill = 3
-	coordination_skill = 3
 }
 
 add_ideas = {

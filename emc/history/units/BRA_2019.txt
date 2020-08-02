@@ -3,43 +3,17 @@ division_template = {
     division_names_group = SPAN_INF_02
 
     regiments = {
-        infantry = { x = 0 y = 0 }
-        infantry = { x = 0 y = 1 }
-        infantry = { x = 0 y = 2 }
-        infantry = { x = 1 y = 0 }
-        infantry = { x = 1 y = 1 }
-        infantry = { x = 1 y = 2 }
-        infantry = { x = 2 y = 0 }
-        infantry = { x = 2 y = 1 }
-        infantry = { x = 2 y = 2 }
+        armored_sword_unit = { x = 0 y = 0 }
+        armored_sword_unit = { x = 0 y = 1 }
+        armored_sword_unit = { x = 0 y = 2 }
+        armored_sword_unit = { x = 1 y = 0 }
+        armored_sword_unit = { x = 1 y = 1 }
+        armored_sword_unit = { x = 1 y = 2 }
+        armored_sword_unit = { x = 2 y = 0 }
+        armored_sword_unit = { x = 2 y = 1 }
+        armored_sword_unit = { x = 2 y = 2 }
     }
 }
-division_template = {
-    name = "Mountain Brigade"          # Mountain Brigade
-    division_names_group = SPAN_MNT_02
-    regiments = {
-        mountaineers = { x = 0 y = 0 }  
-        mountaineers = { x = 0 y = 1 }
-        mountaineers = { x = 0 y = 2 }
-    }
-}
-division_template = {
-    name = "Cavalry Division"     # Cavalry Division
-    division_names_group = SPAN_CAV_01
-
-    regiments = {
-        cavalry = { x = 0 y = 0 }
-        cavalry = { x = 0 y = 1 }
-        cavalry = { x = 0 y = 2 }
-        cavalry = { x = 1 y = 0 }
-        cavalry = { x = 1 y = 1 }
-        cavalry = { x = 1 y = 2 }
-        cavalry = { x = 2 y = 0 }
-        cavalry = { x = 2 y = 1 }
-        cavalry = { x = 2 y = 2 }
-    }
-}
-
 units = {
     
 

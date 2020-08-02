@@ -1,0 +1,1 @@
+PAN = "countries/Panama.txt"

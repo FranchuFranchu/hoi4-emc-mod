@@ -1,0 +1,23 @@
+spriteTypes = { 
+
+   spriteType = { 
+     name = "GFX_unit_sword_unit_icon_medium"             
+     textureFile = "gfx/interface/counters/divisions_large/sword_icon.dds"
+     noOfFrames = 2
+   }
+   spriteType = { 
+     name = "GFX_unit_bow_unit_icon_medium"             
+     textureFile = "gfx/interface/counters/divisions_large/bow_icon.dds"
+     noOfFrames = 2
+   }
+   spriteType = { 
+     name = "GFX_unit_armored_sword_unit_icon_medium"             
+     textureFile = "gfx/interface/counters/divisions_large/armor_icon.dds"
+     noOfFrames = 2
+   }
+   spriteType = { 
+     name = "GFX_unit_armored_bow_unit_icon_medium"             
+     textureFile = "gfx/interface/counters/divisions_large/armor_icon.dds"
+     noOfFrames = 2
+   }
+}
