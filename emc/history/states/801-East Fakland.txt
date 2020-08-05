@@ -13,5 +13,5 @@ state= {
         add_core_of = PLA
         add_core_of = ARG
     }
-    provinces= { 13242 13243  }
+    provinces= { 13317 13243 }
 }

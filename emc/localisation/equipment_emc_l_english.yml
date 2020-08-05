@@ -1,0 +1,32 @@
+﻿l_english:
+  bow_equipment_0:0 "Bows"
+  bow_equipment_0_short:0 "Bows"
+  bow_equipment_1:0 "Crossbows"
+  bow_equipment_1_short:0 "Crossbows"
+
+  sword_equipment_0:0 "Stone swords"
+  sword_equipment_0_short:0 "Stone swords"
+  sword_equipment_1:0 "Iron swords"
+  sword_equipment_1_short:0 "Iron swords"
+  sword_equipment_2:0 "Diamond swords"
+  sword_equipment_2_short:0 "Diamond swords"
+  sword_equipment_3:0 "Netherite swords"
+  sword_equipment_3_short:0 "Netherite swords"
+
+
+  tool_equipment_0:0 "Stone tools"
+  tool_equipment_0_short:0 "Stone tools"
+  tool_equipment_1:0 "Iron tools"
+  tool_equipment_1_short:0 "Iron tools"
+  tool_equipment_2:0 "Diamond tools"
+  tool_equipment_2_short:0 "Diamond tools"
+  tool_equipment_3:0 "Netherite tools"
+  tool_equipment_3_short:0 "Netherite tools"
+  
+  armor_equipment_0:0 "Stone armor sets"
+  armor_equipment_0_short:0 "Stone armor sets"
+  armor_equipment_1:0 "Iron armor sets"
+  armor_equipment_1_short:0 "Iron armor sets"
+  armor_equipment_2:0 "Diamond armor sets"
+  armor_equipment_2_short:0 "Diamond armor sets"
+  armor_equipment_3:0 "Netherite armor sets"

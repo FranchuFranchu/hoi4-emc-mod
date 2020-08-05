@@ -1,7 +1,7 @@
 
 state={
     id=797
-    name="Valdes Penisula"
+    name="Valdes Peninsula"
     manpower = 500000
     
     state_category = rural
