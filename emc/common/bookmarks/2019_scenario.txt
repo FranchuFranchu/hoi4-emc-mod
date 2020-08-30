@@ -15,6 +15,9 @@ bookmarks = {
             minor = no
             history = "UTF is expanding etc etc"
         }
+        "---" = {
+            history = "other nations"
+        }
         effect = {
             randomize_weather = 42345 # <- Obligatory in every bookmark !
             log = "Test"
@@ -32,5 +35,6 @@ bookmarks = {
             #123 = { rain_light = yes }
 
         }
+
     }
 }

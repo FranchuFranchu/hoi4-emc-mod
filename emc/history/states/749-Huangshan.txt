@@ -1,0 +1,33 @@
+state={
+	id=749
+	name="STATE_749"
+	provinces={
+		1099 1125 1153 1171 4105 4173 7007 7104 10044 11937 12019 
+	}
+	manpower=5000000
+	buildings_max_level_factor=1.000
+	state_category=town
+	history={
+		owner = NUL
+		add_core_of = NUL
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			12019 1
+		}
+		
+		1938.10.25 = {
+						CHI = {
+				set_province_				set_province_				set_province_
+			}
+			buildings = {
+				infrastructure = 6
+				air_base = 1
+			}
+
+		}
+
+	}
+}

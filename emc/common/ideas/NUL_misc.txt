@@ -1,0 +1,9 @@
+ideas = {
+    country = {
+        null_country = {
+            modifier = {
+                join_faction_tension = 100
+            }    
+        }
+    }
+}
