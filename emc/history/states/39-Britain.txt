@@ -6,9 +6,7 @@ state={
 	
 	state_category = town
 	
-	resources={
-		aluminium=14 # was: 22
-	}
+	 
 
 	history={
 		victory_points = {
