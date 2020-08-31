@@ -6,9 +6,7 @@ state={
 	
 	state_category = metropolis
 	
-	resources={
-		steel=71 # was: 120
-	}
+	 
 
 	history={
 		owner = NUL

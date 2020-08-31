@@ -5,10 +5,7 @@ state={
 	manpower = 2128860
 	
 	state_category = city
-	resources={
-		steel=38 # was: 60
-		aluminium=5 # was: 8
-	}
+	 
 
 	history={
 		owner = BRI
