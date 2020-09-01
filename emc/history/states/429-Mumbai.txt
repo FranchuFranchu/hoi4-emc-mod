@@ -5,18 +5,16 @@ state={
 	manpower = 17355600
 	state_category = town
 	
-	resources={
-		#tungsten=19 # was: 26
-	}
+	 
 
 	history={
 		owner = NUL
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 1
-			air_base = 2
+			 = 1
+			 = 2
 			1349 = {
-				naval_base = 6
+				 = 6
 			}
 		}
 		victory_points = {

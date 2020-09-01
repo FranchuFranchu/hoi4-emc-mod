@@ -6,19 +6,17 @@ state={
 	
 	state_category = city
 	
-	resources={
-		aluminium=3 # was: 4
-	}
+	 
 
 	history={
 		owner = NUL
 		buildings = {
 			infrastructure = 6
-			arms_factory = 2
-			industrial_complex = 1
-			air_base = 3
+			 = 2
+			 = 1
+			 = 3
 			12149 = {
-				naval_base = 6
+				 = 6
 			}
 		}
 		add_core_of = NUL
