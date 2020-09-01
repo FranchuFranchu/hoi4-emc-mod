@@ -1,10 +1,7 @@
 state={
 	id=622
 	name="STATE_622"
-	resources={
-		steel=3.000
-		tungsten=3.000
-	}
+	 
 
 	history={
 		owner = NUL
@@ -16,18 +13,18 @@ state={
 		}
 		buildings = {
 			infrastructure = 2
-			arms_factory = 3
-			industrial_complex = 3
+			 = 3
+			 = 3
 			10733 = {
-				bunker = 2
+				 = 2
 
 			}
 			12156 = {
-				bunker = 2
+				 = 2
 
 			}
 			5007 = {
-				bunker = 2
+				 = 2
 
 			}
 

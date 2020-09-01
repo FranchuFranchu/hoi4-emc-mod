@@ -10,31 +10,31 @@ state={
 		add_core_of = NUL
 		buildings = {
 			infrastructure = 3
-			air_base = 3
+			 = 3
 			2489 = {
-				naval_base = 6
-				coastal_bunker = 5
+				 = 6
+				coastal_ = 5
 			}
 			13028 = {
-				naval_base = 1
+				 = 1
 			}
 			13030 = {
-				naval_base = 1
+				 = 1
 			}
 			13031 = {
-				naval_base = 1
+				 = 1
 			}
 			13032 = {
-				naval_base = 1
+				 = 1
 			}
 			13034 = {
-				naval_base = 1
+				 = 1
 			}
 			13035 = {
-				naval_base = 1
+				 = 1
 			}
 			13036 = {
-				naval_base = 1
+				 = 1
 			}
 		}
 		victory_points = {

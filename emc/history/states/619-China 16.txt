@@ -6,10 +6,6 @@ state={
 	
 	state_category = pastoral
 	
-	resources={
-		aluminium=2 # was: 2
-		chromium=2 # was: 3
-	}
 
 	history={
 		owner = NUL
@@ -18,7 +14,7 @@ state={
 		add_core_of = NUL
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
+			 = 1
 		}
 	}
 
