@@ -6,12 +6,7 @@ state={
 	
 	state_category = large_town
 	
-	resources={
-		rubber=342 # was: 848
-		steel=20 # was: 32
-		tungsten=189 # was: 308
-		aluminium = 15 # was: 25
-	}
+	 
 
 	history={
 		owner = NUL
@@ -26,17 +21,17 @@ state={
 		}
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
-			air_base = 6
+			 = 1
+			 = 6
 			12299 = {
-				naval_base = 8
-				coastal_bunker = 3
+				 = 8
+				coastal_ = 3
 			}
 			7329 = {
-				naval_base = 1
+				 = 1
 			}
 			10297 = {
-				naval_base = 5
+				 = 5
 			}
 		}
 		add_core_of = NUL

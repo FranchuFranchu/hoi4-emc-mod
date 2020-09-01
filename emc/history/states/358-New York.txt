@@ -1,9 +1,7 @@
 state={
 	id=358
 	name="STATE_358"
-	resources={
-		steel=13 # was: 24.000
-	}
+	 
 	
 	state_category = megalopolis
 
@@ -11,12 +9,12 @@ state={
 		owner = NUL
 		buildings = {
 			infrastructure = 8
-			arms_factory = 2
-			industrial_complex = 7
-			dockyard = 3
-			air_base = 10
+			 = 2
+			 = 7
+			 = 3
+			 = 10
 			3878 = {
-				naval_base = 6
+				 = 6
 
 			}
 

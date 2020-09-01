@@ -10,9 +10,9 @@ state={
 		owner = NUL
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
+			 = 1
 			12505 = {
-				naval_base = 1
+				 = 1
 			}
 		}
 		add_core_of = NUL

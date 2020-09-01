@@ -6,20 +6,18 @@ state={
 	
 	state_category = megalopolis
 	
-	resources={
-		steel=44 # was: 80
-	}
+	
 
 
 	history={
 		owner = NUL
 		buildings = {
 			infrastructure = 8
-			industrial_complex = 5
-			dockyard = 7
-			air_base = 2
+			 = 5
+			 = 7
+			 = 2
 			6845 = {
-				naval_base = 8
+				 = 8
 
 			}
 		}
@@ -32,8 +30,8 @@ state={
 		}
 		1939.1.1 = {
 			buildings = {
-				industrial_complex = 6
-				dockyard = 8
+				 = 6
+				 = 8
 			}
 		}
 

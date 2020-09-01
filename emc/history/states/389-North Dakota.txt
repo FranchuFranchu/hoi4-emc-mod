@@ -4,16 +4,13 @@ state={
 	name="STATE_389"
 	manpower = 680844
 	state_category = rural
-	resources={
-		steel=17 # was: 24
-		oil=7 # was: 10
-	}
+	 
 
 	history={
 		owner = NUL
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 1
+			 = 1
 		}
 		add_core_of = NUL
 		victory_points = {
