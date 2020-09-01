@@ -1,1 +1,0 @@
-DEU = "countries/Deutschland.txt"
