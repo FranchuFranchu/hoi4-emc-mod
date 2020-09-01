@@ -12,15 +12,15 @@ state={
 		owner = BRI
 		buildings = {
 			infrastructure = 8
-			arms_factory = 2
-			industrial_complex = 1
-			air_base = 5
+			 = 2
+			 = 1
+			 = 5
 		}
 		add_core_of = BRI
 		1939.1.1 = {
 			buildings = {
-				arms_factory = 3
-				industrial_complex = 2
+				 = 3
+				 = 2
 			}
 		}
 	}

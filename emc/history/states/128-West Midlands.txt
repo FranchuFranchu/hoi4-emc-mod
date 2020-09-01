@@ -11,9 +11,9 @@ state={
 		owner = BRI
 		buildings = {
 			infrastructure = 8
-			arms_factory = 2
-			industrial_complex = 3
-			air_base = 6
+			 = 2
+			 = 3
+			 = 6
 		}
 		victory_points = {
 			9297 25
@@ -21,8 +21,8 @@ state={
 		add_core_of = BRI
 		1939.1.1 = {
 			buildings = {
-				arms_factory = 3
-				industrial_complex = 4
+				 = 3
+				 = 4
 			}
 		}
 	}

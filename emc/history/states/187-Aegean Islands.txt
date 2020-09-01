@@ -12,12 +12,12 @@ state={
 		owner = NUL
 		buildings = {
 			infrastructure = 4
-			dockyard = 1
+			 = 1
 			8435 = {
-				naval_base = 1
+				 = 1
 			}
 			6550 = {
-				naval_base = 1
+				 = 1
 			}
 		}
 		add_core_of = NUL

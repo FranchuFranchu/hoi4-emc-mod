@@ -14,21 +14,21 @@ state={
 		}
 		buildings = {
 			infrastructure = 6
-			industrial_complex = 1
-			dockyard = 4
-			air_base = 6
+			 = 1
+			 = 4
+			 = 6
 			351 = {
-				naval_base = 6
+				 = 6
 			}
 			3311 = {
-				naval_base = 1
+				 = 1
 			}
 		}
 		add_core_of = BRI
 		1939.1.1 = {
 			buildings = {
-				dockyard = 5
-				industrial_complex = 2
+				 = 5
+				 = 2
 			}
 		}
 	}

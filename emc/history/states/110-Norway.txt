@@ -16,13 +16,13 @@ state={
 		owner = NUL
 		buildings = {
 			infrastructure = 6
-			arms_factory = 2
-			industrial_complex = 3
-			dockyard = 1
-			air_base = 4
+			 = 2
+			 = 3
+			 = 1
+			 = 4
 			6115 = {
-				naval_base = 6
-				coastal_bunker = 3
+				 = 6
+				coastal_ = 3
 			}
 		}
 		add_core_of = NUL

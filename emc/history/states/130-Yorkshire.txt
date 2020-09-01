@@ -21,18 +21,18 @@ state={
 		}
 		buildings = {
 			infrastructure = 7
-			arms_factory = 2
-			industrial_complex = 3
-			air_base = 10
+			 = 2
+			 = 3
+			 = 10
 			11297 = {
-				naval_base = 5
+				 = 5
 			}
 		}
 		add_core_of = NUL
 		1939.1.1 = {
 			buildings = {
-				arms_factory = 3
-				industrial_complex = 4
+				 = 3
+				 = 4
 			}
 		}
 	}
