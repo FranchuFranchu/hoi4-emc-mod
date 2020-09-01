@@ -14,13 +14,13 @@ state={
 		owner = DEN
 		buildings = {
 			infrastructure = 6
-			fuel_silo = 1
+			food_storage_unit = 1
 		}
 		add_core_of = DEN
 
 		1939.1.1 = {
 			buildings = {
-				air_base = 8
+				 = 8
 			}
 		}
 	}

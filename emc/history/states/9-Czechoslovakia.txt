@@ -14,10 +14,10 @@ state={
 		#victory_points = { 9541 3 }
 		buildings = {
 			infrastructure = 7
-			arms_factory = 6
-			industrial_complex = 1
-			anti_air_building = 5
-			air_base = 5
+			 = 6
+			 = 1
+			 = 5
+			 = 5
 		}
 		add_core_of = NUL
 

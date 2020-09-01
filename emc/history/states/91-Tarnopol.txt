@@ -15,8 +15,8 @@ state={
 		#}
 		buildings = {
 			infrastructure = 6
-			industrial_complex = 3
-			air_base = 5
+			 = 3
+			 = 5
 		}
 		add_core_of = NUL
 		add_core_of = NUL

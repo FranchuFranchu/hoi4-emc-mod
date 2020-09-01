@@ -14,16 +14,16 @@ state={
 		}
 		buildings = {
 			infrastructure = 7
-			arms_factory = 1
-			industrial_complex = 2
-			air_base = 4
+			 = 1
+			 = 2
+			 = 4
 		}
 		add_core_of = NUL
 		add_core_of = NUL
 		1939.1.1 = {
 			buildings = {
-				arms_factory = 2
-				industrial_complex = 3
+				 = 2
+				 = 3
 			}
 		}
 	}
