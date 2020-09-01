@@ -8,7 +8,14 @@ state={
 
     history={
         owner = PLA
-        add_core_of = PLA
+        buildings = {
+            infrastructure = 3
+            clay_mine = 1
+           
+            
+            
+        }
+		add_core_of = PLA
         add_core_of = ARG
 
     }
