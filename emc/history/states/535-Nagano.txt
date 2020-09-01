@@ -5,21 +5,18 @@ state={
 	manpower = 3871000
 	state_category = large_city
 	
-	resources={
-		steel=27 # was: 35
-		tungsten=8 # was: 10
-	}
+	 
 
 	history={
 		owner = NUL
 		add_core_of = NUL
 		buildings = {
 		
-			arms_factory = 1
-			industrial_complex = 2
+			 = 1
+			 = 2
 			infrastructure = 3
-			dockyard = 1
-			fuel_silo = 1
+			 = 1
+			food_storage_unit = 1
 
 		}
 		

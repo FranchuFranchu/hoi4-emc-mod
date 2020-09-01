@@ -1,16 +1,14 @@
 state={
 	id=540
 	name="STATE_540"
-	resources={
-		rubber=1.000
-	}
+	 
 
 	history={
 		owner = NUL
 		buildings = {
 			infrastructure = 1
 			8248 = {
-				naval_base = 1
+				 = 1
 			}
 		}
 		victory_points = {

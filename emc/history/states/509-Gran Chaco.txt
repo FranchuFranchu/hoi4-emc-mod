@@ -6,16 +6,13 @@ state={
 	
 	state_category = town
 	
-	resources={
-		tungsten=35 # was: 46
-		steel=6 # was: 8
-	}
+	 
 
 	history={
 		owner = PLA
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
+			 = 1
 		}
 		add_core_of = PLA
         add_core_of = ARG

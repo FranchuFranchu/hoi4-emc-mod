@@ -8,17 +8,15 @@ state={
 	state_category = wasteland
 	
 	
-	resources={
-		steel=22 # was: 28
-	}
+	 
 
 	history={
 		owner = NUL
 		buildings = {
 			infrastructure = 3
-			air_base = 1
+			 = 1
 			7669 = {
-				naval_base = 1
+				 = 1
 			}
 		}
 		victory_points = {

@@ -10,8 +10,8 @@ state={
         owner = PLA
         buildings = {
             infrastructure = 3
+            clay_mine = 1
             industrial_complex = 2
-            air_base = 1
             12994 = {
                 naval_base = 1
             }

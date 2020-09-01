@@ -5,18 +5,16 @@ state={
 	manpower = 19757000
 	
 	state_category = rural
-	resources={
-		rubber=2 # was: 3
-	}
+	 
 	history={
 		owner = NUL
 		add_core_of = NUL
 		buildings = {
 			infrastructure = 3
-			arms_factory = 0
-			industrial_complex = 1
+			 = 0
+			 = 1
 			2050 = {
-				naval_base = 3
+				 = 3
 			}
 		}
 		victory_points = {

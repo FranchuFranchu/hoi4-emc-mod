@@ -10,10 +10,10 @@ state=
 		add_core_of = NUL
 		buildings = {
 			infrastructure = 3
-			air_base = 3
+			 = 3
 			
-			arms_factory = 1
-			industrial_complex = 2
+			 = 1
+			 = 2
 
 		}
 		
