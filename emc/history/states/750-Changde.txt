@@ -13,19 +13,19 @@ state={
 		add_core_of = NUL
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 2
-			arms_factory = 1
-			air_base = 2
+			 = 2
+			 = 1
+			 = 2
 		}
 		victory_points = {
 			7101 10 
 		}
 		1939.1.1 = {
 			buildings = {
-				industrial_complex = 2
+				 = 2
 				infrastructure = 6
-				air_base = 3
-				arms_factory = 1
+				 = 3
+				 = 1
 
 			}
 

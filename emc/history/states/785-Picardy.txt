@@ -4,10 +4,7 @@ state={
 	manpower = 1580000
 	
 	state_category = town
-	resources={
-		steel=20 # was: 112
-		aluminium=4 # was: 22
-	}
+	 
 	
 	history={
 		victory_points = {
@@ -17,7 +14,7 @@ state={
 		add_core_of = NUL
 		buildings = {
 			infrastructure = 8
-			industrial_complex = 1
+			 = 1
 		}
 	}
 
