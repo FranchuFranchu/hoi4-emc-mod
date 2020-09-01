@@ -1,10 +1,7 @@
 state={
 	id=261
 	name="STATE_261"
-	resources={
-		steel=28 # was: 48.000
-		aluminium=9 # was: 16.000
-	}
+	 
 	
 	state_category = metropolis
 
@@ -12,8 +9,8 @@ state={
 		owner = NUL
 		buildings = {
 			infrastructure = 7
-			arms_factory = 1
-			industrial_complex = 6
+			 = 1
+			 = 6
 
 		}
 		add_core_of = NUL
@@ -25,7 +22,7 @@ state={
 		}
 		1939.1.1 = {
 			buildings = {
-				industrial_complex = 7
+				 = 7
 
 			}
 

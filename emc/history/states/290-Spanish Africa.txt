@@ -7,9 +7,7 @@ state={
 	
 	state_category = rural
 	
-	resources={
-		steel=23 # was: 20 . Changed to 23 (from 15) due to Portugal Setup
-	}
+
 
 	history={
 		owner = NUL
@@ -19,12 +17,12 @@ state={
 		}
 		buildings = {
 			infrastructure = 3
-			air_base = 3
+			 = 3
 			12100 = {
-				naval_base = 3
+				 = 3
 			}
 			9945 = {
-				naval_base = 3
+				 = 3
 			}
 		}
 	}

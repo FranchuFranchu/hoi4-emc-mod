@@ -6,17 +6,14 @@ state={
 	
 	state_category = city
 
-	resources={
-		steel=6 #was 2 before Mexican steel production was centralized to allow oil concessions
-	}
-	
+	 
 	history={
 		owner = NUL
 		buildings = {
 			infrastructure = 5
-			arms_factory = 2
-			industrial_complex = 4
-			air_base = 3
+			 = 2
+			 = 4
+			 = 3
 		}
 		add_core_of = NUL
 		victory_points = {

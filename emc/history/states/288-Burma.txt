@@ -6,10 +6,7 @@ state={
 	
 	state_category = town
 	
-	resources={
-		rubber=3 # was: 4
-		tungsten = 92
-	}
+	
 
 	history={
 		add_core_of = NUL
@@ -19,10 +16,10 @@ state={
 		}
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 1
-			air_base = 1
+			 = 1
+			 = 1
 			1330 = {
-				naval_base = 4
+				 = 4
 			}
 		}
 
