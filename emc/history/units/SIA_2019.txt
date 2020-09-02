@@ -1,0 +1,55 @@
+division_template = {
+    name = "Infantry Division"     # Infantry Division
+    division_names_group = SIAM_INF_02
+
+    regiments = {
+        armored_sword_unit = { x = 0 y = 0 }
+        armored_sword_unit = { x = 0 y = 1 }
+        armored_sword_unit = { x = 0 y = 2 }
+        armored_sword_unit = { x = 1 y = 0 }
+        armored_sword_unit = { x = 1 y = 1 }
+        armored_sword_unit = { x = 1 y = 2 }
+        armored_sword_unit = { x = 2 y = 0 }
+        armored_sword_unit = { x = 2 y = 1 }
+        armored_sword_unit = { x = 2 y = 2 }
+    }
+}
+units = {
+    
+
+    division= {
+        division_name = {
+            is_name_ordered = yes
+            name_order = 1
+        }
+        location = 7408 # Bangkok
+        division_template = "Infantry Division"
+        start_experience_factor = 0.1
+        start_equipment_factor = 0.5
+
+    }
+
+    division= {
+        division_name = {
+            is_name_ordered = yes
+            name_order = 2
+        }
+        location = 7408 
+        division_template = "Infantry Division"
+        start_experience_factor = 0.1
+        start_equipment_factor = 0.5
+
+    }
+    division= {
+        division_name = {
+            is_name_ordered = yes
+            name_order = 3
+        }
+        location = 7408
+        division_template = "Infantry Division"
+        start_experience_factor = 0.1
+        start_equipment_factor = 0.5
+
+    }
+   
+}
