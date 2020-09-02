@@ -2,14 +2,14 @@
 state={
 	id=336
 	name="STATE_336"
-	manpower = 2893200
+	manpower = 200000
 	
 	state_category = large_town
 	
 	 
 
 	history={
-		owner = NUL
+		owner = SIA
 		victory_points = {
 			12299 10
 		}
@@ -21,20 +21,11 @@ state={
 		}
 		buildings = {
 			infrastructure = 3
-			 = 1
-			 = 6
-			12299 = {
-				 = 8
-				coastal_ = 3
-			}
-			7329 = {
-				 = 1
-			}
-			10297 = {
-				 = 5
-			}
+			farm = 1
+			
+			
 		}
-		add_core_of = NUL
+		add_core_of = SIA
 	}
 
 	provinces={
