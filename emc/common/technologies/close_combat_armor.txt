@@ -76,7 +76,7 @@ technologies = {
         
         path = {
             research_cost_coeff = 1
-            leads_to_tech = close_combat_armor_3
+            leads_to_tech = close_combat_armor_4
         }       
 
         research_cost = 1
@@ -94,6 +94,131 @@ technologies = {
             factor = 1
         }
     }
+	close_combat_armor_4 = {
+
+        enable_equipments = {
+            armor_equipment_4
+        }
+        allow = {
+            always = yes
+        }
+        enable_subunits = {
+        }
+        
+        path = {
+            research_cost_coeff = 1
+            leads_to_tech = close_combat_armor_5
+        }       
+
+        research_cost = 1
+        start_year = 2019.2
+        folder = {
+            name = close_combat_folder
+            position = { x = 12 y = 2 }
+        }
+        
+        categories = {
+            close_combat_armor
+        }
+        
+        ai_will_do = {
+            factor = 1
+        }
+    }
+	close_combat_armor_5 = {
+
+        enable_equipments = {
+            armor_equipment_5
+        }
+        allow = {
+            always = yes
+        }
+        enable_subunits = {
+        }
+        
+        path = {
+            research_cost_coeff = 1
+            leads_to_tech = close_combat_armor_6
+        }       
+
+        research_cost = 1
+        start_year = 2019.2
+        folder = {
+            name = close_combat_folder
+            position = { x = 16 y = 2 }
+        }
+        
+        categories = {
+            close_combat_armor
+        }
+        
+        ai_will_do = {
+            factor = 1
+        }
+    }
+	close_combat_armor_6 = {
+
+        enable_equipments = {
+            armor_equipment_6
+        }
+        allow = {
+            always = yes
+        }
+        enable_subunits = {
+        }
+        
+        path = {
+            research_cost_coeff = 1
+            leads_to_tech = close_combat_armor_7
+        }       
+
+        research_cost = 1
+        start_year = 2019.2
+        folder = {
+            name = close_combat_folder
+            position = { x = 20 y = 2 }
+        }
+        
+        categories = {
+            close_combat_armor
+        }
+        
+        ai_will_do = {
+            factor = 1
+        }
+    }
+	close_combat_armor_7 = {
+
+        enable_equipments = {
+            armor_equipment_7
+        }
+        allow = {
+            always = yes
+        }
+        enable_subunits = {
+        }
+        
+        path = {
+            research_cost_coeff = 1
+            leads_to_tech = close_combat_armor_3
+        }       
+
+        research_cost = 1
+        start_year = 2019.2
+        folder = {
+            name = close_combat_folder
+            position = { x = 24 y = 2 }
+        }
+        
+        categories = {
+            close_combat_armor
+        }
+        
+        ai_will_do = {
+            factor = 1
+        }
+    }
+	
     close_combat_armor_3 = {
 
         enable_equipments = {
@@ -107,13 +232,138 @@ technologies = {
         
         path = {
             research_cost_coeff = 1
+			leads_to_tech = close_combat_armor_8
         }       
 
         research_cost = 1
         start_year = 2020.6
         folder = {
             name = close_combat_folder
+            position = { x = 28 y = 2 }
+        }
+        
+        categories = {
+            close_combat_armor
+        }
+        
+        ai_will_do = {
+            factor = 1
+        }
+    }
+	close_combat_armor_8 = {
+
+        enable_equipments = {
+            armor_equipment_8
+        }
+        allow = {
+            always = yes
+        }
+        enable_subunits = {
+        }
+        
+        path = {
+            research_cost_coeff = 1
+            leads_to_tech = close_combat_armor_9
+        }       
+
+        research_cost = 1
+        start_year = 2019.2
+        folder = {
+            name = close_combat_folder
+            position = { x = 32 y = 2 }
+        }
+        
+        categories = {
+            close_combat_armor
+        }
+        
+        ai_will_do = {
+            factor = 1
+        }
+    }
+	close_combat_armor_9 = {
+
+        enable_equipments = {
+            armor_equipment_9
+        }
+        allow = {
+            always = yes
+        }
+        enable_subunits = {
+        }
+        
+        path = {
+            research_cost_coeff = 1
+            leads_to_tech = close_combat_armor_10
+        }       
+
+        research_cost = 1
+        start_year = 2019.2
+        folder = {
+            name = close_combat_folder
+            position = { x = 36 y = 2 }
+        }
+        
+        categories = {
+            close_combat_armor
+        }
+        
+        ai_will_do = {
+            factor = 1
+        }
+    }
+	close_combat_armor_10 = {
+
+        enable_equipments = {
+            armor_equipment_10
+        }
+        allow = {
+            always = yes
+        }
+        enable_subunits = {
+        }
+        
+        path = {
+            research_cost_coeff = 1
+            leads_to_tech = close_combat_armor_11
+        }       
+
+        research_cost = 1
+        start_year = 2019.2
+        folder = {
+            name = close_combat_folder
             position = { x = 40 y = 2 }
+        }
+        
+        categories = {
+            close_combat_armor
+        }
+        
+        ai_will_do = {
+            factor = 1
+        }
+    }
+	close_combat_armor_11 = {
+
+        enable_equipments = {
+            armor_equipment_11
+        }
+        allow = {
+            always = yes
+        }
+        enable_subunits = {
+        }
+        
+        path = {
+            research_cost_coeff = 1
+
+        }       
+
+        research_cost = 1
+        start_year = 2019.2
+        folder = {
+            name = close_combat_folder
+            position = { x = 44 y = 2 }
         }
         
         categories = {
