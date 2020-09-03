@@ -6,9 +6,7 @@ state={
 	
 	state_category = town
 	
-	resources={
-		steel=30 # was: 48
-	}
+	 
 
 	history={
 		owner = NUL
@@ -17,9 +15,9 @@ state={
 		}
 		buildings = {
 			infrastructure = 6
-			industrial_complex = 1
+			 = 1
 			6657 = {
-				naval_base = 3
+				 = 3
 			}
 		}
 		add_core_of = NUL

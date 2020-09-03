@@ -4,10 +4,7 @@ state={
 	name="STATE_213"
 	manpower = 275751
 	state_category = rural
-	resources={
-		steel=14 # was: 28
-		chromium=12 # was: 24
-	}
+	 
 
 	history={
 		owner = NUL
@@ -16,10 +13,10 @@ state={
 		}
 		buildings = {
 			infrastructure = 2
-			air_base = 2
+			 = 2
 			3134 = {
-				naval_base = 4
-				coastal_bunker = 1
+				 = 4
+				coastal_ = 1
 			}
 		}
 		add_core_of = NUL

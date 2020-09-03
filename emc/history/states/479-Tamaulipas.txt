@@ -6,16 +6,13 @@ state={
 	
 	state_category = town
 
-	resources={
-		oil=9
-		#steel=2 moved to Guerrero
-	}
+	 
 	
 	history={
 		owner = NUL
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
+			 = 1
 		}
 		add_core_of = NUL
 		victory_points = {

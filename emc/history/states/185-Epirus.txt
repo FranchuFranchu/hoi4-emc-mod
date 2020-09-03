@@ -6,10 +6,7 @@ state={
 	
 	state_category = town
 	
-	resources={
-		chromium=14 # was: 20
-		steel = 14 # was: 20
-	}
+	 
 
 	history={
 		victory_points = {
@@ -24,9 +21,9 @@ state={
 		owner = NUL
 		buildings = {
 			infrastructure = 4
-			air_base = 3
+			 = 3
 			9805 = {
-				naval_base = 1
+				 = 1
 			}
 		}
 		add_core_of = NUL

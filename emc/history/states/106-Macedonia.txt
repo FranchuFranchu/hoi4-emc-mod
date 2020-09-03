@@ -1,17 +1,14 @@
 state={
 	id=106
 	name="STATE_106"
-	resources={
-		chromium=70.000
-		aluminium=16.000
-	}
+	 
 
 	history={
 		owner = NUL
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 1
-			air_base = 2
+			 = 1
+			 = 2
 
 		}
 		victory_points = {

@@ -12,11 +12,11 @@ state={
 		}
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 2
-			air_base = 3
+			 = 2
+			 = 3
 			3653 = {
-				naval_base = 2
-				coastal_bunker = 1
+				 = 2
+				coastal_ = 1
 
 			}
 
@@ -25,7 +25,7 @@ state={
 		add_core_of = NUL
 		1939.1.1 = {
 			buildings = {
-				industrial_complex = 3
+				 = 3
 
 			}
 

@@ -1,9 +1,7 @@
 state={
 	id=795
 	name="STATE_795"
-	resources={
-		chromium=20.000 #added due to portugal setup
-	}
+	 
 	history={
 		owner = NUL
 		victory_points = {
@@ -14,7 +12,7 @@ state={
 		}
 		buildings = {
 			infrastructure = 6
-			industrial_complex = 2
+			 = 2
 
 		}
 		add_core_of = NUL

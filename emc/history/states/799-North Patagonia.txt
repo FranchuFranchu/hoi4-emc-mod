@@ -6,17 +6,15 @@ state={
     
     state_category = rural
     
-    resources={
-        oil=5 # was: 6
-    }
+     
 
     history={
         owner = UTF
         buildings = {
             infrastructure = 3
-            arms_factory = 4
+             = 4
             10953 = {
-                naval_base = 1
+                 = 1
             }
         }
         add_core_of = UTF

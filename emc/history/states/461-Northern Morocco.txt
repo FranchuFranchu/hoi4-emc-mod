@@ -2,9 +2,7 @@
 state={
 	id=461
 	name="STATE_461"
-	resources={
-		chromium=12.000 #added due to portugal setup
-	}
+	 
 
 	manpower = 3197719
 	
@@ -18,10 +16,10 @@ state={
 		}
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
-			air_base = 4
+			 = 1
+			 = 4
 			7069 = {
-				naval_base = 4
+				 = 4
 			}
 		}
 	}

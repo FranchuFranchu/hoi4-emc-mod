@@ -6,9 +6,7 @@ state={
 	
 	state_category = rural
 	
-	resources={
-		chromium=15 # was: 22
-	}
+	 
 
 	history={
 		victory_points = {
@@ -17,7 +15,7 @@ state={
 		owner = NUL
 		buildings = {
 			infrastructure = 5
-			air_base = 3
+			 = 3
 		}
 		add_core_of = NUL
 		add_core_of = NUL

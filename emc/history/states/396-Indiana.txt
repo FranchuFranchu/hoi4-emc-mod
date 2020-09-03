@@ -9,7 +9,7 @@ state={
 		owner = NUL
 		buildings = {
 			infrastructure = 6
-			industrial_complex = 5
+			 = 5
 		}
 		add_core_of = NUL
 		victory_points = {

@@ -11,12 +11,12 @@ state={
 		add_core_of = NUL
 		buildings = {
 			infrastructure = 6
-			arms_factory = 2
-			industrial_complex = 4
-			dockyard = 2
-			air_base = 7
+			 = 2
+			 = 4
+			 = 2
+			 = 7
 			10980 = {
-				naval_base = 7
+				 = 7
 			}
 		}
 		victory_points = {

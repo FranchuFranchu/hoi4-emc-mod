@@ -17,11 +17,11 @@ state={
 		}
 		buildings = {
 			infrastructure = 6
-			dockyard = 2
-			arms_factory = 1
-			air_base = 2
+			 = 2
+			 = 1
+			 = 2
 			758 = {
-				naval_base = 6
+				 = 6
 			}
 		}
 		add_core_of = NUL

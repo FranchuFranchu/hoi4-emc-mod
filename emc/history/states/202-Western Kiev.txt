@@ -3,10 +3,7 @@ state={
 	id=202
 	name="STATE_202"
 	manpower = 2495352
-	resources={
-		oil=8 # was: 14
-		aluminium=7 # was: 12
-	}
+	 
 	
 	state_category = city
 
@@ -17,17 +14,17 @@ state={
 		}
 		buildings = {
 			infrastructure = 7
-			arms_factory = 2
-			industrial_complex = 3
-			fuel_silo = 1
-			air_base = 8
+			 = 2
+			 = 3
+			food_storage_unit = 1
+			 = 8
 		}
 		add_core_of = NUL
 		add_core_of = NUL
 		1939.1.1 = {
 			buildings = {
-				arms_factory = 3
-				industrial_complex = 3
+				 = 3
+				 = 3
 			}
 		}
 	}

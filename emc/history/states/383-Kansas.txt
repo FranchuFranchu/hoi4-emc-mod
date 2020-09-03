@@ -3,9 +3,7 @@ state={
 	id=383
 	name="STATE_383"
 	manpower = 1880998
-	resources={
-		oil=30 # was: 42
-	}
+	 
 	
 	state_category = city
 
@@ -13,13 +11,13 @@ state={
 		owner = NUL
 		buildings = {
 			infrastructure = 4
-			arms_factory = 1
-			industrial_complex = 1
+			 = 1
+			 = 1
 		}
 		add_core_of = NUL
 		1939.1.1 = {
 			buildings = {
-				arms_factory = 2
+				 = 2
 			}
 		}
 		victory_points = {

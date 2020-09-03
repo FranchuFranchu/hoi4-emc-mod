@@ -5,18 +5,14 @@ state={
 	manpower = 1951460
 	
 	state_category = town
-	
-	resources={
-		oil=9
-	}
-
+	 
 	history={
 		owner = NUL
 		buildings = {
 			infrastructure = 4
-			dockyard = 1
+			 = 1
 			12810 = {
-				naval_base = 3
+				 = 3
 			}
 		}
 		add_core_of = NUL

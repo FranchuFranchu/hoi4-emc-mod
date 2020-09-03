@@ -1,24 +1,25 @@
 state={
 	id=724
 	name="STATE_724"
-	manpower = 2041700
+	manpower = 200000
 	
-	state_category = rural
+	state_category = city
 	
-	resources={
-		rubber=40 # was: 70
-	}
+	 
 
 
 	history={
-		owner = NUL
+		owner = SIA
 		buildings = {
-			infrastructure = 3
+			infrastructure = 5
+			clay_mine = 1
+			industrial_complex = 2
+			
 		}
 		victory_points = {
 			7236 1 
 		}
-		add_core_of = NUL
+		add_core_of = SIA
 	}
 	
 	provinces={

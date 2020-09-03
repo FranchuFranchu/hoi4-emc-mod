@@ -3,9 +3,7 @@ state={
 	id=49
 	name="STATE_49" # Ankara
 	manpower = 770758
-	resources={
-		chromium=11 # was: 16
-	}
+	 
 	
 	state_category = town
 
@@ -19,9 +17,9 @@ state={
 		}
 		buildings = {
 			infrastructure = 4
-			arms_factory = 2
-			industrial_complex = 2
-			air_base = 3
+			 = 2
+			 = 2
+			 = 3
 		}
 		add_core_of = NUL
 	}

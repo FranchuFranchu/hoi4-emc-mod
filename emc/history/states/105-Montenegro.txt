@@ -1,10 +1,7 @@
 state={
 	id=105
 	name="STATE_105"
-	resources={
-		chromium=20.000
-		aluminium=70.000
-	}
+	 
 
 	history={
 		victory_points = {
@@ -14,9 +11,9 @@ state={
 		add_core_of = NUL
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
+			 = 1
 			9809 = {
-				naval_base = 1
+				 = 1
 
 			}
 

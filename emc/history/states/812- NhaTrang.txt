@@ -1,0 +1,28 @@
+state={
+	id=812
+	name="STATE_812"
+	manpower = 30
+	
+	state_category = rural
+	
+	
+
+	history={
+		owner = VIN
+		buildings = {
+			infrastructure = 3
+			
+			
+		}
+		victory_points = {
+			4334 1
+		}
+		
+		add_core_of = VIN
+		
+	}
+
+	provinces={
+		4334 4405 7380
+	}
+}

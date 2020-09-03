@@ -1,0 +1,30 @@
+state={
+	id=808
+	name="STATE_808"
+	manpower = 100000
+	
+	state_category = rural
+	
+	
+
+	history={
+		owner = SIA
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			
+			
+		}
+		victory_points = {
+			1330 10 
+		}
+		
+		add_core_of = SIA
+
+	}
+
+	provinces={
+		10217 4275 1296 12292 1385 1315 7295 12125 4408 1403 4336 4293 12127 1330 10154 1417 7441 
+	}
+}

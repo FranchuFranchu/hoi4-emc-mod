@@ -6,21 +6,19 @@ state={
 	
 	state_category = megalopolis
 	
-	resources={
-		aluminium=1 # was: 2
-	}
+	 
 
 	history={
 		owner = NUL
 		add_core_of = NUL
 		buildings = {
 			infrastructure = 8
-			air_base = 6
-			industrial_complex = 5
-			arms_factory = 2
-			dockyard = 4
+			 = 6
+			 = 5
+			 = 2
+			 = 4
 			9998 = {
-				naval_base = 6
+				 = 6
 
 			}
 
@@ -30,9 +28,9 @@ state={
 		}
 		1939.1.1 = {
 			buildings = {
-				arms_factory = 4
-				dockyard = 4
-				industrial_complex = 6
+				 = 4
+				 = 4
+				 = 6
 			}
 		}
 

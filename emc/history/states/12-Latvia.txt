@@ -3,9 +3,7 @@ state={
 	id=12
 	name="STATE_12"
 	manpower = 1520500
-	resources={
-		steel=1 # was: 2
-	}
+	 
 	
 	state_category = city
 	
@@ -19,14 +17,14 @@ state={
 		}
 		buildings = {
 			infrastructure = 5
-			arms_factory = 1
-			industrial_complex = 4
-			air_base = 3
+			 = 1
+			 = 4
+			 = 3
 			9340 = {
-				naval_base = 3
+				 = 3
 			}
 			310 = {
-				bunker = 2
+				 = 2
 			}
 		}
 		add_core_of = NUL

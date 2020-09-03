@@ -10,7 +10,7 @@ state={
 		owner = PLA
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
+			gravel_mine = 1
 		}
 		add_core_of = PLA
         add_core_of = ARG

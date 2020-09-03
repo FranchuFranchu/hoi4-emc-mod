@@ -1,9 +1,7 @@
 state={
 	id=325
 	name="STATE_325"
-	resources={
-		tungsten=2.000
-	}
+	 
 
 	history={
 		owner = NUL
@@ -15,8 +13,8 @@ state={
 		}
 		buildings = {
 			infrastructure = 3
-			arms_factory = 1
-			industrial_complex = 3
+			 = 1
+			 = 3
 
 		}
 		1938.10.25 = {

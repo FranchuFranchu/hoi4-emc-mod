@@ -1,21 +1,17 @@
 state={
 	id=672
 	name="STATE_672"
-	manpower = 8254900
+	manpower = 6500000
 	
-	state_category = town
+	state_category = large_city
 	
-	resources={
-		rubber=150 # was: 268
-		oil=12 # was: 24
-		aluminium=28 # was: 50
-	}
+	 
 
 
 	history=
 	{
-		owner = NUL
-		add_core_of = NUL
+		owner = MAL
+		add_core_of = MAL
 		victory_points = {
 			4652 1 
 		}
@@ -25,9 +21,12 @@ state={
 		}
 
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 1
-			air_base = 1
+			infrastructure = 6
+			clay_mine = 3
+			mine = 1
+			farm = 1
+			industrial_complex = 6
+			arms_factory = 4
 			4652 = {
 				naval_base = 3
 			}

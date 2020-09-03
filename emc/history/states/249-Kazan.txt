@@ -5,15 +5,13 @@ state={
 	manpower = 2761291
 	
 	state_category = town
-	resources={
-		steel=25 # was: 40
-	}
+	 
 
 	history={
 		owner = NUL
 		buildings = {
 			infrastructure = 6
-			arms_factory = 1
+			 = 1
 		}
 		victory_points = {
 			6338 10
@@ -21,7 +19,7 @@ state={
 		add_core_of = NUL
 		1939.1.1 = {
 			buildings = {
-				arms_factory = 2
+				 = 2
 			}
 		}
 	}

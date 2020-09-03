@@ -10,9 +10,9 @@ state=
 		add_core_of = NUL
 		buildings = {
 			infrastructure = 3
-			air_base = 1
+			 = 1
 			13026 = {
-				naval_base = 1
+				 = 1
 			}
 		}
 

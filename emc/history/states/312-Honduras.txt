@@ -3,9 +3,7 @@ state=
 	id=312
 	name="STATE_312"
 	manpower=859761
-	resources={
-		chromium=1 # was: 1
-	}
+ 
 	
 	state_category = town
 	history=
@@ -13,14 +11,14 @@ state=
 		owner = YUC
 		buildings = {
 			infrastructure = 4
-			arms_factory = 1
-			industrial_complex = 2 
-			air_base = 1
+			 = 1
+			 = 2 
+			 = 1
 			12865 = {
-				naval_base = 1
+				 = 1
 			}
 			8017 = {
-				naval_base = 1
+				 = 1
 			}
 		}
 		add_core_of = YUC
