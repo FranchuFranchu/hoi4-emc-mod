@@ -111,3 +111,7 @@ MAL = {
   color = rgb { 107 31 110 }
   color_ui = rgb { 150 18 18 }
 }
+INO = {
+color = rgb { 150 18 18 }
+color_ui = rgb { 150 18 18 }
+}
