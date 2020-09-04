@@ -1,0 +1,17 @@
+
+scripted_gui = {
+    gold_information = {
+        context_type = player_context
+        
+        window_name = "gold_information_container"
+        
+        visible = {
+            always = yes
+        }
+
+        effects = {
+            
+        }
+
+    }
+}

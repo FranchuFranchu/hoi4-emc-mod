@@ -1,0 +1,7 @@
+spriteTypes = {
+    spriteType = {
+        name = "GFX_gold_icon"
+        texturefile = "gfx/interface/gold_icon.dds"
+        noOfFrames = 1
+    }
+}

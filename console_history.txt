@@ -1,0 +1,8 @@
+reload topbar.gui
+reload loc
+reload topbar.gui
+reload loc
+reload lo
+reload loc
+get_var 506
+get_var 506.invested_factories

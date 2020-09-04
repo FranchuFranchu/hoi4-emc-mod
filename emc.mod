@@ -1,9 +1,9 @@
 version="v0.1"
 tags={
-	"Gameplay"
-	"Events"
-	"National Focuses"
-	"Alternative History"
+    "Gameplay"
+    "Events"
+    "National Focuses"
+    "Alternative History"
 }
 name="emc"
 replace_path="common/ai_equipment"

@@ -1,40 +1,33 @@
 guiTypes = {
-
-
 	containerWindowType = {
-		name = "ps_system_container"
+		name = "gold_information_container"
 		position = { x=-4 y=-1 }
 		size = { width=100%% height=100%% }
 
 		iconType ={
-			name ="pol_stability_value_bg"
-			spriteType = "GFX_generic_box_smallest"
-			position = { x = 173 y = 5 }
+			name ="gold_value_bg"
+			spriteType = "GFX_generic_box_80"
+			position = { x=491 y=5 }
+			orientation = "UPPER_LEFT"
+		}
+			
+		iconType = {
+			name ="gold_icon"
+			spriteType = "GFX_gold_icon"
+			position = { x= 495 y = 5 }
 			Orientation = "UPPER_LEFT"
 		}
-
-		iconType ={
-			name ="pol_stability_icon"
-			spriteType = "GFX_pol_stab_1"
-			position = { x= 175 y = 3 }
-			Orientation = "UPPER_LEFT"
-
-			pdx_tooltip = PS_tooltip
-			pdx_tooltip_delayed = PS_tooltip_delayed
-		}
-
 		instantTextBoxType = {
-			name ="pol_stability"
-			position = { x= 194 y = 9 }
+			name ="gold_value"
+			position = { x= 500 y = 9 }
 			font = "hoi_18mbs"
-			text = "[?ROOT.pol_stability]"
+			text = GOLD_VALUE
 			format = center
-			maxWidth = 52
-			maxHeight = 24
+			maxWidth = 80
+			maxHeight = 26
 			fixedsize = yes
-
-			pdx_tooltip = PS_tooltip
-			pdx_tooltip_delayed = PS_tooltip_delayed
+			pdx_tooltip = GOLD_TOOLTIP
+			pdx_tooltip_delayed = GOLD_TOOLTIP_DELAYED
 		}
 	}
 	containerWindowType = {
@@ -393,38 +386,7 @@ guiTypes = {
 #			fixedsize = yes
 		}
 			
-		iconType ={
-			name ="fuel_value_bg"
-			spriteType = "GFX_generic_box_80"
-			position = { x=491 y=5 }
-			Orientation = "UPPER_LEFT"
-		}
 		
-		iconType = {
-			name ="fuel_icon"
-			spriteType = "GFX_fuel_state"
-			position = { x= 490 y = 6 }
-			Orientation = "UPPER_LEFT"
-		}		
-		
-		instantTextBoxType = {
-			name ="fuel_value"
-			position = { x= 513 y = 4 }
-			font = "hoi_18mbs"
-			text = "999"
-			format = center
-			maxWidth = 59
-			maxHeight = 24
-			fixedsize = yes
-		}
-		
-		iconType = {
-			name ="fuel_ratio_bar"
-			spriteType = "GFX_topbar_fuel_bar"
-			position = { x= 514 y = 20 }
-			frame = 50
-			alwaystransparent = yes
-		}
 		
 		iconType ={
 			name ="nuke_text_bg"
