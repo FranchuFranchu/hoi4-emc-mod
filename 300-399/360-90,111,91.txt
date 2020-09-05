@@ -1,0 +1,22 @@
+state={
+	id=360
+	name="STATE_360" # 
+	manpower = 
+
+	state_category = 
+
+	history={
+		owner = 
+		victory_points = { }
+		buildings = {
+			infrastructure =
+			industrial_complex =
+			arms_factory =
+			dockyard =
+		}
+		add_core_of =
+	}
+	provinces={
+		10220 10277 7337 4227 12177 7392 10275 1312 7354 1382 4374 4595 7600 4300 7243 10452 10508 12487 4492 7657 12329 12385 7597 7556 10506 12658 4773 10603 12583 7706 10408 1825 
+	}
+}
