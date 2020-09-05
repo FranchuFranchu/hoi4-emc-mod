@@ -1,0 +1,10 @@
+Nubia = NUB
+Ethiopia = ETH
+Somalia = SML
+Egypt = EGY
+Aegyptus = AEG
+Ancient Egypt = AEG
+Yemen = YMN
+Oman = OMN
+Saudi Arabia = SAR
+SPQR = BYZ

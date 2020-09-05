@@ -1,0 +1,22 @@
+state={
+	id=745
+	name="STATE_745" # 
+	manpower = 
+
+	state_category = 
+
+	history={
+		owner = 
+		victory_points = { }
+		buildings = {
+			infrastructure =
+			industrial_complex =
+			arms_factory =
+			dockyard =
+		}
+		add_core_of =
+	}
+	provinces={
+		7016 993 4100 4188 4184 
+	}
+}
