@@ -1,1 +1,0 @@
-UTF = "countries/United Tierra Del Fuego.txt"

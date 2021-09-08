@@ -1,1 +1,0 @@
-SIA = "countries/Siam.txt"

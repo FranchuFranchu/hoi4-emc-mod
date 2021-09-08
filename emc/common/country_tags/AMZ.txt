@@ -1,1 +1,0 @@
-AMZ = "countries/Amazon.txt"

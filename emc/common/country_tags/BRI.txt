@@ -1,1 +1,0 @@
-BRI = "countries/Britain.txt"

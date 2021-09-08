@@ -1,1 +1,0 @@
-VIN = "countries/Vietnam.txt"
