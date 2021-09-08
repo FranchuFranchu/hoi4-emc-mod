@@ -1,0 +1,34 @@
+
+state={
+    id=812
+    name="Buenos Aires"
+    manpower = 15596366
+    
+    state_category = large_city
+
+    history={
+        owner = PLA
+        buildings = {
+            infrastructure = 6
+             arms_factory = 2
+             industrial_complex = 6
+             mine = 4
+             grinder = 1
+			 dockyard = 2
+            12364 = {
+                naval_base = 10
+                bunker = 1
+                coastal_bunker = 1
+            }
+        }
+        add_core_of = PLA
+        victory_points = {
+            12364 10 
+        }
+
+    }
+
+    provinces={
+        12364 13306 13305 13303 13304 13307 13301 13302 13300 12379
+    }
+}
