@@ -1,0 +1,7 @@
+strategic_region={
+	id=11
+	name="STRATEGICREGION_11"
+	provinces={
+		150 151 152 153 154 155 156 157 158 159 160 161 162 163
+	}
+}

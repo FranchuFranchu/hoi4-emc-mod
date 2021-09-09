@@ -1,0 +1,7 @@
+strategic_region={
+	id=2
+	name="STRATEGICREGION_2"
+	provinces={
+		13 14 15 16 17 18 19 20 21 22 23 24 25 26
+	}
+}
