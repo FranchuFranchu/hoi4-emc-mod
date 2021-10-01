@@ -59,3 +59,46 @@ set_popularities = {
     communism = 0
     neutrality = 20
 }
+
+create_country_leader = {
+    name = "Cactusinapumkin"
+    desc = "POLITICS_ARTURO_ALESSANDRI_DESC"
+    picture = "gfx/portraits/Ferrarinu.dds"
+    expire = "1965.1.1"
+    ideology = liberalism
+    traits = {
+        #
+    }
+}
+create_country_leader = {
+    name = "Trajan"
+    desc = "POLITICS_JORGE_GONZÁLEZ_VON_MARÉES_DESC"
+    picture = "gfx/portraits/mikolllaj60.dds"
+    expire = "1965.1.1"
+    ideology = nazism
+    traits = {
+        #
+    }
+}
+
+create_country_leader = {
+    name = "Kaze"
+    desc = "POLITICS_CARLOS_CONTRERAS_LABARCA_DESC"
+    picture = "gfx/leaders/South America/Portrait_South_America_Generic_navy_1.dds"
+    expire = "1965.1.1"
+    ideology = marxism
+    traits = {
+        #
+    }
+}
+
+create_corps_commander = {
+    name = "Caeso"
+    portrait_path = "gfx/leaders/South America/Portrait_South_America_Generic_land_5.dds"
+    traits = { trait_mountaineer }
+    skill = 4
+    attack_skill = 5
+    defense_skill = 1
+    planning_skill = 6
+    logistics_skill = 1
+}
