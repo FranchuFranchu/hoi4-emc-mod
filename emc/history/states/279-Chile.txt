@@ -11,18 +11,6 @@ state={
         owner = PLA
         buildings = {
             infrastructure = 5
-             = 1
-             = 7
-             = 3
-            8222 = {
-                 = 5
-            }
-            5121 = {
-                 = 1
-            }
-            650 = {
-                 = 1
-            }
         }
         add_core_of = PLA
         add_core_of = CHL
