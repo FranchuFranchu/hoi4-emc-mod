@@ -9,7 +9,7 @@ state={
 	 
 
 	history={
-		owner = NUL
+		owner = FRA
 		victory_points = {
 			6657 5
 		}
@@ -20,7 +20,7 @@ state={
 				 = 3
 			}
 		}
-		add_core_of = NUL
+		add_core_of = FRA
 	}
 
 	provinces={
