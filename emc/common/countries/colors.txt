@@ -71,6 +71,10 @@ BRI = {
   color = rgb { 45  101  79 }
   color_ui = rgb { 255 255 155}
 }
+BUR = {
+  color = rgb { 167  0  127 }
+  color_ui = rgb { 255 255 155}
+  }
 GER = {
   color = rgb { 45  101  79 }
   color_ui = rgb { 255 255 155}
