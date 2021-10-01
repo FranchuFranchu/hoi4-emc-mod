@@ -119,3 +119,7 @@ FRK = {
   color = rgb { 15  27  255 }
   color_ui = rgb { 255 255 155}
 }
+SWI = {
+  color = rgb { 255  0  0 }
+  color_ui = rgb { 255 255 155}
+}
