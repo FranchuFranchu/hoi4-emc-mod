@@ -1,4 +1,4 @@
-capital = 16
+capital = 19
 
 if = {
     limit = { has_dlc = "Man the Guns" }
