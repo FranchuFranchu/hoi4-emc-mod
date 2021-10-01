@@ -11,15 +11,11 @@ state={
         owner = PLA
         buildings = {
             infrastructure = 5
-            arms_factory = 1
             mine = 1
             farm = 1
-            dockyard = 1
+            
             10362 = {
-                naval_base = 6
-                bunker = 1
-                coastal_bunker = 1
-            }
+                }
         }
         add_core_of = URU
         add_core_of = PLA
