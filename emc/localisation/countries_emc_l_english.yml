@@ -208,3 +208,12 @@
   DEN:0 "Denmark"
   DEN_DEF:0 "Danes"
   DEN_ADJ:0 "Danes"
+  
+  BUR:0 "Burgundy"
+  BUR_DEF:0 "Burgundians"
+  BUR_ADJ:0 "Burgundians"
+  
+  SWI:0 "Switzerland"
+  SWI_DEF:0 "Swiss"
+  SWI_ADJ:0 "Swiss"
+
