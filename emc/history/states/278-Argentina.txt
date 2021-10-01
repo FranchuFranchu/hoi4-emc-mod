@@ -21,8 +21,6 @@ state={
 		add_core_of = PLA
 		add_core_of = ARG
 		victory_points = {
-		}
-		victory_points = {
 			7621 1 
 		}
 
