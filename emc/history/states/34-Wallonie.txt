@@ -7,7 +7,7 @@ state={
 	state_category = large_city
 
 	history={
-		owner = NUL
+		owner = LUX
 		victory_points = {
 			3516 5
 		}
@@ -24,7 +24,7 @@ state={
 			 = 1
 
 		}
-		add_core_of = NUL
+		add_core_of = LUX
 	}
 
 	provinces={
