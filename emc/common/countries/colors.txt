@@ -111,3 +111,7 @@ MAL = {
   color = rgb { 107 31 110 }
   color_ui = rgb { 150 18 18 }
 }
+FRK = {
+  color = rgb { 15  27  255 }
+  color_ui = rgb { 255 255 155}
+}
