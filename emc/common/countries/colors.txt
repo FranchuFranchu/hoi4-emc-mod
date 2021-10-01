@@ -68,11 +68,11 @@ BOL = {
   color_ui = rgb { 189 204 255 }
 }
 BRI = {
-  color = rgb { 2  10  222 }
+  color = rgb { 45  101  79 }
   color_ui = rgb { 255 255 155}
 }
 GER = {
-  color = rgb { 2  10  222 }
+  color = rgb { 45  101  79 }
   color_ui = rgb { 255 255 155}
 }
 FRA = {
@@ -84,11 +84,11 @@ SPA = {
   color_ui = rgb { 255 255 155}
 }
 LUX = {
-  color = rgb { 2  10  222 }
+  color = rgb { 255  93  29 }
   color_ui = rgb { 255 255 155}
 }
 DEN = {
-  color = rgb { 2  10  222 }
+  color = rgb { 120  0  0 }
   color_ui = rgb { 255 255 155}
 }
 KSR = {
