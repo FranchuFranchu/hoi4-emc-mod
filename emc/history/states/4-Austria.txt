@@ -17,9 +17,7 @@ state={
 		}
 		buildings = {
 			infrastructure = 7
-			 = 3
-			 = 5
-			 = 6
+
 		}
 		add_core_of = NUL
 
@@ -27,11 +25,7 @@ state={
 			owner = NUL
 						add_core_of = NUL
 		}
-		1939.1.1 = {
-			buildings = {
-				 = 5
-			}
-		}
+		
 	}
 
 	provinces={
