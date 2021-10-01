@@ -8,7 +8,7 @@ state={
 	 
 
 	history={
-		owner = NUL
+		owner = LUX
 		#victory_points = { 6529 1 }
 		#victory_points = { 549 1 }
 		victory_points = { 678 5 }
@@ -49,7 +49,9 @@ state={
 			 = 5
 
 		}
-		add_core_of = NUL
+		add_core_of = LUX
+		add_core_of = FRA
+		add_core_of = FRK
 		1939.1.1 = {
 			buildings = {
 				 = 4
