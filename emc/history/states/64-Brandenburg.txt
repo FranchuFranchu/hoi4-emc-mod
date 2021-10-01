@@ -9,7 +9,7 @@ state={
 
 
 	history={
-		owner = NUL
+		owner = KSR
 		victory_points = {
 			6521 50 
 		}
@@ -24,7 +24,8 @@ state={
 			 = 6
 
 		}
-		add_core_of = NUL
+		add_core_of = KSR
+                add_core_of = GER
 
 		1939.1.1 = {
 			buildings = {
