@@ -13,30 +13,13 @@ state={
 		
 		buildings = {
 			infrastructure = 3
-			 = 2
-			 = 2
-			 = 3
 			1047 = {
-				 = 5
-				coastal_ = 1
-				 = 1
+				coastal_ = 1 
 			}
-
 		}
 		victory_points = {
 			1047 5
 		}
-
-		1938.10.25 = {
-			if = {
-				limit = {
-					NOT = { has_dlc = "Waking the Tiger" }
-				}
-				remove_core_of = GXC
-				CHI = { transfer_state = PREV }
-			}
-			JAP = {
-				set_province_				set_province_				set_province_				set_province_			} 			
 		}
 	}
 
