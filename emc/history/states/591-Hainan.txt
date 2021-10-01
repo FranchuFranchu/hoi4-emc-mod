@@ -15,25 +15,10 @@ state={
 		}
 		
 		buildings = {
-			infrastructure = 2
-			 = 1
-			1070 = {
-				 = 2
-			}
-
+			infrastructure = 2	
 		}
-
-		1938.10.25 = {
-			if = {
-				limit = {
-					NOT = { has_dlc = "Waking the Tiger" }
-				}
-				remove_core_of = GXC
-				CHI = { transfer_state = PREV }
-			}
-					}
 	}
-
+}
 	provinces={
 		994 1038 1070 4160 7135 11963 11990 
 	}
