@@ -188,3 +188,17 @@
   FRK:0 "Francia"
   FRK_DEF:0 "Francia"
   FRK_ADJ:0 "Franks"
+  
+  KSR:0 "Kaiserreich"
+  KSR_DEF:0 "German"
+  KSR_ADJ:0 "German"
+  
+  LUX:0 "Luxembourg"
+  LUX_DEF:0 "Luxembourgers"
+  LUX_ADJ:0 "Luxembourgers"
+
+  BRI:0 "Britain"
+  BRI_DEF:0 "British"
+  BRI_ADJ:0 "British"
+
+
