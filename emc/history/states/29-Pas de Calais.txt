@@ -8,7 +8,7 @@ state={
 	 
 
 	history={
-		owner = NUL
+		owner = FRA
 		victory_points = {
 			575 5
 		}
@@ -26,7 +26,7 @@ state={
 				 = 6
 			}
 		}
-		add_core_of = NUL
+		add_core_of = FRA
 		1939.1.1 = {
 			buildings = {
 				 = 6
