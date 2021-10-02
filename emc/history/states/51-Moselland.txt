@@ -24,16 +24,11 @@ state={
 		#}
 		buildings = {
 			infrastructure = 8
-			 = 3
-			 = 2
-			 = 3
-
 		}
 		add_core_of = GER
 
 		1939.1.1 = {
 			buildings = {
-				 = 6
 				radar_station = 1
 			}
 		}
