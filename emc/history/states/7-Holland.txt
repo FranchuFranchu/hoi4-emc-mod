@@ -17,19 +17,6 @@ state={
 		}
 		buildings = {
 			infrastructure = 8
-			 = 4
-			 = 3
-			 = 3
-			 = 5
-			3314 = {
-				 = 5
-
-			}
-			9498 = {
-				 = 10
-
-			}
-
 		}
 
 	}
