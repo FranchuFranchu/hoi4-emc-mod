@@ -10,21 +10,13 @@ state={
 	history={
 		owner = BRI
 		buildings = {
-			infrastructure = 8
-			 = 2
-			 = 3
-			 = 6
+			infrastructure = 8			 
 		}
 		victory_points = {
 			9297 25
 		}
 		add_core_of = BRI
-		1939.1.1 = {
-			buildings = {
-				 = 3
-				 = 4
-			}
-		}
+		
 	}
 
 	provinces={
