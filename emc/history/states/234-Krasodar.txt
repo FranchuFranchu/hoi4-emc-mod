@@ -20,11 +20,7 @@ state={
 		}
 		buildings = {
 			infrastructure = 5
-			 = 1
-			719 = {
-				 = 3
-				coastal_ = 1
-			}
+			 
 		}
 		add_core_of = NUL
 	}
