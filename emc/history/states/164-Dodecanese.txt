@@ -14,13 +14,7 @@ state=
 		}
 		buildings = {
 			infrastructure = 5
-			 = 1
-			10007 = {
-				 = 4
-			}
-			7003 = {
-				 = 1
-			}
+			
 		}
 		add_core_of = NUL
 	}
