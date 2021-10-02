@@ -24,12 +24,6 @@ state={
 		add_core_of = FRA
 		add_core_of = BUR
 		add_core_of = FRK
-		
-		1939.1.1 = {
-			buildings = {
-				 = 6
-			}
-		}
 	}
 
 	provinces={
