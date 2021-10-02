@@ -9,9 +9,7 @@ state={
 		}
 		buildings = {
 			infrastructure = 4
-			 = 1
 			food_storage_unit = 1
-			 = 1
 		}
 		add_core_of = NUL
 		add_core_of = NUL
