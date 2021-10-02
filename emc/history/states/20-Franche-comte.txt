@@ -14,18 +14,10 @@ state={
 		}
 		buildings = {
 			infrastructure = 7
-			 = 1
-			 = 2
-			 = 4
+			 
 		}
 		add_core_of = FRA
 	
-		1939.1.1 = {
-			buildings = {
-				 = 2
-				 = 3
-			}
-		}
 	}
 
 	provinces={
