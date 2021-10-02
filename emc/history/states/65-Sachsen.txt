@@ -12,8 +12,7 @@ state={
 		owner = KSR
 		buildings = {
 			infrastructure = 7
-			 = 2
-			 = 7
+			 
 		}
 		victory_points = {
 			514 5 
@@ -23,13 +22,7 @@ state={
 		}
 		add_core_of = KSR
 		add_core_of = GER
-		1939.1.1 = {
-			buildings = {
-				 = 2
-				 = 5
-				 = 10
-			}
-		}
+		
 	}
 
 	provinces={
