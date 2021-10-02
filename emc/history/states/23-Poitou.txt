@@ -15,10 +15,6 @@ state={
 		}
 		buildings = {
 			infrastructure = 6
-			 = 1
-			6657 = {
-				 = 3
-			}
 		}
 		add_core_of = FRA
 	}
