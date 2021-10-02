@@ -20,11 +20,6 @@ state={
 		}
 		buildings = {
 			infrastructure = 8
-			 = 3
-			 = 10
-			575 = {
-				 = 6
-			}
 		}
 		add_core_of = FRA
 		add_core_of = BUR
