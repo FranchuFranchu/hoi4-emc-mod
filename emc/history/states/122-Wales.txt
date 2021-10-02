@@ -13,10 +13,7 @@ state= {
 		victory_points = { 377 5 }
 		buildings = {
 			infrastructure = 5
-			 = 1
-			377 = {
-				 = 3
-			}
+			
 		}
 		add_core_of = NUL
 		add_core_of = NUL
