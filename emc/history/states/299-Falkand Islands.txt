@@ -8,9 +8,6 @@ state= {
 	history= 	{
 		buildings = {
 			infrastructure = 2
-			12960 = {
-				 = 1
-			}
 		}
 	}
 	provinces= { 12960 }
