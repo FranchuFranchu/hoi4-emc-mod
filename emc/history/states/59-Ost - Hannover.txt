@@ -17,25 +17,11 @@ state={
 		}
 		buildings = {
 			infrastructure = 7
-			 = 2
-			 = 1
-			 = 2
-			6325 = {
-				 = 1
-			}
-
+			 
 		}
 		add_core_of = KSR
 		add_core_of = GER
 
-		1939.1.1 = {
-			buildings = {
-				 = 6
-				 = 4
-				 = 3
-				 = 3
-			}
-		}
 	}
 
 	provinces={
