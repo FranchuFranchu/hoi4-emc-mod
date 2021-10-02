@@ -17,13 +17,6 @@ state={
 		}
 		buildings = {
 			infrastructure = 6
-			 = 2
-			 = 1
-			 = 1
-			 = 3
-			362 = {
-				 = 5
-			}
 		}
 		add_core_of = NUL
 		1938.3.12 = {
