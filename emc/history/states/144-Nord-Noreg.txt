@@ -12,16 +12,7 @@ state={
 		owner = NUL
 		buildings = {
 			infrastructure = 3
-			 = 1
-			192 = {
-				 = 3
-			}
-			9116 = {
-				 = 3
-			}
-			11050 = {
-				 = 2
-			}
+			 
 		}
 		victory_points = {
 			192 1
