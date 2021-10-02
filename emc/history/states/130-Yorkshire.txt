@@ -24,12 +24,7 @@ state={
 			
 		}
 		add_core_of = NUL
-		1939.1.1 = {
-			buildings = {
-				 = 3
-				 = 4
-			}
-		}
+		
 	}
 
 	provinces={
