@@ -14,9 +14,6 @@ state=
 		}
 		buildings = {
 			infrastructure = 4
-			2077 = {
-				 = 1
-			}
 		}
 	}
 	provinces= { 2077 }
