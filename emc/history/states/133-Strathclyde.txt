@@ -16,22 +16,10 @@ state={
 		}
 		buildings = {
 			infrastructure = 7
-			 = 1
-			 = 4
-			 = 2
-			 = 3
-			6395 = {
-				 = 2
-			}
-
+			 
 		}
 		add_core_of = NUL
-		1939.1.1 = {
-			buildings = {
-				 = 5
-				 = 2
-			}
-		}
+		
 	}
 
 	provinces={
