@@ -1,6 +1,5 @@
 ﻿capital = 307
 
-oob = "VEN_1936"
 set_country_flag = monroe_doctrine
 
 1939.1.1 = {
@@ -17,9 +16,6 @@ set_country_flag = monroe_doctrine
 	complete_national_focus = industrial_effort
 	complete_national_focus = construction_effort
 	complete_national_focus = production_effort
-	
-	oob = "VEN_1939"
-	
 
 set_convoys = 10
 set_politics = {
