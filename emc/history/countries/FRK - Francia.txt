@@ -1,15 +1,5 @@
 capital = 19
 
-if = {
-    limit = { has_dlc = "Man the Guns" }
-        set_naval_oob = "CHL_1936_naval_mtg"
-    else = {
-        set_naval_oob = "CHL_1936_naval_legacy"
-    }
-}
-
-
-
 set_convoys = 20
 set_politics = {
     ruling_party = communism
