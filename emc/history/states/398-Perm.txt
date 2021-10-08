@@ -10,18 +10,11 @@ state={
 		owner = NUL
 		buildings = {
 			infrastructure = 6
-			 = 1
-
 		}
 		victory_points = {
 			7375 1 
 		}
 		add_core_of = NUL
-		1939.1.1 = {
-			buildings = {
-				 = 2
-			}
-		}
 	}
 
 	provinces={
