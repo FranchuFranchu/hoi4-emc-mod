@@ -23,7 +23,7 @@ state={
 
 		1939.4.12 = {
 			owner = NUL
-						remove_claim_by = ITA
+			remove_claim_by = ITA
 		}
 	}
 
