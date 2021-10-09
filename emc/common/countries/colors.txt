@@ -115,6 +115,7 @@ MAL = {
   color = rgb { 107 31 110 }
   color_ui = rgb { 150 18 18 }
 }
+
 FRK = {
   color = rgb { 15  27  255 }
   color_ui = rgb { 255 255 155}
@@ -123,3 +124,9 @@ SWI = {
   color = rgb { 255  0  0 }
   color_ui = rgb { 255 255 155}
 }
+
+INO = {
+color = rgb { 150 18 18 }
+color_ui = rgb { 150 18 18 }
+}
+

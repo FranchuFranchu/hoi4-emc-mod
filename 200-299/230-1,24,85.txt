@@ -1,0 +1,22 @@
+state={
+	id=230
+	name="STATE_230" # 
+	manpower = 
+
+	state_category = 
+
+	history={
+		owner = 
+		victory_points = { }
+		buildings = {
+			infrastructure =
+			industrial_complex =
+			arms_factory =
+			dockyard =
+		}
+		add_core_of =
+	}
+	provinces={
+		374 241 11360 3326 336 309 11264 
+	}
+}

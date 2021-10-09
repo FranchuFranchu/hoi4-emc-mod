@@ -1,0 +1,22 @@
+state={
+	id=168
+	name="STATE_168" # 
+	manpower = 
+
+	state_category = 
+
+	history={
+		owner = 
+		victory_points = { }
+		buildings = {
+			infrastructure =
+			industrial_complex =
+			arms_factory =
+			dockyard =
+		}
+		add_core_of =
+	}
+	provinces={
+		11338 9278 9356 6283 378 9378 6316 11362 301 9311 3290 9235 3202 11217 214 11330 9282 3339 350 11268 9395 11379 6333 9330 9266 
+	}
+}

@@ -1,0 +1,26 @@
+state={
+	id=969
+	name="STATE_969" # El_Obeid
+	manpower = 9000000
+
+	state_category = metropolis
+
+	history={
+		owner = NUB
+		victory_points = { 12806 35 }
+		buildings = {
+			infrastructure = 4 
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		add_core_of = NUB
+		12806 = { bunker = 4 }
+		10743 = { bunker = 4 }
+		10795 = { bunker = 4 }
+		1914 = { bunker = 4 }
+		
+	}
+	provinces={
+		12806 10743 10795 1914 
+	}
+}
