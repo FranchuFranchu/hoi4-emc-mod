@@ -12,8 +12,6 @@ state={
 		}
 		buildings = {
 			infrastructure = 1
-			 = 2
-
 		}
 		1938.10.25 = {
 			if = {
@@ -23,7 +21,7 @@ state={
 					}
 
 				}
-				CHI = {
+				NUL = {
 					transfer_state = PREV
 
 				}
