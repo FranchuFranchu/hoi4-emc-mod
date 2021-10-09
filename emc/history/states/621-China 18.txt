@@ -9,19 +9,8 @@ state={
 		add_core_of = NUL
 		buildings = {
 			infrastructure = 2
-			 = 1
 
 		}
-		1939.1.1 = {
-			remove_building = {
-				type = 
-				level = 1
-
-			}
-			owner = NUL
-			
-		}
-
 	}
 
 	provinces={
