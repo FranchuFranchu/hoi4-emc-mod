@@ -8,13 +8,6 @@ state = {
 		owner = NUL
 		buildings = {
 			infrastructure = 3
-			 = 3
-			1892 = {
-				 = 2
-			}
-			12736 = {
-				 = 1
-			}
 		}
 		add_core_of = NUL
 
