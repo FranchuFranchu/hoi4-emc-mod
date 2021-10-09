@@ -17,9 +17,6 @@ state={
 		}
 		buildings = {
 			infrastructure = 1
-			 = 1
-			 = 1
-
 		}
 		1938.10.25 = {
 			if = {
