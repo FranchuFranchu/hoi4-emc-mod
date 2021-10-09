@@ -12,14 +12,6 @@ state={
 		add_core_of = NUL
 		buildings = {
 			infrastructure = 5
-			 = 1
-			 = 6
-			 = 1
-			7014 = {
-				 = 6
-				coastal_ = 1
-				 = 1
-			}
 		}
 		victory_points = {
 			11913 20 
@@ -30,9 +22,6 @@ state={
 		victory_points = {
 			10076 3
 		}
-
-		1938.10.25 = {
-					}
 	}
 
 	provinces={
