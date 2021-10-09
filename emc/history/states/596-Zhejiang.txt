@@ -20,26 +20,6 @@ state=
 		buildings = {
 			infrastructure = 4
 
-			7191 = {
-				 = 1
-				coastal_ = 1
-				 = 1
-			}
-			9974 = {
-				 = 3
-				coastal_ = 1
-				 = 1
-			}
-			1055 = {
-				 = 3
-				coastal_ = 1
-				 = 1
-			}
-		}
-
-		1938.10.25 = {		
-			JAP = {
-				set_province_				set_province_				set_province_				set_province_				set_province_				set_province_				set_province_				set_province_				set_province_			} 			
 		}
 	}
 	provinces={
