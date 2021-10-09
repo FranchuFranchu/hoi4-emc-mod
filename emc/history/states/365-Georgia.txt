@@ -15,13 +15,6 @@ state={
 		victory_points = {
 			12384 10 
 		}
-
-		1939.1.1 = {
-			buildings = {
-				 = 4
-			}
-		}
-
 	}
 
 	provinces={
