@@ -10,10 +10,6 @@ state={
 		add_core_of = NUL
 		buildings = {
 			infrastructure = 3
-			 = 1
-			12148 = {
-				 = 1
-			}
 		}
 		victory_points = {
 			12148 1
