@@ -16,18 +16,6 @@ state={
 		}
 		victory_points = {
 			12019 1
-		}
-		
-		1938.10.25 = {
-						CHI = {
-				set_province_				set_province_				set_province_
 			}
-			buildings = {
-				infrastructure = 6
-				 = 1
-			}
-
 		}
-
-	}
 }
