@@ -15,14 +15,6 @@ state={
 		#}
 		buildings = {
 			infrastructure = 5
-			 = 1
-			 = 2
-			 = 2
-			11818 = {
-				 = 3
-
-			}
-
 		}
 		add_core_of = NUL
 		add_claim_by = BUL
