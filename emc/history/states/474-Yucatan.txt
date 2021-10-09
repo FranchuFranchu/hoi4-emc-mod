@@ -10,13 +10,6 @@ state={
 		owner = YUC
 		buildings = {
 			infrastructure = 3
-			 = 1
-			4904 = {
-				 = 2
-			}
-			4965 = {
-				 = 3
-			}
 		}
 		add_core_of = MEX
 		add_core_of = YUC
