@@ -16,17 +16,7 @@ state=
 		}
 		buildings = {
 			infrastructure = 5
-			 = 1
-			 = 1
-			10000 = {
-				 = 5
-				coastal_ = 1
-				 = 1
-			}
 		}
-
-		1938.10.25 = {
-					}
 	}
 	provinces={
 		10000
