@@ -16,10 +16,6 @@ state={
 		buildings = {
 			food_storage_unit = 1
 			infrastructure = 3
-			153 = {
-				 = 1
-				coastal_ = 2
-			}
 		}
 	}
 
