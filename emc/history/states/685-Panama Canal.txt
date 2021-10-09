@@ -12,10 +12,6 @@ state={
 		}
 		buildings = {
 			infrastructure = 4
-			 = 6
-			7617 = {
-				 = 3
-			}
 		}
 		add_core_of = PAN
 	}
