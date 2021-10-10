@@ -26,7 +26,7 @@ state=
 		add_core_of = LIB
 	}
 	provinces = { 
-7959 8006
+7952 13704 7998 13705
 }
 
 }
