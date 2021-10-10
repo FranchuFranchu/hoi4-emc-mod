@@ -1,8 +1,0 @@
-supply_area={
-	id=6
-	name="SUPPLYAREA_6"
-	value=6
-	supply_area={
-		74 75 76 77 78 79 80 81 82
-	}
-}
