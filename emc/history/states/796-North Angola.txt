@@ -15,7 +15,7 @@ state={
 		add_core_of = ANG
 	}
 	provinces = { 
-2115
+2114
 }
 
 	manpower=25000

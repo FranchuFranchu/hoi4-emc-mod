@@ -23,7 +23,7 @@ state=
 		add_core_of = ROM
 	}
 	provinces = { 
-3701 3704 6720 6736
+3700 3703 6725 6741
 }
 
 }

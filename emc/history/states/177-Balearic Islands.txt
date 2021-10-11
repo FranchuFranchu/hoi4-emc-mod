@@ -25,7 +25,7 @@ state=
 		add_core_of = SPR
 	}
 	provinces = { 
-7107 9779 9831
+7112 9790 9842
 }
 
 }

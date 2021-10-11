@@ -1,0 +1,19 @@
+state={
+	id=898
+	name="STATE_898"
+	provinces = { 
+14361
+}
+
+	manpower=30
+	state_category = small_island
+	history={
+		owner = FRA
+		buildings = {
+			infrastructure = 1
+			14368 = {
+				naval_base = 1
+			}
+		}
+	}
+}

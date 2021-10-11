@@ -18,11 +18,10 @@ state={
 			infrastructure = 3
 		}
 		add_core_of = PER
-		add_core_of = AZR
 	}
 
 	provinces = { 
-4553 208 4609 4637 4901 7962 257 10440 324 10509
+4551 4607 4635 4899 7966 208 10450 10519
 }
 
 }

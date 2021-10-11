@@ -1,0 +1,17 @@
+state={
+	id=808
+	name="STATE_808"
+	manpower=150
+
+	state_category = small_island
+
+	history={
+		owner = CHL	
+		add_core_of = CHL
+	}
+	
+	provinces = { 
+13219 13220
+}
+
+}

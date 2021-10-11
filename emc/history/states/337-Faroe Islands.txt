@@ -18,7 +18,7 @@ state=
 		add_core_of = DEN
 	}
 	provinces = { 
-12987
+12996
 }
 
 }
