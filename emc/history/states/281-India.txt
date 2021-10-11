@@ -7,8 +7,8 @@ state={
 	state_category = enclave
 
 	history={
-		owner = ENG
-		add_core_of = MLD
+		owner = NUL
+		add_core_of = NUL
 		buildings = {
 			infrastructure = 3
 			4967 = {

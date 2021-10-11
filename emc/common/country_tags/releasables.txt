@@ -1,0 +1,6 @@
+ARG = "countries/Argentina.txt"
+CHL = "countries/Chile.txt"
+URU = "countries/Uruguay.txt"
+PAR = "countries/Paraguay.txt"
+BOL = "countries/Bolivia.txt"
+INC = "countries/Incan Empire.txt"

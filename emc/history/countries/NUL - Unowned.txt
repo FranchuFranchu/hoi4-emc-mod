@@ -1,0 +1,26 @@
+set_convoys = 0
+set_politics = {
+    ruling_party = neutrality
+    last_election = "2019.1.1"
+    election_frequency = 72
+    elections_allowed = no
+}
+set_popularities = {
+    democratic = 0
+    fascism = 0
+    communism = 0
+    neutrality = 100
+}
+add_ideas = {
+    null_country
+}
+create_country_leader = {
+    name = "Fix"
+    #desc = ""
+    picture = "gfx/portraits/Fix.dds"
+    expire = "2050.1.1"
+    ideology = despotism
+    traits = {
+        #
+    }
+}

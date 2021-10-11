@@ -1,0 +1,446 @@
+technologies = {
+    close_combat_swords = {
+
+        enable_equipments = {
+            sword_equipment_0
+        }
+        allow = {
+            always = yes
+        }
+        enable_subunits = {
+            sword_unit
+            armored_sword_unit
+        }
+        
+        path = {
+            research_cost_coeff = 1
+            leads_to_tech = close_combat_swords_1
+        }       
+
+        research_cost = 1.5
+        start_year = 2018.10
+        folder = {
+            name = close_combat_folder
+            position = { x = -1 y = 2 }
+        }
+        
+        categories = {
+            close_combat_swords
+        }
+        
+        ai_will_do = {
+            factor = 1
+        }
+    }
+    close_combat_swords_1 = {
+
+        enable_equipments = {
+            sword_equipment_1
+        }
+        allow = {
+            always = yes
+        }
+        enable_subunits = {
+        }
+        
+        path = {
+            research_cost_coeff = 1
+            leads_to_tech = close_combat_swords_2
+        }       
+
+        research_cost = 1
+        start_year = 2018.12
+        folder = {
+            name = close_combat_folder
+            position = { x = 2 y = 2 }
+        }
+        
+        categories = {
+            close_combat_swords
+        }
+        
+        ai_will_do = {
+            factor = 1
+        }
+    }
+    close_combat_swords_2 = {
+
+        enable_equipments = {
+            sword_equipment_2
+        }
+        allow = {
+            always = yes
+        }
+        enable_subunits = {
+        }
+        
+       
+        path = {
+            research_cost_coeff = 1
+            leads_to_tech = close_combat_swords_4
+        }       		
+
+        research_cost = 1
+        start_year = 2019.2
+        folder = {
+            name = close_combat_folder
+            position = { x = 8 y = 2 }
+        }
+        
+        categories = {
+            close_combat_swords
+        }
+        
+        ai_will_do = {
+            factor = 1
+        }
+    }
+    close_combat_swords_3 = {
+
+        enable_equipments = {
+            sword_equipment_3
+        }
+        allow = {
+            always = yes
+        }
+        enable_subunits = {
+        }
+        
+        path = {
+            research_cost_coeff = 1
+			 leads_to_tech = close_combat_swords_9
+        }       
+
+        research_cost = 1
+        start_year = 2020.6
+        folder = {
+            name = close_combat_folder
+            position = { x = 24 y = 4 }
+        }
+        
+        categories = {
+            close_combat_swords
+        }
+        
+        ai_will_do = {
+            factor = 1
+        }
+    }
+	#ENCHANTED DIAMOND SWORDS
+	close_combat_swords_4 = {
+
+        enable_equipments = {
+            sword_equipment_4
+        }
+        allow = {
+            always = yes
+        }
+        enable_subunits = {
+        }
+        
+        path = {
+            research_cost_coeff = 1
+			leads_to_tech = close_combat_swords_5
+        }       
+
+        research_cost = 1
+        start_year = 2019.4
+        folder = {
+            name = close_combat_folder
+            position = { x = 12 y = 2 }
+        }
+        
+        categories = {
+            close_combat_swords
+        }
+        
+        ai_will_do = {
+            factor = 1
+        }
+    }
+	close_combat_swords_5 = {
+
+        enable_equipments = {
+            sword_equipment_5
+        }
+        allow = {
+            always = yes
+        }
+        enable_subunits = {
+        }
+        
+        path = {
+            research_cost_coeff = 1
+			leads_to_tech = close_combat_swords_6
+        }       
+
+        research_cost = 1
+        start_year = 2019.6
+        folder = {
+            name = close_combat_folder
+            position = { x = 16 y = 2 }
+        }
+        
+        categories = {
+            close_combat_swords
+        }
+        
+        ai_will_do = {
+            factor = 1
+        }
+    }
+	close_combat_swords_6 = {
+
+        enable_equipments = {
+            sword_equipment_6
+        }
+        allow = {
+            always = yes
+        }
+        enable_subunits = {
+        }
+        
+        path = {
+            research_cost_coeff = 1
+			leads_to_tech = close_combat_swords_7
+        }       
+
+        research_cost = 1
+        start_year = 2019.8
+        folder = {
+            name = close_combat_folder
+            position = { x = 20 y = 2 }
+        }
+        
+        categories = {
+            close_combat_swords
+        }
+        
+        ai_will_do = {
+            factor = 1
+        }
+    }
+	close_combat_swords_7 = {
+
+        enable_equipments = {
+            sword_equipment_7
+        }
+        allow = {
+            always = yes
+        }
+        enable_subunits = {
+        }
+        
+        path = {
+            research_cost_coeff = 1
+			leads_to_tech = close_combat_swords_8
+        }   
+        path = {
+            research_cost_coeff = 1
+			leads_to_tech = close_combat_swords_3
+        }   		
+
+        research_cost = 1
+        start_year = 2019.10
+        folder = {
+            name = close_combat_folder
+            position = { x = 24 y = 2 }
+        }
+        
+        categories = {
+            close_combat_swords
+        }
+        
+        ai_will_do = {
+            factor = 1
+        }
+    }
+	close_combat_swords_8 = {
+
+        enable_equipments = {
+            sword_equipment_8
+        }
+        allow = {
+            always = yes
+        }
+        enable_subunits = {
+        }
+        
+        path = {
+            research_cost_coeff = 1
+			
+        }       
+
+        research_cost = 1
+        start_year = 2019.12
+        folder = {
+            name = close_combat_folder
+            position = { x = 28 y = 2 }
+        }
+        
+        categories = {
+            close_combat_swords
+        }
+        
+        ai_will_do = {
+            factor = 1
+        }
+    }
+	#ENCHANTED NETHERITE SWORDS
+	close_combat_swords_9 = {
+
+        enable_equipments = {
+            sword_equipment_9
+        }
+        allow = {
+            always = yes
+        }
+        enable_subunits = {
+        }
+        
+        path = {
+            research_cost_coeff = 1
+            leads_to_tech = close_combat_swords_10        
+		}       
+
+        research_cost = 1
+        start_year = 2020.6
+        folder = {
+            name = close_combat_folder
+            position = { x = 28 y = 4 }
+        }
+        
+        categories = {
+            close_combat_swords
+			leads_to_tech = close_combat_swords_10
+        }
+        
+        ai_will_do = {
+            factor = 1
+        }
+    }
+	close_combat_swords_10 = {
+
+        enable_equipments = {
+            sword_equipment_10
+        }
+        allow = {
+            always = yes
+        }
+        enable_subunits = {
+        }
+        
+        path = {
+            research_cost_coeff = 1
+			leads_to_tech = close_combat_swords_11
+        }       
+
+        research_cost = 1
+        start_year = 2020.7
+        folder = {
+            name = close_combat_folder
+            position = { x = 32 y = 4 }
+        }
+        
+        categories = {
+            close_combat_swords
+        }
+        
+        ai_will_do = {
+            factor = 1
+        }
+    }
+	close_combat_swords_11 = {
+
+        enable_equipments = {
+            sword_equipment_11
+        }
+        allow = {
+            always = yes
+        }
+        enable_subunits = {
+        }
+        
+        path = {
+            research_cost_coeff = 1
+			leads_to_tech = close_combat_swords_12
+        }       
+
+        research_cost = 1
+        start_year = 2020.8
+        folder = {
+            name = close_combat_folder
+            position = { x = 36 y = 4 }
+        }
+        
+        categories = {
+            close_combat_swords
+        }
+        
+        ai_will_do = {
+            factor = 1
+        }
+    }
+	close_combat_swords_12 = {
+
+        enable_equipments = {
+            sword_equipment_12
+        }
+        allow = {
+            always = yes
+        }
+        enable_subunits = {
+        }
+        
+        path = {
+            research_cost_coeff = 1
+			leads_to_tech = close_combat_swords_13
+        }       
+
+        research_cost = 1
+        start_year = 2020.10
+        folder = {
+            name = close_combat_folder
+            position = { x = 40 y = 4 }
+        }
+        
+        categories = {
+            close_combat_swords
+        }
+        
+        ai_will_do = {
+            factor = 1
+        }
+    }
+	close_combat_swords_13 = {
+
+        enable_equipments = {
+            sword_equipment_13
+        }
+        allow = {
+            always = yes
+        }
+        enable_subunits = {
+        }
+        
+        path = {
+            research_cost_coeff = 1
+			
+        }       
+
+        research_cost = 1
+        start_year = 2020.12
+        folder = {
+            name = close_combat_folder
+            position = { x = 44 y = 4 }
+        }
+        
+        categories = {
+            close_combat_swords
+        }
+        
+        ai_will_do = {
+            factor = 1
+        }
+    }
+}

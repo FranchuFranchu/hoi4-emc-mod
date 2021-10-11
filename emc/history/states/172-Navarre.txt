@@ -3,16 +3,14 @@ state={
 	name="STATE_172"
 
 	history={
-		owner = SPR
-		add_core_of = NAV
+		owner = NUL
+		add_core_of = NUL
 		victory_points = {
 			3933 1
 		}
 		buildings = {
 			infrastructure = 6
 		}
-		add_core_of = SPR
-
 	}
 
 	provinces = { 

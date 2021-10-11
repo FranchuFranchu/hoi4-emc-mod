@@ -1,0 +1,47 @@
+﻿capital = 12268 #Sumatra
+
+oob = "MAL_2019"
+
+set_research_slots = 2
+
+
+set_technology = {
+	close_combat_swords = 1
+    close_combat_swords_1 = 1
+	close_combat_swords_2 = 1
+	close_combat_bows = 1
+	close_combat_armor = 1
+	close_combat_armor_1 = 1
+	close_combat_armor_2 = 1
+}
+
+
+
+
+
+set_politics = {
+	ruling_party = neutrality
+	election_frequency = 36
+	elections_allowed = no
+}
+set_popularities = {
+	neutrality = 100
+}
+
+
+
+create_country_leader = {
+	name = "idk" 
+	desc = ""
+	picture = ""
+	expire = "2050.1.1"
+	ideology = despotism
+	traits = {
+		
+	}
+}
+
+}
+
+
+

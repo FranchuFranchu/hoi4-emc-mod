@@ -7,8 +7,8 @@ state={
 	state_category = large_city
 
 	history={
-		owner = SPR
-		add_core_of = CAT
+		owner = NUL
+		add_core_of = NUL
 		victory_points = {
 			9764 30
 		}
@@ -26,9 +26,7 @@ state={
 			9764 = {
 				naval_base = 4
 			}
-		}
-		add_core_of = SPR
-	}
+		}	}
 
 	provinces = { 
 3897 3898 6810 6834 6863 6925 6964 9761 9794 9821 11775

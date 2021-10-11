@@ -1,0 +1,16 @@
+capital = 498
+
+
+set_convoys = 20
+set_politics = {
+    ruling_party = neutrality
+    last_election = "2019.1.1"
+    election_frequency = 72
+    elections_allowed = no
+}
+set_popularities = {
+    democratic = 0
+    fascism = 0
+    communism = 0
+    neutrality = 100
+}

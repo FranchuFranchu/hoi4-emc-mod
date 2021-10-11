@@ -1,0 +1,102 @@
+gold_trading = { 
+    buy_stored_gold = {
+        available = {
+            check_variable = {
+                num_of_available_civilian_factories > 0
+            }
+        }
+        complete_effect = {
+            hidden_effect = {
+                add_to_variable = {
+                    var = ROOT.gold_gain_spending   
+                    value = 1
+                }
+                set_temp_variable = {
+                    tmp1 = 0
+                }
+                every_owned_state = {
+                    if = {
+                        limit = {
+                            check_variable = {
+                                building_level@industrial_complex > 0
+                            }
+                            check_variable = {
+                                tmp1 = 0
+                            }
+                        }
+                        remove_building = {
+                            type = industrial_complex
+                            level = 1
+                        }
+                        add_extra_state_shared_building_slots = -1
+                        add_to_variable = {
+                            var = THIS.invested_factories
+                            value = 1
+                        }
+                        log = "[?THIS.invested_factories]"
+                    }
+                }
+            }
+            custom_effect_tooltip = "Costs you 1 industrial complex. Gives you 1 spending gold per day"
+        }
+    }
+    sell_stored_gold = {
+        complete_effect = {
+            add_to_variable = {
+                var = ROOT.gold_gain_spending
+                value = -1
+            }
+
+            hidden_effect = {
+                if = {
+                    limit = {
+                        any_owned_state = {
+                            check_variable = { 
+                                THIS.invested_factories > 0
+                            }
+                        }
+                    }
+                    set_temp_variable = {
+                        tmp1 = 0
+                    }
+                    every_owned_state = {
+                        if = {
+                            limit = {
+                                check_variable = {
+                                    THIS.invested_factories > 0
+                                }
+                                check_variable = {
+                                    tmp1 = 0
+                                }
+                            }
+                            add_building_construction = {
+                                type = industrial_complex
+                                level = 1
+                                instant_build = yes
+                            }
+                            add_extra_state_shared_building_slots = 1
+                            subtract_from_variable = {
+                                var = THIS.invested_factories
+                                value = 1
+                            }
+                            set_temp_variable = {
+                                tmp1 = 1
+                            }
+                        }
+                    }
+                }
+                else = {
+                    var:ROOT.capital = {
+                        add_building_construction = {
+                            type = industrial_complex
+                            level = 1
+                            instant_build = yes
+                        }
+                        add_extra_state_shared_building_slots = 1
+                    }
+                }
+            }
+            custom_effect_tooltip = "Gives you 1 industrial complex. Costs 1 spending gold per day" 
+        }
+    }
+}

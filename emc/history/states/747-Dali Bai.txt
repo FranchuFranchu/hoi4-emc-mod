@@ -9,10 +9,9 @@ state={
 	buildings_max_level_factor=1.000
 	state_category = pastoral
 	history={
-		owner = YUN
-		add_core_of = YUN
-		add_core_of = CHI
-		add_core_of = PRC
+		owner = NUL
+		add_core_of = NUL
+		add_core_of = NUL
 		victory_points = {
 			7965 3 
 		}

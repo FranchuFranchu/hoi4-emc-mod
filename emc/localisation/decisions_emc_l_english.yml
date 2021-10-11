@@ -1,0 +1,7 @@
+﻿l_english:
+  gold_trading:0 "Gold management"
+  gold_trading_desc: "We can use gold in order to make civilian factories, or use civilian factories to make gold.\nYou have [?Root.stored_gold|+] stored gold. \nYou're gaining [?Root.gold_gain|+] gold per day.\nVoting: [?Root.gold_gain_voting|+]\nFrom free civilain factories: [?Root.gold_gain_trading|+]\nSpending/Civilian Factories: [?Root.gold_gain_spending|+]\n\nFree Civilian Factories: [?Root.num_of_available_civilian_factories|+]"
+  buy_stored_gold:0 "Make gold"
+  buy_stored_gold_desc:0 "Use a spare civilian factory to make gold"
+  sell_stored_gold:0 "Hire a worker"
+  sell_stored_gold_desc:0 "Use your gold to hire a worker which builds buildings for you"

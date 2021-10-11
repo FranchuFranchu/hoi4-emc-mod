@@ -9,11 +9,11 @@ state=
 
 	history=
 	{
-		owner = IRE
+		owner = NUL
 		buildings = {
 			infrastructure = 6
 		}
-		add_core_of = IRE
+		add_core_of = NUL
 	}
 
 	provinces = { 

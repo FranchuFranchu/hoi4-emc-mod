@@ -12,8 +12,8 @@ state={
 	buildings_max_level_factor=1.000
 
 	history={
-		owner = ANT	
-		add_core_of = ANT
+		owner = NUL
+		add_core_of = NUL
 		buildings = {
 			infrastructure = 0
 			13352 = {

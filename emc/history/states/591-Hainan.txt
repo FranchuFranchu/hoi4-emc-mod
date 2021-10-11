@@ -5,10 +5,9 @@ state={
 	state_category = town
 
 	history={
-		owner = GXC
-		add_core_of = GXC
-		add_core_of = CHI
-		add_core_of = PRC
+		owner = NUL
+		add_core_of = NUL
+		add_core_of = NUL
 		
 		victory_points = {
 			1070 1 
@@ -31,7 +30,7 @@ state={
 				remove_core_of = GXC
 				CHI = { transfer_state = PREV }
 			}
-			controller = JAP
+			
 		}
 	}
 

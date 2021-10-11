@@ -1,0 +1,4 @@
+﻿l_english:
+  GOLD_VALUE: "[?Root.stored_gold]"
+  GOLD_TOOLTIP: "You have [?Root.stored_gold|+] stored gold. \nYou're gaining [?Root.gold_gain|+] gold per day.\n"
+  GOLD_TOOLTIP_DELAYED: "Voting: [?Root.gold_gain_voting|+]\nFrom free civilain factories: [?Root.gold_gain_trading|+]\nSpending/Civilian Factories: [?Root.gold_gain_spending|+]\n""

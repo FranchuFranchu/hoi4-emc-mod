@@ -1,0 +1,35 @@
+
+on_actions = {
+    on_daily = { 
+        effect = {
+            set_variable = {
+                var = THIS.gold_gain
+                value = 0
+            }
+            set_variable = {
+                var = THIS.gold_gain_voting
+                value = 1
+            }
+            set_variable = {
+                var = THIS.gold_gain_trading
+                value = 0
+            }
+            add_to_variable = {
+                var = THIS.gold_gain
+                value = THIS.gold_gain_voting
+            }
+            add_to_variable = {
+                var = THIS.gold_gain
+                value = THIS.gold_gain_trading
+            }
+            add_to_variable = {
+                var = THIS.gold_gain
+                value = THIS.gold_gain_spending
+            }
+            add_to_variable = {
+                var = THIS.stored_gold
+                value = THIS.gold_gain
+            }
+        }
+    }
+}

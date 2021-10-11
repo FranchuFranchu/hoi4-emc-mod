@@ -9,7 +9,7 @@ state=
 	
 	history=
 	{
-		owner = DEN
+		owner = NUL
 		victory_points = { 12674 1 }
 		buildings = {
 			infrastructure = 2
@@ -17,8 +17,7 @@ state=
 				naval_base = 1
 			}
 		}
-		add_core_of = DEN
-		add_core_of = ICE
+		add_core_of = NUL
 	}
 	provinces = { 
 4859 1661 1619 1663 1417 1990 1693 2013 12667 4230 4102 4236 2097 4300 4279 4307 12682 4357 4355 4443 4331 4637 4594 4848 4328 6907 5234 7174 4898 7316 7295 7323

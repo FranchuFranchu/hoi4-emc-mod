@@ -6,7 +6,7 @@ state={
 	state_category = rural
 
 	history={
-		owner = CAN
+		owner = NUL
 		buildings = {
 			infrastructure = 1
 			3691 = {
@@ -14,7 +14,7 @@ state={
 			}
 
 		}
-		add_core_of = CAN
+		add_core_of = NUL
 
 	}
 

@@ -6,7 +6,7 @@ state={
 	
 	state_category = small_island
 	history={
-		owner = ITA
+		owner = NUL
 		buildings = {
 			infrastructure = 3
 			14374 = {
@@ -14,7 +14,7 @@ state={
 				coastal_bunker = 1
 			}
 		}
-		add_core_of = ITA
+		add_core_of = NUL
 	}
 
 	provinces = { 

@@ -12,13 +12,13 @@ state={
 		#victory_points = {
 		#	11386 1
 		#}
-		owner = GER
-		controller = GER
+		owner = NUL
+		
 		
 		buildings = {
 			infrastructure = 6
 		}
-		add_core_of = GER
+		add_core_of = NUL
 	}
 
 	provinces = { 

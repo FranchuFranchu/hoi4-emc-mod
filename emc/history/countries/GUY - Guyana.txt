@@ -1,0 +1,16 @@
+capital = 505
+
+oob = "GUY_2019"
+
+set_politics = {
+    ruling_party = neutrality
+    last_election = "1931.11.8"
+    election_frequency = 72
+    elections_allowed = yes
+}
+set_popularities = {
+    democratic = 5
+    fascism = 5
+    communism = 5
+    neutrality = 85
+}

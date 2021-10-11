@@ -14,7 +14,7 @@ state={
 	state_category = city
 
 	history= {
-		owner = TUR
+		owner = NUL
 		victory_points = {
 			9833 25
 		}
@@ -27,7 +27,7 @@ state={
 				naval_base = 8
 			}
 		}
-		add_core_of = TUR
+		add_core_of = NUL
 		if = {
 			limit = { has_dlc = "Battle for the Bosporus"}
 			set_demilitarized_zone = yes

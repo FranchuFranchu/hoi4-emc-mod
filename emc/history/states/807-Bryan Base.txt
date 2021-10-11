@@ -6,8 +6,8 @@ state={
 	state_category = wasteland 
 
 	history={
-		owner = ANT	
-		add_core_of = ANT
+		owner = NUL
+		add_core_of = NUL
 		buildings = {
 			infrastructure = 0
 			13342 = {

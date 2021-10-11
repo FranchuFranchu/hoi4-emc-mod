@@ -1,0 +1,15 @@
+ideas = {
+    country = {
+        null_country = {
+            modifier = {
+                join_faction_tension = 100
+				conscription_factor = -1
+				local_resources_factor = -2
+				political_power_gain = -100
+				consumer_goods_factor = 1
+				enemy_justify_war_goal_time = 99999
+				production_factory_max_efficiency_factor = -1
+            }    
+        }
+    }
+}

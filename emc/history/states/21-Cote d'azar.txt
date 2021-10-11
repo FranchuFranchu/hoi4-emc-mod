@@ -10,7 +10,7 @@ state={
 	state_category = city
 
 	history={
-		owner = FRA
+		owner = NUL
 		victory_points = {
 			911 1 
 		}
@@ -33,8 +33,7 @@ state={
 				coastal_bunker = 1
 			}
 		}
-		add_core_of = OCC
-		add_core_of = FRA
+		add_core_of = NUL
 		1939.1.1 = {
 			buildings = {
 				dockyard = 3

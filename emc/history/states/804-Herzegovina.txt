@@ -12,16 +12,15 @@ state={
 	}
 
 	history={
-		owner = YUG
+		owner = NUL
 		victory_points = {
 			9894 3
 		}
 		buildings = {
 			infrastructure = 3
 		}
-		add_core_of = YUG
-		add_core_of = BOS
-		add_core_of = HRZ
+		add_core_of = NUL
+		add_core_of = NUL
 	}
 
 	provinces = { 

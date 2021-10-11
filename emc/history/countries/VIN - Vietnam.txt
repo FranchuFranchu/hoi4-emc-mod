@@ -1,0 +1,80 @@
+﻿capital = 10016 #Vinh
+
+oob = "VIN_2019"
+
+set_research_slots = 2
+
+
+set_technology = {
+	close_combat_swords = 1
+    close_combat_swords_1 = 1
+	close_combat_swords_2 = 1
+	close_combat_bows = 1
+	close_combat_armor = 1
+	close_combat_armor_1 = 1
+	close_combat_armor_2 = 1
+}
+
+
+
+
+
+set_politics = {
+	ruling_party = neutrality
+	election_frequency = 36
+	elections_allowed = no
+}
+set_popularities = {
+	neutrality = 90
+	communism = 10
+}
+
+#NOTICE# please watch out for spelling, im using Vietnamese names as they spell them, game might not support these characters!
+
+create_country_leader = {
+	name = "Slevemarlin" 
+	desc = ""
+	picture = "Slevemarlin.dds"
+	expire = "2050.1.1"
+	ideology = despotism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Doct_fr" 
+	desc = ""
+	picture = "Doct_fr.dds"
+	expire = "2020.2.1"
+	ideology = marxism
+	traits = {
+		
+	}
+}
+
+
+
+create_country_leader = {
+	name = "GuyKakyoin"
+	desc = ""
+	picture = "GuyKakyoin.dds"
+	expire = "2050.1.1"
+	ideology = conservatism
+	traits = {
+		
+	}
+	create_country_leader = {
+	name = "Provisional Goverment"
+	desc = ""
+	picture = "VietnamProvisionalGoverment.dds"
+	expire = "2050.1.1"
+	ideology = conservatism
+	traits = {
+		
+	}
+}
+}
+
+
+

@@ -10,18 +10,15 @@ state=
 		victory_points = {
 			6727 1
 		}
-		add_core_of = MOL
-		add_core_of = UKR
-		owner = ROM
+		add_core_of = NUL
+		owner = NUL
 		buildings = {
 			infrastructure = 4
 			dockyard = 1
 			6727 = {
 				naval_base = 3
 			}
-		}
-		add_core_of = ROM
-	}
+		}	}
 	provinces = { 
 3700 3703 6725 6741
 }

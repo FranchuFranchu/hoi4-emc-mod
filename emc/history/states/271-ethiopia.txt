@@ -11,7 +11,7 @@ state=
 
 	history=
 	{
-		owner = ETH
+		owner = NUL
 		buildings = {
 			infrastructure = 3
 			arms_factory = 2
@@ -27,11 +27,11 @@ state=
 		victory_points = { 
 			7980 1.0 
 		}
-		add_core_of = ETH
+		add_core_of = NUL
 
 		1936.6.1 = {
-			owner = ITA
-			controller = ITA
+			owner = NUL
+			
 		}
 	}
 
