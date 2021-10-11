@@ -9,6 +9,7 @@ ideas = {
 				consumer_goods_factor = 1
 				enemy_justify_war_goal_time = 99999
 				production_factory_max_efficiency_factor = -1
+				dockyard_donations = -100000
             }    
         }
     }
