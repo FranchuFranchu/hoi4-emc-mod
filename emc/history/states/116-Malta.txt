@@ -19,8 +19,5 @@ state=
 			}
 		}
 	}
-	provinces = { 
-11997
-}
-
+	provinces= { 12003 }
 }

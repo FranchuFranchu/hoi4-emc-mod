@@ -7,6 +7,7 @@ state= {
 	{
 		owner = NUL
 		add_core_of = NUL
+		add_core_of = NUL
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -30,13 +31,12 @@ state= {
 
 		1938.10.25 = {		
 			JAP = {
-				
-				
+				set_province_controller = 4196
+				set_province_controller = 7071
 			} 			
 		}
 	}
-	provinces = { 
-1006 1093 1137 1165 1192 4052 4069 4111 4167 4194 7025 7069 7097 7129 10006 10008 10038 10050 10065 10080 10089 11980 12050 12077
-}
-
+	provinces={
+		1006 1094 1138 1166 1193 4053 4070 4113 4169 4196 7027 7071 7099 7131 10010 10012 10042 10054 10069 10084 10093 11986 12057 12084 
+	}
 }

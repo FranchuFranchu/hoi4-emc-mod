@@ -1,0 +1,24 @@
+
+state={
+	id=205
+	name="STATE_205" # Kaluga
+	manpower = 1121004
+	
+	state_category = town
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 5
+		}
+		add_core_of = NUL
+		victory_points = {
+			382 1
+		}
+	}
+
+	provinces = { 
+246 274 352 382 3262 3307 3344 3376 6250 6363 9258 9298 11231 11280 11296 11365
+}
+
+}

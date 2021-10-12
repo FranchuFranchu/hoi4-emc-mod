@@ -1,0 +1,24 @@
+
+state={
+	id=462
+	name="STATE_462"
+	manpower = 1865552
+	
+	state_category = wasteland
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		victory_points = {
+			4108 1 
+		}
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = { 
+1101 16270 1151 5044 7955 10103
+}
+
+}

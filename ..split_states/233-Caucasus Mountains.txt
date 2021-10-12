@@ -1,0 +1,30 @@
+state={
+	id=233
+	name="STATE_233"
+	resources={
+		chromium=35 # was: 46.000
+	}
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = NUL
+		victory_points = {
+			9628 3
+		}
+		victory_points = {
+			9663 1
+		}
+	}
+
+	provinces = { 
+666 685 1454 3666 6672 6719 9625 9629 9646 9660 9671 11605 11610 11643 11660
+}
+
+	manpower=1463970
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

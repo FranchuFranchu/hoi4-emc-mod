@@ -1,0 +1,42 @@
+state= {
+	id=593
+	name="STATE_593"
+	manpower = 12700000
+	state_category = town
+	resources={
+		tungsten=15 # was: 20
+		steel= 15 # was: 20
+		chromium = 3 # was: 4
+	}
+
+	history= {
+		owner = NUL
+		add_core_of = NUL
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			9938 = {
+				naval_base = 1
+				coastal_bunker = 1
+				bunker = 1
+			}
+		}
+
+		1938.10.25 = {		
+			remove_core_of = GXC
+			owner = NUL
+			JAP = {
+				
+				
+				
+				
+				
+			} 			
+		}
+	}
+	provinces = { 
+1078 1119 1161 1201 4163 4205 7065 7106 7139 7180 9935 9966 9974 9993 10076 12008 12088
+}
+
+}

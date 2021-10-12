@@ -1,0 +1,35 @@
+state={
+	id=330
+	name="STATE_330"
+	resources={
+		steel=2.000
+		chromium=3.000
+	}
+
+	history={
+		owner = NUL
+		victory_points = {
+			4801 5 
+		}
+		victory_points = {
+			7799 1 
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 1
+
+		}
+		add_core_of = NUL
+
+	}
+
+	provinces = { 
+1722 1262 1742 2182 2188 1780 4266 1854 1797 4749 4856 7673 7878 10535 10550 10559 10571 1724 1688 1773 10574 10619 10643 10700 10704 12526 12532 12537 12550 12572 12598 12605 12607 12622 1786 1727 1790 12662 12668 12679 12688
+}
+
+	manpower=772000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

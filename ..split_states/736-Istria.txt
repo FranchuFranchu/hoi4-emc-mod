@@ -1,0 +1,32 @@
+state={
+	id=736
+	name="STATE_736"
+	
+	state_category = city
+
+	history={
+		victory_points = {
+			6626 1 
+		}
+		owner = NUL
+		add_core_of = NUL
+		add_core_of = NUL
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 2
+			6626 = {
+				naval_base = 5
+
+			}
+
+		}
+
+	}
+
+	provinces = { 
+6624 11591 11731
+}
+
+	manpower=1063159
+	buildings_max_level_factor=1.000
+}

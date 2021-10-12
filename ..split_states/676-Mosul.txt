@@ -1,0 +1,34 @@
+state={
+	id=676
+	name="STATE_676"
+	manpower = 1182741
+	
+	state_category = town
+	
+	resources={
+		oil=8 # was: 10
+	}
+
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			10106 5 
+		}
+		victory_points = {
+			3916 3 
+		}
+		victory_points = {
+			6826 1
+		}
+		add_core_of = NUL
+	}
+	
+	provinces = { 
+1599 1937 3915 5012 6824 1732 8120 10102 10789 1859 10800 10807 12365
+}
+
+}

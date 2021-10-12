@@ -1,0 +1,24 @@
+
+state={
+	id=552
+	name="STATE_552"
+	manpower = 18539
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 0
+		}
+
+		add_core_of = NUL
+
+	}
+
+	provinces = { 
+1142 3360 2063 4708 4425 4713 4397 4772 4744 4844 7213 6031 5080 6251 10123 6305 10865 6370 6310 6401 10903 7386 7078 7414 6748 7445 7442 7446 12092 7730 7581 7765 12726 7864 7793 7913 12757 7947 12809 8068 7980 9241
+}
+
+}

@@ -1,0 +1,40 @@
+state={
+	id=358
+	name="STATE_358"
+	resources={
+		steel=13 # was: 24.000
+	}
+	
+	state_category = megalopolis
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 8
+			arms_factory = 2
+			industrial_complex = 7
+			dockyard = 3
+			air_base = 10
+			3878 = {
+				naval_base = 6
+
+			}
+
+		}
+		add_core_of = NUL
+		victory_points = {
+			3878 30.0 
+		}
+		victory_points = {
+			11654 3 
+		}
+
+	}
+
+	provinces = { 
+598 706 734 859 1435 3601 3701 3732 3746 3805 3877 3893 6705 6715 6776 6793 6909 6914 9661 9670 9690 9705 9718 9751 9771 10377 11646 11650 11656 11658 11661 11676 11718 13150 874
+}
+
+	manpower=12588061
+	buildings_max_level_factor=1.000
+}

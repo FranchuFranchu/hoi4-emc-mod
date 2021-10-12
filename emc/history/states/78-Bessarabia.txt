@@ -15,9 +15,10 @@ state=
 		buildings = {
 			infrastructure = 4
 			air_base = 2
-		}	}
-	provinces = { 
-414 565 3406 3576 3706 3723 6598 9680 11682 11701
-}
-
+		}
+		add_core_of = NUL
+	}
+	provinces=
+	{
+414 565 3407 3577 3707 3724 6600 9683 11686 11705 	}
 }

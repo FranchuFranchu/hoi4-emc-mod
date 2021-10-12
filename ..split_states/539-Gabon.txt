@@ -1,0 +1,29 @@
+state={
+	id=539
+	name="STATE_539"
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		victory_points = {
+			5139 1 
+		}
+		buildings = {
+			infrastructure = 3
+			5139 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces = { 
+5137 8204 10944 257 13203
+}
+
+	manpower=409752
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

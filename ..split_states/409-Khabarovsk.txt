@@ -1,0 +1,32 @@
+
+state={
+	id=409
+	name="STATE_409"
+	manpower = 295605
+	resources={
+		chromium=9 # was: 12
+	}
+	
+	state_category = rural
+
+	history={
+		owner = NUL
+		victory_points = {
+			12189 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 4
+			9604 ={
+				naval_base = 1
+			}
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+725 739 753 1266 1324 1342 726 1396 1503 3755 3962 920 4402 3724 6772 7246 3726 7263 3917 7306 9586 9601 9730 3919 9746 10462 11571 11715 12129 12182
+}
+
+}

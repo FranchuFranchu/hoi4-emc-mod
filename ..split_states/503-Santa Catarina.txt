@@ -1,0 +1,22 @@
+
+state={
+	id=503
+	name="STATE_503"
+	manpower = 1922700
+	
+	state_category = rural
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 5
+			air_base = 1
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+1528 1542 2108 1703 4531 1749 4546 1807 4585 1840 1820 3728 5154 3743 5176 6101 4990 7003 8178 7225 8236 7775 10401 12459 8096
+}
+
+}

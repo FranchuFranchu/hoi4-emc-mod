@@ -1,0 +1,39 @@
+
+state={
+	id=412
+	name="STATE_412"
+	manpower = 918619
+	resources={
+		oil=10 # was: 12
+	}
+
+
+	state_category = rural
+	history={
+		owner = NUL
+		victory_points = {
+			8117 3 
+		}
+		victory_points = {
+			7982 3 
+		}
+		victory_points = {
+			12832 1
+		}
+		buildings = {
+			infrastructure = 2
+			7982 = {
+				naval_base = 4
+			}
+			12832 = {
+				naval_base = 2
+			}
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+4957 3845 924 3862 4964 3885 7979 9798 8114 11704 10793 12243 10877 12423 12773 18277 12825 18279 18278 18280 12856 18281
+}
+
+}

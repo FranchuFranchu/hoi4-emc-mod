@@ -1,0 +1,27 @@
+
+state={
+	id=379
+	name="STATE_379"
+	manpower = 91057
+	
+	state_category = rural
+	
+	resources={
+		steel=70 # was: 136
+		tungsten=32 # was: 62
+		aluminium=25 # was: 44
+	}
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 4
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+1861 432 159 468 4519 508 4605 566 4734 1014 576 1141 4797 1329 1289 1332 4814 1402 1384 1416 7753 1649 1509 3466 7824 3650 3537 3998 7876 4058 4018 4145 10418 4200 10587 4291 4273 4334 12127 4406 4349 4452 12392 4555 4539 4624 12418 4833 4793 4866
+}
+
+}

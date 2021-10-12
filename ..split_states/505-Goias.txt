@@ -1,0 +1,24 @@
+
+state={
+	id=505
+	name="STATE_505"
+	
+	state_category = rural
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = NUL
+
+	}
+
+	provinces = { 
+2167 854 5113 872 5146 7642 7429 7738 7422 10056 8118 10130 897 10207 10200 10235 10173 10298 10285 10304 5149 10313 5206 10463 8137 10629 12952 11848 12980 12105
+}
+
+	manpower=1662200
+	buildings_max_level_factor=1.000
+}

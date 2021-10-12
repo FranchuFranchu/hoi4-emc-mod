@@ -28,17 +28,16 @@ state={
 			}
 		}
 		add_core_of = NUL
-		add_claim_by = ITA
+		
 
 		1939.4.12 = {
 			owner = NUL
 			
-			remove_claim_by = ITA
+			
 		}
 	}
 
-	provinces = { 
-3895 6898 9777 9872 9911 11758 11763
-}
-
+	provinces={
+		3448 3884 3896 6900 9780 9875 9914 11762 11767 
+	}
 }

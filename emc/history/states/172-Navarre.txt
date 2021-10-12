@@ -11,12 +11,13 @@ state={
 		buildings = {
 			infrastructure = 6
 		}
+		add_core_of = NUL
+
 	}
 
-	provinces = { 
-932 3736 9854
-}
-
+	provinces={
+		932 3737 3931 3933 9857 
+	}
 	manpower=359880
 	buildings_max_level_factor=1.000
 	state_category=pastoral

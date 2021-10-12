@@ -1,0 +1,29 @@
+
+state={
+	id=345
+	name="STATE_345"
+
+	history={
+		owner = NUL
+		victory_points = {
+			10056 1 
+		}
+		victory_points = {
+			11810 5 
+		}
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = NUL
+
+	}
+
+	provinces = { 
+1121 4007 4122 4125 7024 7141 10052 11806
+}
+
+	manpower=411798
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

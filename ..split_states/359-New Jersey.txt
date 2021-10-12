@@ -1,0 +1,28 @@
+
+state={
+	id=359
+	name="STATE_359"
+	manpower = 4041332
+	
+	state_category = large_city
+
+	history={
+		owner = NUL
+		victory_points = {
+			6882 5 
+		}
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 7
+			air_base = 4
+
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+3692 6880 9861 11736 11778 11896
+}
+
+	
+}

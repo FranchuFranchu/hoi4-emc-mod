@@ -1,0 +1,38 @@
+
+state={
+	id=468
+	name="STATE_468" # Saint Lawrence
+	manpower = 2432754
+	
+	state_category = city
+	
+	resources={
+		aluminium=3 # was: 4
+	}
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 1
+			air_base = 3
+			12149 = {
+				naval_base = 6
+			}
+		}
+		add_core_of = NUL
+		victory_points = {
+			4345 20
+		}
+		victory_points = {
+			12149 3
+		}
+
+	}
+
+	provinces = { 
+1283 4303 16387 1671 16388 4343 16389 4415 4420 16391 16390 16392 7286 7288 16393 7342 7430 9598 16394 10170 10226 10316 12142 12284 16395
+}
+
+}

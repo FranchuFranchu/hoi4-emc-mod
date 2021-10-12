@@ -26,7 +26,9 @@ state={
 				naval_base = 2
 			}
 
-		}		1939.1.1 = {
+		}
+		add_core_of = NUL
+		1939.1.1 = {
 			buildings = {
 				dockyard = 5
 				industrial_complex = 2
@@ -34,8 +36,7 @@ state={
 		}
 	}
 
-	provinces = { 
-6318 6348 6383 6393 9234 9347 11214
-}
-
+	provinces={
+		3273 6320 6350 6385 6395 9237 9350 11218 
+	}
 }

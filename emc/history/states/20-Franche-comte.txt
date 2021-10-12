@@ -22,6 +22,7 @@ state={
 			air_base = 4
 		}
 		add_core_of = NUL
+		add_core_of = NUL
 		1939.1.1 = {
 			buildings = {
 				arms_factory = 2
@@ -30,8 +31,7 @@ state={
 		}
 	}
 
-	provinces = { 
-3649 3769 6637 6666 6784 9587 9725 9729 11589 11712 11790
-}
-
+	provinces={
+		641 3650 3770 6613 6639 6668 6786 9590 9728 9732 11593 11716 11794 
+	}
 }

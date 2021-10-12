@@ -1,0 +1,34 @@
+state={
+	id=746
+	name="STATE_746"
+	provinces = { 
+1958 3426 282 4958 4984 325 10447 606 10850 3281 12699 3314
+}
+
+	state_category = pastoral
+	
+	
+	history=
+	{
+		owner = NUL
+		add_core_of = NUL
+		add_core_of = NUL
+		
+		buildings = {
+			infrastructure = 2
+		}
+
+		1938.10.25 = {
+			
+		}
+		
+		1939.1.1 = {
+			
+			owner = NUL
+			
+
+		}
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+}

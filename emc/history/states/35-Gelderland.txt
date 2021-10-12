@@ -22,10 +22,9 @@ state={
 
 	}
 
-	provinces = { 
-480 3261 6494 9428 11452 11558
-}
-
+	provinces={
+		480 3262 6496 6500 9431 11456 11562 
+	}
 	manpower=1449000
 	buildings_max_level_factor=1.000
 	state_category=city

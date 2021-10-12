@@ -1,0 +1,42 @@
+
+state={
+	id=111
+	name="STATE_111" # Uusimaa
+	manpower = 1670190
+	
+	state_category = city
+	
+	history={
+		owner = NUL
+		victory_points = {
+			11105 15 
+		}
+		victory_points = {
+			3083 1 
+		}
+		victory_points = {
+			3137 1 
+		}
+		buildings = {
+			infrastructure = 6
+			arms_factory = 3
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 5
+			11105 = {
+				naval_base = 5
+				coastal_bunker = 2
+			}
+			3083 = {
+				naval_base = 3
+				coastal_bunker = 1
+			}
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+52 67 169 204 3008 3024 3060 3082 3116 3160 6007 6064 6080 6106 6142 6161 6184 9070 9091 9126 9157 9164 9180 9191 11052 11101 11134 11168 11207 13093 13094 13095 13096 13098 13099 13100
+}
+
+}

@@ -1,0 +1,29 @@
+state=
+{
+	id=269
+	name="STATE_269"
+	manpower = 344700
+	
+	state_category = enclave
+	
+	history= {
+		victory_points = { 
+			10833 1
+		}
+		victory_points = { 
+			5068 1
+		}
+		owner = NUL
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 3
+			10833 = {
+				naval_base = 1
+			}
+		}
+	}
+	provinces = { 
+1904 5066 37 8091 136 10773 139 10829 10917 12752 12807 141
+}
+
+}

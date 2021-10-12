@@ -14,17 +14,18 @@ state={
 			infrastructure = 5
 		}
 		add_core_of = NUL
-		add_claim_by = HUN
+		
 
 		1939.3.14 = {
 			owner = NUL
 			
-			remove_claim_by = HUN			add_core_of = NUL
+			
+			add_core_of = NUL
+			add_core_of = NUL
 		}
 	}
 
-	provinces = { 
-3547 6569 9560 11532 11687
-}
-
+	provinces={
+		3548 6571 9563 11536 11691 
+	}
 }

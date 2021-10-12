@@ -1,0 +1,38 @@
+
+state={
+	id=353
+	name="STATE_353"
+
+	history={
+		owner = NUL
+		victory_points = {
+			11853 3
+		}
+		victory_points = {
+			9860 1
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+		if = {
+			limit = {
+				has_dlc = "Battle for the Bosporus"
+			}
+			add_core_of = NUL
+		}
+		if = {
+			limit = {
+				NOT = { has_dlc = "Battle for the Bosporus" }
+			}			add_core_of = NUL
+		}
+	}
+
+	provinces = { 
+876 9855 9857 9865 9951 10395 11793 11849
+}
+
+	manpower=523537
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

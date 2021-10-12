@@ -1,0 +1,45 @@
+
+state={
+	id=531
+	name="STATE_531" # Kansai
+	manpower = 11015000
+	state_category = metropolis
+	resources={
+		aluminium=3 # was: 6
+	}
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 8
+			arms_factory = 2
+			industrial_complex = 4
+			dockyard = 2
+			1136 = {
+				naval_base = 6
+
+			}
+			7072 = {
+				naval_base = 3
+
+			}
+
+		}
+		victory_points = {
+			7072 40
+		}
+		1939.1.1 = {
+			buildings = {
+				arms_factory = 3
+				industrial_complex = 5
+			}
+		}
+
+	}
+
+	provinces = { 
+1051 1067 1132 1135 4053 4140 7070 7111 9981 11954 12024
+}
+
+}

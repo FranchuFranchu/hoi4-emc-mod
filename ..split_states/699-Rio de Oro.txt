@@ -1,0 +1,26 @@
+state={
+	id=699
+	name="STATE_699"
+	manpower = 21056
+	
+	state_category = wasteland
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 1
+			8038 = {
+				naval_base = 1
+			}
+		}
+		victory_points = {
+			8038 1
+		}
+	}
+	
+	provinces = { 
+4918 5010 10871 286
+}
+
+}

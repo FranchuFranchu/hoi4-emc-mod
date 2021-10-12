@@ -10,6 +10,7 @@ state={
 		owner = NUL
 		add_core_of = NUL
 		add_core_of = NUL
+		add_core_of = NUL
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -19,8 +20,7 @@ state={
 		}
 	}
 
-	provinces = { 
-828 952 1136 1488 1589 4493 14322 4610 15990 6902 7542 7671 15991 9773 10393 11748
-}
-
+	provinces={
+		828 952 1137 1489 1590 4495 4612 6904 7545 7674 9776 10397 11752 
+	}
 }

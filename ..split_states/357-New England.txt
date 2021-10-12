@@ -1,0 +1,48 @@
+state={
+	id=357
+	name="STATE_357"
+	resources={
+		steel=12 # was: 20.000
+	}
+
+	state_category = metropolis
+
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 7
+			arms_factory = 1
+			industrial_complex = 5
+			dockyard = 4
+			air_base = 10
+			6732 = {
+				naval_base = 8
+
+			}
+			9832 = {
+				naval_base = 3
+
+			}
+
+		}
+		add_core_of = NUL
+		victory_points = {
+			6732 20 
+		}
+		victory_points = {
+			12459 1 
+		}
+		victory_points = {
+			9832 1 
+		}
+
+	}
+
+	provinces = { 
+715 718 733 905 908 1281 1337 1618 3709 3711 3714 3731 3905 4285 568 737 6717 6730 7459 7626 767 9672 9829 9844 9847 10243 10314 10477 11826 12195 1065 12214 1086 12452 13151
+}
+
+	manpower=8404713
+	buildings_max_level_factor=1.000
+}

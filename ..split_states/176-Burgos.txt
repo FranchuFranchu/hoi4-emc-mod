@@ -1,0 +1,26 @@
+state={
+	id=176
+	name="STATE_176"
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			885 3 
+		}
+		add_core_of = NUL
+
+	}
+
+	provinces = { 
+3858 6901 9867 11762 11850 13213
+}
+
+	manpower=739760
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

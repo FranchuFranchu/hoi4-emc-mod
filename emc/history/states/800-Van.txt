@@ -19,14 +19,15 @@ state={
 		if = {
 			limit = {
 				NOT = { has_dlc = "Battle for the Bosporus" }
-			}			add_core_of = NUL
+			}
+			add_core_of = NUL
+			add_core_of = NUL
 		}
 	}
 
-	provinces = { 
-652 4581 7467 11876 12369 13114
-}
-
+	provinces={
+		652 4583 6935 7470 11880 12376 13121 
+	}
 	manpower = 365490
 	state_category = rural
 }

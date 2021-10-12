@@ -1,0 +1,29 @@
+
+state={
+	id=681
+	name="STATE_681" # Cape
+	manpower = 1637178
+
+	state_category = town
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			air_base = 1
+			12589 = {
+				naval_base = 4
+			}
+		}
+		victory_points = {
+			12589 10 
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+1508 1363 1253 1375 1209 1391 1377 1955 4526 4820 5201 3264 10411 3329 10438 10693 3384 3356 3485 12412 4308 3562 4320 12540 12582 12685
+}
+
+}

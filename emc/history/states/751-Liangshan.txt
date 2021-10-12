@@ -1,15 +1,15 @@
 state={
 	id=751
 	name="STATE_751"
-	provinces = { 
-1998 599 2066 1100 7291 1323 10722 1352 10837 12134 12812
-}
-
+	provinces={
+		1999 2067 7294 10726 10841 12141 12819 
+	}
 	manpower=300000
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 	history={
 		owner = NUL
+		add_core_of = NUL
 		add_core_of = NUL
 		buildings = {
 			infrastructure = 1

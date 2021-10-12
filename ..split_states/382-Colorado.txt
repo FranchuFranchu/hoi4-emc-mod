@@ -1,0 +1,29 @@
+
+state={
+	id=382
+	name="STATE_382"
+	manpower = 1035790
+	resources={
+		oil=14 # was: 20
+	}
+	
+	state_category = town
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		add_core_of = NUL
+		victory_points = {
+			1827 5 
+		}
+
+	}
+
+	provinces = { 
+868 1657 1737 1808 1826 3868 6885 7681 7777 7996 9789 10531 10584 11768 12563 12620 12635
+}
+
+}

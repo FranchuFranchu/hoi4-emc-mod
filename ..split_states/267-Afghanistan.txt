@@ -1,0 +1,32 @@
+
+state={
+	id=267
+	name="STATE_267" # Kabul
+	manpower = 4637140
+	
+	state_category = town
+	
+	resources={
+		tungsten=3 # was: 3
+	}
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2  
+		}
+		victory_points = {
+			10737 5 
+		}
+		victory_points = {
+			12248 1
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+193 7516 731 7981 748 1406 10822 12307 12762 1658 12824 12870
+}
+
+}

@@ -1,0 +1,31 @@
+state={
+	id=492
+	name="STATE_492"
+	resources={
+		tungsten=2 # was: 2.000
+	}
+	
+	state_category = rural
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 1
+
+		}
+		add_core_of = NUL
+		victory_points = {
+			2210 1 
+		}
+
+	}
+
+	provinces = { 
+2181 16019 16018 16020 2209 16022 16021 16023 2224 5200 16026 16025 16027 16024 16029 16028 16030 12946 16032 16031 16033 13079 16035 16034 16036 13168
+}
+
+	manpower=1601278
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,28 @@
+
+state={
+	id=306
+	name="STATE_306" # Cundinamarca
+	manpower = 4953049
+	
+	state_category = city
+	
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 5
+			air_base = 2
+		}
+		add_core_of = NUL
+		victory_points = {
+			10747 10
+		}
+
+	}
+
+	provinces = { 
+2078 914 7933 14365 7988 16402 7990 16404 16403 16405 10743 16407 16406 16408 10786 16409 10842 16410
+}
+
+}

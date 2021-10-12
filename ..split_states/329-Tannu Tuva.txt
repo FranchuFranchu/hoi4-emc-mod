@@ -1,0 +1,29 @@
+
+state={
+	id=329
+	name="STATE_329"
+	manpower = 85000
+	resources={
+		chromium=2 # was: 2
+	}
+	
+	state_category = rural
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+		}
+		victory_points = {
+			10627 3
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+7816 10593 10642 12618
+}
+
+}

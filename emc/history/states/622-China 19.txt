@@ -10,6 +10,7 @@ state={
 		owner = NUL
 		add_core_of = NUL
 		add_core_of = NUL
+		add_core_of = NUL
 		victory_points = {
 			8049 3 
 		}
@@ -34,10 +35,9 @@ state={
 
 	}
 
-	provinces = { 
-517 832 1457 1734 4937 1802 5005 7206 1812 7311 1875 7656 4748 8046 4806 10729 4881 10876 6489 12149 6562 12349 6586
-}
-
+	provinces={
+		517 1458 4939 5007 7208 7314 7659 8049 10733 10880 12156 12356 
+	}
 	manpower=7006200
 	buildings_max_level_factor=1.000
 	state_category=city

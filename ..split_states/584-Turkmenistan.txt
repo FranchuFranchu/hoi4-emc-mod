@@ -1,0 +1,25 @@
+state={
+	id=584
+	name="STATE_584"
+
+	history={
+		add_core_of = NUL
+		owner = NUL
+		victory_points = {
+			12333 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+	}
+
+	provinces = { 
+756 1592 1648 4480 4956 4547 7474 5001 7488 10402 10481 10738 12352 12484
+}
+
+	manpower=1064523
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

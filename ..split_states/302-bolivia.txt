@@ -1,0 +1,33 @@
+state={
+	id=302
+	name="STATE_302"
+	resources={
+		tungsten=60 # was: 102.000
+		steel=2 # was: 2.000
+	}
+	
+	state_category = city
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 5
+			air_base = 2
+
+		}
+		add_core_of = NUL
+		victory_points = {
+			5230 5 
+		}
+
+	}
+
+	provinces = { 
+1282 740 1677 589 1830 1769 2001 5177 2075 2031 3106 5227 3592 3155 3988 8154 4416 4344 4521 8222 4689 4618 5000 10934 5092 10948 6754 5155 7104 5133 7375 7359 7406 10983 7611 7455 8026 12923 9889 9349 10017 12972 10256 10247 10258 13127 13167 13188 2173
+}
+
+	manpower=2044500
+	buildings_max_level_factor=1.000
+}

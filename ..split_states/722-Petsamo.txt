@@ -1,0 +1,23 @@
+state={
+	id=722
+	name="STATE_722"
+	manpower = 2371
+
+	state_category = enclave
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 3
+			9140 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = NUL
+	}
+	
+	provinces = { 
+6010 6181 9137 11138
+}
+
+}

@@ -1,0 +1,22 @@
+
+state={
+	id=494
+	name="STATE_494"
+	manpower = 735826
+	
+	state_category = rural
+	
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+2211 4537 4337 4552 2225 4765 4679 6019 4566 6088 6027 6157 5164 6571 6332 6934 8157 7215 7101 7353 7073 7786 7652 7790 8188 9274 7858 9869 7846 10322 10191 10352 10936 10452 10449 10492
+}
+
+}

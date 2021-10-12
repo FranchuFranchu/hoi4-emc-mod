@@ -21,6 +21,7 @@ state={
 			}
 		}
 		add_core_of = NUL
+		add_core_of = NUL
 		1939.1.1 = {
 			buildings = {
 				industrial_complex = 2
@@ -28,8 +29,7 @@ state={
 		}
 	}
 
-	provinces = { 
-741 754 3574 3737 3756 9695 9711 11666 11699
-}
-
+	provinces={
+		741 754 3575 3738 3757 9698 9714 11670 11703 
+	}
 }

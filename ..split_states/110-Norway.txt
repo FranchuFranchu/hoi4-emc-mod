@@ -1,0 +1,37 @@
+
+state={
+	id=110
+	name="STATE_110"
+	manpower = 1410219
+	
+	state_category = city
+	
+	resources={
+		aluminium=5 # was: 8
+	}
+
+	history={
+		victory_points = {
+			6115 15 
+		}
+		
+		owner = NUL
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 3
+			dockyard = 1
+			air_base = 4
+			6115 = {
+				naval_base = 6
+				coastal_bunker = 3
+			}
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+10 14 27 100 111 133 144 179 3006 3020 3058 3093 3104 3135 3170 6040 6070 6078 6112 6113 6134 6149 6158 6182 9029 9033 9100 9132 9154 9171 9201 9224 11024 11025 11033 11074 11109 11131 11147 11180 11202
+}
+
+}

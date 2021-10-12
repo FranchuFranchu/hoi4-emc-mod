@@ -1,0 +1,33 @@
+
+state={
+	id=398
+	name="STATE_398"
+	manpower = 2135879
+	state_category = rural
+	resources={
+		aluminium=6 # was: 10
+	}
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 6
+			arms_factory = 1
+
+		}
+		victory_points = {
+			7375 1 
+		}
+		add_core_of = NUL
+		1939.1.1 = {
+			buildings = {
+				arms_factory = 2
+			}
+		}
+	}
+
+	provinces = { 
+123 390 1335 3126 9280 10282 11224 12580 12619
+}
+
+}

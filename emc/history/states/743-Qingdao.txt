@@ -10,6 +10,7 @@ state=
 	{
 		owner = NUL
 		add_core_of = NUL
+		add_core_of = NUL
 		victory_points = {
 			10000 5 
 		}
@@ -28,8 +29,7 @@ state=
 			
 		}
 	}
-	provinces = { 
-9996
-}
-
+	provinces={
+		10000
+	}
 }

@@ -1,0 +1,35 @@
+
+state={
+	id=496
+	name="STATE_496" # Minas Gerais
+	manpower = 4603600
+	
+	state_category = town
+	
+	resources={
+		steel=3 # was: 4
+	}
+
+	history={
+		owner = NUL
+		victory_points = {
+			7476 3
+		}
+		victory_points = {
+			10999 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			10999 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+2152 4568 529 5221 1091 7586 1496 8193 1524 8230 10927 10995 12896 1552 12902 2210 12931 3443 10941 12970 2166 7473 4817 8145 5193 12916 2189 2217 12431 6467 10356 8207 6568 12472 2184 8223 12327 7048
+}
+
+}

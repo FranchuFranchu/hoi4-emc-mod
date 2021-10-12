@@ -1,0 +1,27 @@
+state=
+{
+	id=559
+	name="STATE_559"
+	manpower = 1028895
+	
+	state_category = rural
+	
+	history={
+		owner = NUL
+		add_core_of = NUL
+		victory_points = {
+			12991 3 
+		}
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			12941 = {
+				naval_base = 2
+			}
+		}
+	}
+	provinces = { 
+1963 596 1965 665 2019 4663 2062 4746 4716 4791 4907 5063 8161 4901 4802 6648 10814 7039 10887 7181 10924 7689 11010 7754 7739 7780 12833 7819 12934 7823 12984 7884
+}
+
+}

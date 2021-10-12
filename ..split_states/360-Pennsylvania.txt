@@ -1,0 +1,46 @@
+
+state={
+	id=360
+	name="STATE_360"
+	manpower = 9631346
+	
+	state_category = megalopolis
+	
+	resources={
+		steel=44 # was: 80
+	}
+
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 5
+			dockyard = 7
+			air_base = 2
+			6845 = {
+				naval_base = 8
+
+			}
+		}
+		add_core_of = NUL
+		victory_points = {
+			6845 20
+		}
+		victory_points = {
+			11800 15
+		}
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 6
+				dockyard = 8
+			}
+		}
+
+	}
+
+	provinces = { 
+702 822 847 862 880 891 894 3686 3696 3801 3823 3846 3849 3879 3896 6703 6843 6867 6870 6883 6897 9659 9786 9801 9817 9833 11644 11754 11765 11781 11785 11795 11796 11813 12398
+}
+
+}

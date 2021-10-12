@@ -1,0 +1,27 @@
+
+state = {
+	id=154
+	name="STATE_154"
+	manpower = 2735383
+
+	state_category = city
+
+	history = {
+		owner = NUL
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+			arms_factory = 1
+			air_base = 2
+		}
+		victory_points = {
+			11659 1 
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+679 699 730 3729 6668 6698 6733 9653 9703 11621 11640 11642 11655
+}
+
+}

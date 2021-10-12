@@ -1,0 +1,30 @@
+
+state={
+	id=364
+	name="STATE_364"
+	manpower = 1738764
+	
+	state_category = city
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			7202 = {
+				naval_base = 2
+
+			}
+		}
+		add_core_of = NUL
+		victory_points = {
+			7202 1 
+		}
+
+	}
+
+	provinces = { 
+1484 1546 3993 4489 4651 7010 7132 7200 7524 10025 10043 11922
+}
+
+}

@@ -1,0 +1,32 @@
+
+state={
+	id=376
+	name="STATE_376"
+	manpower = 423316
+	
+	state_category = rural
+	
+	resources={
+		oil=14 # was: 20
+		aluminium=30 # was: 52
+	}
+
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		add_core_of = NUL
+		victory_points = {
+			4975 1
+		}
+	}
+
+	provinces = { 
+1971 1296 641 1376 2101 3866 1793 3882 1796 4973 5042 2004 8067 10638 10641 4297 10863 10910 4351 12545 5038 4801 5053 12677 12713 12784 5084
+}
+
+	
+}

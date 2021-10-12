@@ -21,8 +21,7 @@ state=
 			4357 1 
 		}
 	}
-	provinces = { 
-12096
-}
-
+	provinces={
+		4357 12103
+	}
 }

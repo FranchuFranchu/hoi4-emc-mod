@@ -1,0 +1,30 @@
+
+state={
+	id=363
+	name="STATE_363"
+	manpower = 3170274
+	
+	state_category = city
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+			air_base = 3
+			1132 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = NUL
+		victory_points = {
+			7138 3 
+		}
+
+	}
+
+	provinces = { 
+1019 1077 1131 1162 6941 7043 7081 7136 7640 9873 9963 10047 10077 10092 10464 10491 11779 12047 12438
+}
+
+}

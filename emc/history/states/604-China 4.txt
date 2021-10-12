@@ -6,6 +6,7 @@ state={
 		owner = NUL
 		add_core_of = NUL
 		add_core_of = NUL
+		add_core_of = NUL
 		victory_points = {
 			7940 10 
 		}
@@ -33,10 +34,9 @@ state={
 
 	}
 
-	provinces = { 
-8034 12892
-}
-
+	provinces={
+		4914 4964 7940 8018 8037 12899 
+	}
 	manpower=1196100
 	buildings_max_level_factor=1.000
 	state_category=rural

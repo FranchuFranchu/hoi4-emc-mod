@@ -14,6 +14,7 @@ state={
 		owner = NUL
 		add_core_of = NUL
 		add_core_of = NUL
+		add_core_of = NUL
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -31,15 +32,14 @@ state={
 				CHI = { transfer_state = PREV }
 			}
 			JAP = {
-				
-				
-				
+				set_province_controller = 1018
+				set_province_controller = 4023
+				set_province_controller = 10004
 			} 			
 		}
 	}
 
-	provinces = { 
-4022 4119 4175 7042 7135 7190 10000 10046 10101 11921 11977 12017
-}
-
+	provinces={
+		1018 4023 4121 4177 7044 7137 7192 10004 10050 10105 11926 11983 12023 
+	}
 }

@@ -1,0 +1,32 @@
+state={
+	id=792
+	name="STATE_792"
+	resources={
+		steel=8.000
+	}
+
+	history={
+		owner = NUL
+		victory_points = {
+			740 10
+		}
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			arms_factory = 1
+			740 = {
+				naval_base = 1
+			}
+			air_base = 1
+		}
+	}
+
+	provinces = { 
+3734 13226
+}
+
+	manpower=928094
+	buildings_max_level_factor=1.000
+	state_category=town
+}

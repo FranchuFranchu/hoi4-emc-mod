@@ -1,0 +1,27 @@
+state={
+	id=94
+	name="STATE_94"
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = {
+			3392 1
+		}
+		victory_points = {
+			560 1
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+535 560 3255 3308 3391 3495 3555 6278 6304 6413 6544 6577 9517 11281 11499 11524
+}
+
+	manpower=1232200
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

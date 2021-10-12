@@ -1,0 +1,39 @@
+
+state={
+	id=493
+	name="STATE_493"
+	manpower = 2826781
+	resources={
+		oil=15 # was: 20
+	}
+	
+	state_category = town
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			air_base = 4
+			12790 = {
+				naval_base = 5
+			}
+			8056 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = NUL
+		victory_points = {
+			2023 1 
+		}
+		victory_points = {
+			12790 5 
+		}
+
+	}
+
+	provinces = { 
+1936 18814 18813 18815 2022 18817 18816 18818 2084 18819 4967 18821 18820 18822 8053 18823 10490 18824 10860 18826 18825 18827 12696 18829 18828 18830 12783 18831 12838 18833 18832 18834 12865 18835
+}
+
+}

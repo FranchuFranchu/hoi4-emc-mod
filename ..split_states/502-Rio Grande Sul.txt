@@ -1,0 +1,29 @@
+
+state={
+	id=502
+	name="STATE_502"
+	manpower = 2959600
+	
+	state_category = town
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 5
+			air_base = 2
+			10447 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = NUL
+		victory_points = {
+			10447 3 
+		}
+
+	}
+
+	provinces = { 
+1541 1001 1584 4494 1597 4509 4434 4573 4564 4587 4580 4602 7222 5108 7309 7578 7335 7591 7350 7635 10443 7364 12389 7405
+}
+
+}

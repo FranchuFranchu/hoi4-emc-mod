@@ -1,0 +1,45 @@
+
+state={
+	id=594
+	name="STATE_594"
+	manpower = 6550000
+	state_category = town
+	resources={
+		tungsten=11 # was: 14
+		steel = 8 # was: 10
+		chromium = 3 # was: 4
+	}
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		victory_points = { 
+			7137 10 
+		}
+
+		1938.10.25 = {
+			if = {
+				limit = {
+					NOT = { has_dlc = "Waking the Tiger" }
+				}
+				remove_core_of = GXC
+				CHI = { transfer_state = PREV }
+			}
+			JAP = {
+				
+				
+				
+			} 			
+		}
+	}
+
+	provinces = { 
+4022 4119 4175 7042 7135 7190 10000 10046 10101 11921 11977 12017
+}
+
+}

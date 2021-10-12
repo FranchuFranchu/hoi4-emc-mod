@@ -1,0 +1,32 @@
+state={
+	id=540
+	name="STATE_540"
+	resources={
+		rubber=1.000
+	}
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 1
+			8248 = {
+				naval_base = 1
+			}
+		}
+		victory_points = {
+			8248 1 
+		}
+		victory_points = {
+			10966 1 
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+1551 18115 18114 18116 18113 18118 18117 18119 2125 18120 4733 18123 18122 18124 18121 18126 18125 18127 5156 7545 18130 18129 18131 18128 18133 18132 18134 8051 18136 18135 18137 8135 8199 8216 18138 8245 10962 18139 12384 18140 12951 12974 18141 12978
+}
+
+	manpower=3200000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

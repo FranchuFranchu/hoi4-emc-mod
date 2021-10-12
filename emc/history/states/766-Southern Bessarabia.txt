@@ -11,6 +11,7 @@ state=
 			6727 1
 		}
 		add_core_of = NUL
+		add_core_of = NUL
 		owner = NUL
 		buildings = {
 			infrastructure = 4
@@ -18,9 +19,10 @@ state=
 			6727 = {
 				naval_base = 3
 			}
-		}	}
-	provinces = { 
-3700 3703 6725 6741
-}
-
+		}
+		add_core_of = NUL
+	}
+	provinces=
+	{
+3701 3704 6727 6743	}
 }

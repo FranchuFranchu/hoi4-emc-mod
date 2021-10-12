@@ -1,10 +1,9 @@
 state={
 	id=893
 	name="STATE_893"
-	provinces = { 
-14355
-}
-
+	provinces={
+		14362
+	}
 	manpower=30
 	state_category = small_island
 	history={

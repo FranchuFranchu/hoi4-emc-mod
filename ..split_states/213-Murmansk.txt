@@ -1,0 +1,32 @@
+
+state={
+	id=213
+	name="STATE_213"
+	manpower = 275751
+	state_category = rural
+	resources={
+		steel=14 # was: 28
+		chromium=12 # was: 24
+	}
+
+	history={
+		owner = NUL
+		victory_points = {
+			3134 5 
+		}
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+			3134 = {
+				naval_base = 4
+				coastal_bunker = 1
+			}
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+74 98 116 142 3011 3133 3169 6115 6138 6179 6192 9056 9112 9120 9159 9162 9176 9198 9200 9212 9214 11027 11084 11113 11124 11136 11179 11192
+}
+
+}

@@ -1,0 +1,28 @@
+state={
+	id=748
+	name="STATE_748"
+	provinces = { 
+1010 1743 4139 4323 1811 4429 2104 9936 3067 10759 3368 11966 3747
+}
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 2
+
+		}
+		victory_points = {
+			1010 3
+		}
+		1939.1.1 = {
+			buildings = {
+				infrastructure = 4
+				air_base = 1
+			}
+		}
+	}
+	manpower=1500000
+	state_category=pastoral
+	buildings_max_level_factor=1.000
+}

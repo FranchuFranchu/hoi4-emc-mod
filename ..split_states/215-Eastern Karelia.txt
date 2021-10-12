@@ -1,0 +1,26 @@
+state={
+	id=215
+	name="STATE_215"
+	resources={
+		steel=30 # was: 52.000
+	}
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = NUL
+
+	}
+
+	provinces = { 
+36 801 80 134 155 157 176 2997 3007 3066 3070 3188 6094 6096 6173 9042 9052 9071 9116 86 9192 9195 11041 11050 11090 11092 11142 11171 11177 11208 13123
+}
+
+	manpower=214858
+	
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

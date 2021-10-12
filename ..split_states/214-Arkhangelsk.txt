@@ -1,0 +1,34 @@
+
+state={
+	id=214
+	name="STATE_214"
+	manpower = 1050883
+	
+	state_category = town
+
+	history={
+		owner = NUL
+		victory_points = {
+			3338 5 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 3
+			3338 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = NUL
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 2
+			}
+		}
+	}
+
+	provinces = { 
+3 72 18 87 138 89 127 140 180 18754 183 312 3030 3063 3064 3074 26 3079 3080 3091 3129 3167 3337 6086 6032 6049 6073 18755 6098 6100 6103 3165 6107 6164 6191 6197 9038 18757 18756 18758 9098 9121 9127 9184 18759 9210 9245 11034 11038 11057 11067 11070 11085 11133 11167 11174
+}
+
+}

@@ -1,0 +1,45 @@
+
+state={
+	id=285
+	name="STATE_285"
+	manpower = 2563100
+	state_category = large_city
+	
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 4
+			dockyard = 2
+			air_base = 5
+			12406 = {
+				naval_base = 6
+				coastal_bunker = 2
+			}
+			7859 = {
+				bunker = 1
+			}
+			7520 = {
+				coastal_bunker = 1
+			}
+		}
+		victory_points = {
+			7859 30 
+		}
+		
+		victory_points = {
+			12406 20.0
+		}
+		
+		victory_points = {
+			7520 1 
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+1536 4960 1610 5205 1666 7982 1860 2113 10556 10554 10628 10518 10665 10630 10685 2145 10691 10750 4451 10880 4476 10916 4498 12328 4656 12513 4671 4761 4834 12534 4862 5132 12642 5159 12658 7447 13900 7468 7493 13902 7517 7530 13904 7646 13907 7661 13909 7856 8231 8246 14034 13911 14074 10384 10423 14075 10451 14076 10496 14078 10678 14087 10973 11015 14096 2162 14097 12370 14105 12399 12428 12525 14137 12553 12927 12961
+}
+
+}

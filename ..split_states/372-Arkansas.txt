@@ -1,0 +1,31 @@
+
+state={
+	id=372
+	name="STATE_372"
+	manpower = 1854481
+	
+	state_category = town
+	
+	resources={
+		aluminium=14 # was: 20
+	}
+
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+		}
+		add_core_of = NUL
+		victory_points = {
+			12489 1 
+		}
+
+	}
+
+	provinces = { 
+1502 1645 4442 4565 4595 14790 4623 7482 7540 7583 10351 10473 12451 12482 12771
+}
+
+}

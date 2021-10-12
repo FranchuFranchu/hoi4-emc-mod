@@ -1,0 +1,30 @@
+
+state={
+	id=522
+	name="STATE_522"
+	
+	manpower = 367200
+	state_category = rural
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			air_base = 1
+			1652 = {
+				naval_base = 1
+				coastal_bunker = 1
+			}
+		}
+		victory_points = {
+			1652 3 
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+1651 2156 18531 4628 18532 5173 18533 7450 18534 8127 18535 8225 18536 8240 18537 10979 18538
+}
+
+}

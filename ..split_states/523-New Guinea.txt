@@ -1,0 +1,46 @@
+state={
+	id=523
+	name="STATE_523"
+
+	history={
+		add_core_of = NUL
+		owner = NUL
+		buildings = {
+			infrastructure = 2
+			air_base = 3
+
+			4329 = {
+				naval_base = 3
+
+			}
+			12237 = {
+				naval_base = 2
+
+			}
+			12154 = {
+				naval_base = 1
+
+			}
+			12240 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			4329 3 
+		}
+		victory_points = {
+			12237 1 
+		}
+
+	}
+
+	provinces = { 
+1388 2128 4287 1309 4327 7302 7362 10143 10227 10244 10419 4315 10950 4391 11000 4633 7330 11014 7346 12100 12116 12128 12147 12230 12233 12393 1221 12421 1241 12477 12924 12988
+}
+
+	manpower=1077000
+	buildings_max_level_factor=1
+	state_category="rural"
+}

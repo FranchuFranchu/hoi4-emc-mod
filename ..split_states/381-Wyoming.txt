@@ -1,0 +1,21 @@
+
+state={
+	id=381
+	name="STATE_381"
+	manpower = 225564
+	state_category = rural
+	
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+1814 4608 4721 4792 4818 7685 7811 7885 10636 10707 12554 12626 12644
+}
+
+	
+}

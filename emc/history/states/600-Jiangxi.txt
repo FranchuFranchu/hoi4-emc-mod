@@ -5,6 +5,7 @@ state={
 	history={
 		owner = NUL
 		add_core_of = NUL
+		add_core_of = NUL
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 2
@@ -15,15 +16,15 @@ state={
 		}
 		1938.10.25 = {
 			JAP = {
-				
-				
-				
-				
-				
-				
-				
-				
-				
+				set_province_controller = 1153
+				set_province_controller = 1628
+				set_province_controller = 3992
+				set_province_controller = 4038
+				set_province_controller = 4185
+				set_province_controller = 7653
+				set_province_controller = 10114
+				set_province_controller = 11988
+				set_province_controller = 13141
 
 			}
 
@@ -31,10 +32,9 @@ state={
 
 	}
 
-	provinces = { 
-1053 1066 1109 1627 3991 4037 4080 4082 4154 4181 4183 7002 7052 7170 7197 7650 9939 9980 10053 10108 10110 10497 11940 11955 11982 12023 12488 13134
-}
-
+	provinces={
+		1053 1066 1110 1628 3992 4038 4081 4083 4156 4183 4185 7004 7054 7172 7199 7653 9942 9984 10057 10112 10114 10501 11945 11961 11988 12030 12495 13141 
+	}
 	manpower=15820400
 	buildings_max_level_factor=1.000
 	state_category=town

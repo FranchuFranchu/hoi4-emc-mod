@@ -8,6 +8,7 @@ state={
 	history={
 		owner = NUL
 		add_core_of = NUL
+		add_core_of = NUL
 		buildings = {
 			infrastructure = 3
 			11981 = {
@@ -16,8 +17,7 @@ state={
 		}
 	}
 	
-	provinces = { 
-11975
-}
-
+	provinces={
+		11981 
+	}
 }

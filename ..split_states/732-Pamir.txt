@@ -1,0 +1,24 @@
+state={
+	id=732
+	name="STATE_732"
+
+	history={
+		add_core_of = NUL
+		owner = NUL
+		victory_points = {
+			12583 1
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+
+	provinces = { 
+1482 4222 4389 4465 10656 13140
+}
+
+	manpower=230000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

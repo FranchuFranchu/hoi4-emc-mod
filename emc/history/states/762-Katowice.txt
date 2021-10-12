@@ -1,10 +1,9 @@
 state={
 	id=762
 	name="STATE_762"
-	provinces = { 
-506 6462
-}
-
+	provinces={
+		506 6464
+	}
 	manpower=1000000
 	resources={
 		steel=19 # was: 60

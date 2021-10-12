@@ -1,0 +1,28 @@
+
+state={
+	id=108
+	name="STATE_108"
+	resources={
+		steel=3.000
+	}
+
+	history={
+		victory_points = {
+			9602 3 
+		}
+		owner = NUL
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+630 3921 3938 6951 6968 6996 9599 9753 9903 11883
+}
+
+	manpower=707000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

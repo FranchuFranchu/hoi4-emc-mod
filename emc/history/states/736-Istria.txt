@@ -12,6 +12,7 @@ state={
 		add_core_of = NUL
 		add_core_of = NUL
 		add_core_of = NUL
+		add_core_of = NUL
 		buildings = {
 			infrastructure = 2
 			6626 = {
@@ -23,10 +24,9 @@ state={
 
 	}
 
-	provinces = { 
-6624 11591 11731
-}
-
+	provinces={
+		599 6626 11595 11735 
+	}
 	manpower=1063159
 	buildings_max_level_factor=1.000
 }

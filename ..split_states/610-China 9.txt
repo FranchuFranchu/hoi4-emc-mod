@@ -1,0 +1,23 @@
+
+state={
+	id=610
+	name="STATE_610" # Jehol
+	manpower = 1975377
+	
+	state_category = pastoral
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 4
+		}
+
+	}
+
+	provinces = { 
+814 881 934 972 3813 3827 3880 3933 3954 4512 6835 6850 6896 6935 6986 7572 7630 9765 9870 9902 9924 10327 10422 6933 10495 11797 11851 11882
+}
+
+}

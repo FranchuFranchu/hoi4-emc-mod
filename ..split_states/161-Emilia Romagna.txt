@@ -1,0 +1,33 @@
+
+state={
+	id=161
+	name="STATE_161"
+	manpower = 3202401
+	
+	state_category = large_city
+	
+	resources={
+		aluminium=9 # was: 16
+	}
+
+	history={
+		owner = NUL
+		victory_points = {
+			6606 3 
+		}
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+			air_base = 2
+			782 = {
+				naval_base = 2
+			}
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+782 3772 3975 6604 6788 6791 6983 9749 9921
+}
+
+}

@@ -1,0 +1,20 @@
+state=
+{
+	id=625
+	name="STATE_625"
+	manpower = 1138724
+	
+	state_category = rural
+	history=
+	{
+		owner = NUL
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = NUL
+	}
+	provinces = { 
+1310 4371
+}
+
+}

@@ -1,0 +1,36 @@
+
+state={
+	id=284
+	name="STATE_284" # North Island
+	manpower = 899836
+	
+	state_category = city
+	
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 6
+			arms_factory = 1
+			industrial_complex = 4
+			air_base = 3
+			4543 = {
+				naval_base = 3
+			}
+			1814 = {
+				naval_base = 2
+			}
+		}
+		victory_points = {
+			1814 10
+		}
+		victory_points = {
+			4543 5 
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+1813 4613 10369 10706 12355 12597 12610 12657
+}
+
+}

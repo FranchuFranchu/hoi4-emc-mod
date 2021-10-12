@@ -1,0 +1,29 @@
+state=
+{
+	id=79
+	name="STATE_79"
+	manpower = 2806400
+	
+	state_category = rural
+	
+	history=
+	{
+		owner = NUL
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			air_base = 2
+		}
+		victory_points = {
+			9716 1 
+		}
+		victory_points = {
+			6706 1 
+		}
+		add_core_of = NUL
+	}
+	provinces = { 
+723 744 3727 3740 6582 6704 6727 6745 6759 9698 9713 11530 11648 11651 11668 11685
+}
+
+}

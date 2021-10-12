@@ -1,0 +1,27 @@
+state={
+	id=402
+	name="STATE_402"
+	resources={
+		chromium=15.000
+	}
+
+	history={
+		owner = NUL
+		victory_points = {
+			7341 1
+		}
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 3
+
+		}
+	}
+
+	provinces = { 
+1246 4225 4292 4298 4636 7310 10249 12101 12287
+}
+
+	manpower=282245
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

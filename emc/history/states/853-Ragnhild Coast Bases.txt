@@ -10,8 +10,7 @@ state={
 		add_core_of = NUL
 	}
 	
-	provinces = { 
-14247 14250 14252 14256
-}
-
+	provinces={
+		14254 14257 14259 14263
+	}
 }

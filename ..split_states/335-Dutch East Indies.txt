@@ -1,0 +1,42 @@
+
+state={
+	id=335
+	name="STATE_335" # Java
+	manpower = 41718200
+	
+	state_category = city
+	
+	resources={
+		rubber=140 # was: 242
+		oil=10 # was: 16
+	}
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		victory_points = {
+			7381 5
+		}
+		victory_points = {
+			4608 3 
+		}
+
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			dockyard = 1
+			air_base = 3
+			7381 = {
+				naval_base = 6
+			}
+			4608 = {
+				naval_base = 3
+			}
+		}
+	}
+
+	provinces = { 
+1208 1385 1397 1412 1424 4304 4388 4404 4432 4606 4619 7220 7378 7418 7639 7651 10131 10275 10303 10475 10487 12242 12270 12286 12465
+}
+
+}

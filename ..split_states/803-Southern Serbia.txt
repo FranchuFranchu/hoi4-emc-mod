@@ -1,0 +1,27 @@
+
+state={
+	id=803
+	name="STATE_803"
+
+	history={
+		victory_points = {
+			11857 1 
+		}
+		owner = NUL
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = NUL
+		add_claim_by = BUL
+
+	}
+
+	provinces = { 
+11828 11853 11864
+}
+
+	manpower=210000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

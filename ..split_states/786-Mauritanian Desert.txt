@@ -1,0 +1,22 @@
+state={
+	id=786
+	name="STATE_786" # Mauritanian Desert
+	manpower = 124200
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 0
+		}
+
+	}
+
+	provinces = { 
+1896 1961 7940 8032 10767 10775 10834
+}
+
+}

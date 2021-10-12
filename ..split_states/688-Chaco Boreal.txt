@@ -1,0 +1,25 @@
+state={
+	id=688
+	name="STATE_688"
+	manpower = 45900
+	
+	state_category = pastoral
+	
+	resources={
+		tungsten=3 # was: 4
+		steel=2 # was: 2
+	}
+
+	history={
+		owner = PLA
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = PLA
+	}
+	
+	provinces = { 
+2194 7679 7636 7772 2208 10667 10484 11683 10201 18145 12232 18146 5163 18148 18147 18149 8200 18152 18151 18153 18150 18155 18154 18156 10969 18158 18157 18159
+}
+
+}

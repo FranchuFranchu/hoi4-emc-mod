@@ -11,12 +11,13 @@ state={
 		victory_points = {
 			1517 1 
 		}
+		add_core_of = NUL
+
 	}
 
-	provinces = { 
-1516 7638 12156 13001
-}
-
+	provinces={
+		475 642 1517 3593 4523 4620 7641 10262 11701 12163 12383 13008 
+	}
 	manpower=245133
 	buildings_max_level_factor=1.000
 	state_category=rural

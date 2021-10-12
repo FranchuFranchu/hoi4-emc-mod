@@ -1,0 +1,49 @@
+
+state={
+	id=15
+	name="STATE_15"
+	manpower = 2332100
+	resources={
+		steel=21 # was: 36
+	}
+	
+	state_category = city
+
+	history={
+		owner = NUL
+		victory_points = {
+			9434 10
+		}
+		victory_points = {
+			6449 3
+		}
+		victory_points = {
+			11563 5
+		}
+		victory_points = {
+			485 3
+		}
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 2
+			air_base = 6
+			6449 = {
+				naval_base = 3
+				coastal_bunker = 1
+			}
+			9434 = {
+				naval_base = 5
+				coastal_bunker = 1
+			}
+			485= {
+				naval_base = 1
+			}
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+485 539 553 3533 3548 3578 6447 6567 6597 9431 9547 9575 11517 11531 11559
+}
+
+}

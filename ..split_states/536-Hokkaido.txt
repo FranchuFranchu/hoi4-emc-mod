@@ -1,0 +1,31 @@
+
+state={
+	id=536
+	name="STATE_536"
+	manpower = 2812000
+	
+	state_category = rural
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 3
+			3962 = { #FWM
+				naval_base = 1
+			}
+		}
+		victory_points = {
+			10444 15 
+		}
+		victory_points = {
+			12421 5 
+		}
+
+	}
+
+	provinces = { 
+1511 1641 7472 3961 4574 7562 4644 7529 7592 10440 10508 12345 12414 12486 7590
+}
+
+}

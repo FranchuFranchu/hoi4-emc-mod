@@ -1,0 +1,39 @@
+state={
+	id=747
+	name="STATE_747"
+	provinces = { 
+4557 4935 7962 2116 7973 8123 10409 10859 12782 4090 12891 4214
+}
+
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category = pastoral
+	history={
+		owner = NUL
+		add_core_of = NUL
+		add_core_of = NUL
+		victory_points = {
+			7965 3 
+		}
+		buildings = {
+			infrastructure = 3
+		}
+		1938.10.25 = {
+			if = {
+				limit = {
+					NOT = {
+						has_dlc = "Waking the Tiger" 
+					}
+
+				}
+				CHI = {
+					transfer_state = PREV
+
+				}
+
+			}
+
+		}
+
+	}
+}

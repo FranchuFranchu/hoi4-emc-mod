@@ -1,0 +1,23 @@
+
+state={
+	id=399
+	name="STATE_399"
+	manpower = 1324935
+	state_category = rural
+	resources={
+		chromium=18 # was: 24
+	}
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+6222 6386 7400 9290 11316 11361 12237
+}
+
+}

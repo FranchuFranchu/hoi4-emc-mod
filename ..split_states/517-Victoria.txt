@@ -1,0 +1,43 @@
+
+state={
+	id=517
+	name="STATE_517"
+	
+	manpower = 2219500
+	
+	state_category = large_city
+	
+	resources={
+		steel=8 # was: 12
+		chromium=4 # was: 6
+	}
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 5
+			air_base = 3
+			7798 = {
+				naval_base = 4
+				coastal_bunker = 1
+			}
+			12910 = {
+				naval_base = 2
+			}
+		}
+		victory_points = {
+			7798 20
+		}
+		victory_points = {
+			12910 5 
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+1758 858 1772 2129 939 896 1765 2154 2014 4774 3154 7752 4296 7795 4789 7808 5085 10549 6200 10577 7315 10618 10633 12569 7709 12903 12911 7787 12917 7895 12925 7946
+}
+
+}

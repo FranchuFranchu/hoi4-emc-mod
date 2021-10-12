@@ -1,0 +1,31 @@
+
+state={
+	id=501
+	name="STATE_501"
+	manpower = 6199200
+	state_category = city
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		buildings = {
+			arms_factory = 1
+			industrial_complex = 3
+			infrastructure = 5
+			5112 = {
+				naval_base = 4
+			}
+		}		
+		victory_points = {
+			10513 20
+		}
+		victory_points = {
+			5112 1
+		}
+	}
+
+	provinces = { 
+1582 16052 7633 10509 10943 10990 10999 5184 11004 16053 12930 12965 16054 10428 5110 5165 7550
+}
+
+}

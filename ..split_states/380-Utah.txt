@@ -1,0 +1,27 @@
+state= {
+	id=380
+	name="STATE_380"
+	manpower = 507846
+	
+	state_category = rural
+	
+	resources={
+		tungsten=76 # was: 106
+	}
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		add_core_of = NUL
+		victory_points = {
+			4865 1 
+		}
+	}
+	provinces = { 
+1662 16311 1739 16312 1755 16313 4666 16314 4740 16315 4863 16316 7761 7815 10578 16317 10647 16318 10658 16319 12566 16320 12692 16321 13146
+}
+
+}

@@ -1,0 +1,22 @@
+
+state={
+	id=273
+	name="STATE_273" # Libyan Desert
+	manpower = 42633
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+1057 1060 1993 4189 1216 5002 10100 1453 1430 4439 10781 11946 1139 12016 12075 12859
+}
+
+}

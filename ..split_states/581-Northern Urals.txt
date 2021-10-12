@@ -1,0 +1,27 @@
+
+state={
+	id=581
+	name="STATE_581"
+	manpower = 48831
+	
+	state_category = wasteland
+	
+	resources={
+		chromium=40 # was: 44
+		aluminium=27 # was: 30
+	}
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+4872 7821 12386 12495 13069
+}
+
+}

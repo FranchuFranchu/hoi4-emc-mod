@@ -1,0 +1,39 @@
+state={
+	id=616
+	name="STATE_616"
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 2
+
+		}
+		1938.10.25 = {
+			if = {
+				limit = {
+					NOT = {
+						has_dlc = "Waking the Tiger" 
+					}
+
+				}
+				CHI = {
+					transfer_state = PREV
+
+				}
+
+			}
+
+		}
+
+	}
+
+	provinces = { 
+3741 5055 7508 8052 5098 8078 10407 8124 10421 10720 10434 12743 11030 10806 12166 12769
+}
+
+	manpower=2077600
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

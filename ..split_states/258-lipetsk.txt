@@ -1,0 +1,24 @@
+
+state={
+	id=258
+	name="STATE_258"
+	manpower = 1282096
+	
+	state_category = town
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 5
+		}
+		add_core_of = NUL
+		victory_points = {
+			6398 1
+		}
+	}
+
+	provinces = { 
+356 3198 3290 3317 3345 6228 6315 6339 6367 6396 9336 9391
+}
+
+}

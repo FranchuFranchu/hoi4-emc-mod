@@ -1,0 +1,25 @@
+
+state={
+	id=209
+	name="STATE_209" # Pskov
+	manpower = 639587
+	
+	state_category = town
+
+	history={
+		owner = NUL
+		victory_points = {
+			11202 3
+		}
+		buildings = {
+			infrastructure = 6
+			air_base = 4
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+95 415 3052 3309 6322 9117 9316 9405 11093 11198 11300 11388
+}
+
+}

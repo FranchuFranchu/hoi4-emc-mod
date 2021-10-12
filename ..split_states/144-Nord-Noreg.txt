@@ -1,0 +1,45 @@
+
+state={
+	id=144
+	name="STATE_144"
+	manpower = 355251
+	
+	state_category = rural
+	
+	resources={
+		steel=9 # was: 12
+		tungsten = 15 # was: 20
+	}
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			192 = {
+				naval_base = 3
+			}
+			9116 = {
+				naval_base = 3
+			}
+			11050 = {
+				naval_base = 2
+			}
+		}
+		victory_points = {
+			192 1
+		}
+		victory_points = {
+			9116 1
+		}
+		victory_points = {
+			11050 1
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+22 38 44 64 91 1547 128 173 192 2994 3015 3033 3039 3047 3057 3081 3087 3125 3131 3144 2065 6013 6069 6077 6090 6105 6109 6128 6185 4317 6212 9039 9061 9086 9113 9123 9125 9188 9205 11046 11059 11073 11086 11100 11153 4346 76 4431 11165
+}
+
+}

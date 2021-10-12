@@ -1,0 +1,38 @@
+state={
+	id=719
+	name="STATE_719" # Natal
+	manpower = 3962157
+	resources={
+		chromium=60 # was: 116
+	}
+	
+	state_category = city
+
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			air_base = 1
+			1468 = {
+				naval_base = 2
+			}
+			4696 = {
+				naval_base = 2
+			}
+		}
+		victory_points = {
+			1468 3 
+		}
+		victory_points = {
+			4696 1 
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+1467 14037 1493 14086 14039 14107 1832 4554 14168 14118 14201 4582 14207 14202 14208 4694 7573 14213 7897 8175 14221
+}
+
+}

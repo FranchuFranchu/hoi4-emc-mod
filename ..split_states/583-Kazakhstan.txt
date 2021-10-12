@@ -1,0 +1,23 @@
+state={
+	id=583
+	name="STATE_583"
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 4
+
+		}		victory_points = {
+			10312 1
+		}
+	}
+
+	provinces = { 
+1271 1359 7230 12136 12178 12222 12250 12278
+}
+
+	manpower=315450
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

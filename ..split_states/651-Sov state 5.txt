@@ -1,0 +1,29 @@
+
+state={
+	id=651
+	name="STATE_651" # Ufa
+	manpower = 2552075
+
+	state_category = city
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			1278 5
+		}
+		victory_points = {
+			4354 1 
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+273 1257 6244 7413 12123 12165
+}
+
+}

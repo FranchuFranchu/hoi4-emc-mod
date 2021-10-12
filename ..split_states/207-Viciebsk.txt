@@ -1,0 +1,25 @@
+
+state={
+	id=207
+	name="STATE_207"
+	manpower =  1217854
+	
+	state_category = town
+
+	history={
+		owner = NUL
+		victory_points = {
+			11241 5
+		}
+		buildings = {
+			infrastructure = 5
+			air_base = 5
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+323 3218 3330 6218 6247 6324 6369 9238 9320 11216 11237
+}
+
+}

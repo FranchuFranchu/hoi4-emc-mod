@@ -1,0 +1,39 @@
+state=
+{
+	id=615
+	name="STATE_615"
+	manpower = 11601000
+	
+	state_category = town
+	
+	history=
+	{
+		owner = NUL
+		add_core_of = NUL
+		add_core_of = NUL
+		victory_points = {
+			1519 3 
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 2
+		}
+
+		1938.10.25 = {
+			#remove_core_of = SHX
+			owner = NUL
+			
+			PRC = {
+				
+				
+				
+				
+			}
+		}
+	}
+	provinces = { 
+1027 1034 10601 1179 1202 1437 1518 1530 17439 1574 4073 17440 4172 4467 4536 4632 7568 10363 10417 10476 10503 12071 12293 12337 12425 17441
+}
+
+}

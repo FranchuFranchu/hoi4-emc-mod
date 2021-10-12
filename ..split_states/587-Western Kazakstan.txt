@@ -1,0 +1,23 @@
+state={
+	id=587
+	name="STATE_587"
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {
+			1517 1 
+		}
+	}
+
+	provinces = { 
+1516 7638 12156 13001
+}
+
+	manpower=245133
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

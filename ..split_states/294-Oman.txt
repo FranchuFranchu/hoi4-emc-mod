@@ -1,0 +1,33 @@
+
+state={
+	id=294
+	name="STATE_294"
+	manpower = 369000
+	
+	state_category = rural
+	
+	resources={
+		oil=2 # was: 2
+	}
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1 
+			10760 = {
+				naval_base = 3
+			}
+		}
+		victory_points = {
+			10760 3 
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+1946 17717 17716 17718 2017 17720 17719 17721 2058 17723 17722 17724 2102 17725 4991 17726 5047 17728 17727 17729 7999 17731 17730 17732 8017 17733 10756 17734
+}
+
+}

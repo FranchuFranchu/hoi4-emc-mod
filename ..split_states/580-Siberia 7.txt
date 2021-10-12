@@ -1,0 +1,22 @@
+
+state={
+	id=580
+	name="STATE_580" # Tobolsk
+	manpower = 88126
+	
+	state_category = wasteland
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+7892 10600 12595 12623 12693
+}
+
+}

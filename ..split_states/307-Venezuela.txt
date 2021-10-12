@@ -1,0 +1,38 @@
+
+state={
+	id=307
+	name="STATE_307" # Miranda
+	
+	state_category = city
+	
+	manpower = 1335010
+	resources={
+		oil=41 # was: 58
+	}
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 5
+			air_base = 2
+			8113 = {
+				naval_base = 3
+			}
+			10912 = {
+				naval_base = 2
+			}
+		}
+		add_core_of = NUL
+		victory_points = {
+			8113 5 
+		}
+
+	}
+
+	provinces = { 
+4940 1177 1094 1368 7965 1564 8021 1684 8077 1712 8110 1745 10763 10819 1785 10908 5054 1800 4890 1900 1815 2048 4998 4180 3939 4541
+}
+
+}

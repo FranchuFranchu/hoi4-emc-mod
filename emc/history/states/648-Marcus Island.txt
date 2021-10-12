@@ -17,8 +17,7 @@ state=
 		}
 
 	}
-	provinces = { 
-13019
-}
-
+	provinces=
+	{
+13026 	}
 }

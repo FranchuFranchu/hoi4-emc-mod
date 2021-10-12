@@ -19,17 +19,18 @@ state={
 			6573 1 
 		}
 		add_core_of = NUL
-		add_claim_by = HUN
+		
 
 		1939.3.14 = {
 			owner = NUL
 			
-			remove_claim_by = HUN			add_core_of = NUL
+			
+			add_core_of = NUL
+			add_core_of = NUL
 		}
 	}
 	
-	provinces = { 
-3564 3715 6559 9534 11675
-}
-
+	provinces={
+		3565 3716 6561 6573 9537 11679 
+	}
 }

@@ -1,0 +1,32 @@
+
+state={
+	id=18
+	name="STATE_18"
+	manpower = 1370800
+	
+	state_category = city
+
+	history={
+		owner = NUL
+		victory_points = {
+			9490 5 
+		}
+		victory_points = {
+			13011 5
+		}
+		victory_points = {
+			3560 1
+		}
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+			air_base = 10
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+551 3532 3559 5289 6529 6543 9469 9487 9502 11728 13004
+}
+
+}

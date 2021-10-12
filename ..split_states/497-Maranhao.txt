@@ -1,0 +1,34 @@
+
+state={
+	id=497
+	name="STATE_497"
+	manpower = 2950100
+	
+	state_category = rural
+	
+	resources={
+		rubber=23 # was: 30
+	}
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 1
+			12853 = {
+				naval_base = 2
+			}
+		}
+		add_core_of = NUL
+		victory_points = {
+			12853 1 
+		}
+
+	}
+
+	provinces = { 
+2149 410 2213 9334 6572 9470 6471 10154 10152 10813 993 12194 12124 12213 12115 16284 12223 16285 2227 16287 16286 16288 5151 16289 5202 16290 5218 16292 16291 16293 10870 16294 10980 16295 12846 16297 16296 16298 12906 16299 12926 16301 16300 16302 12940 16303 12992 16306 16305 16307 16304 16309 16308 16310
+}
+
+}

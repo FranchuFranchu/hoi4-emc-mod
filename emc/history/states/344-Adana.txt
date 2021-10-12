@@ -28,12 +28,11 @@ state={
 			}
 		}
 		add_core_of = NUL
-		add_claim_by = KUR
+		
 	}
 
-	provinces = { 
-806 3888 6811 7617 9890 9909 11742
-}
-
+	provinces={
+		806 3889 6813 7620 9893 9912 11746 
+	}
 
 }

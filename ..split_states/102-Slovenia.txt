@@ -1,0 +1,24 @@
+state=
+{
+	id=102
+	name="STATE_102"
+	manpower = 1144300
+	
+	state_category = large_town
+	
+	history =
+	{
+		owner = NUL
+		buildings = {
+			infrastructure = 6
+		}
+		victory_points = {
+			9627 3 
+		}
+		add_core_of = NUL
+	}
+	provinces = { 
+3630 3653 6670 9593 9624
+}
+
+	}

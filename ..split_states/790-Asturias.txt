@@ -1,0 +1,31 @@
+state={
+	id=790
+	name="STATE_790"
+
+	history={
+		owner = NUL
+		victory_points = {
+			11707 3
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			arms_factory = 1
+			11707 = {
+				naval_base = 2
+
+			}
+
+		}
+		add_core_of = NUL
+
+	}
+
+	provinces = { 
+738 6747 9716 11684 11703 13211
+}
+
+	manpower=1197252
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

@@ -13,11 +13,10 @@ state={
 				naval_base = 1
 			}
 		}
-		add_claim_by = ARG
+		
 	}
 	
-	provinces = { 
-10991
-}
-
+	provinces={
+		10995 
+	}
 }

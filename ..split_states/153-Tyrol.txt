@@ -1,0 +1,31 @@
+
+state={
+	id=153
+	name="STATE_153"
+	manpower = 1655340
+	
+	state_category = town
+
+	history={
+		owner = NUL
+		victory_points = {
+			673 5 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			air_base = 3
+		}
+		add_core_of = NUL
+
+		1938.3.12 = {
+			owner = NUL
+			
+		}
+	}
+
+	provinces = { 
+668 671 3674 6671 6676 6678 9630 9633 11614 11630
+}
+
+}

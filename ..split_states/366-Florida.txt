@@ -1,0 +1,40 @@
+
+state={
+	id=366
+	name="STATE_366"
+	manpower = 1468210
+	
+	state_category = city
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			air_base = 8
+			1572 = {
+				naval_base = 2
+			}
+			1843 = {
+				naval_base = 5
+			}
+			7388 = {
+				naval_base = 3
+			}
+			10352 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = NUL
+		victory_points = {
+			1843 5 
+		}
+
+	}
+
+	provinces = { 
+866 1555 1571 1583 1842 1912 7385 9831 10348 10403 10485 12346 12374 12432 12745 2035
+}
+
+	
+}

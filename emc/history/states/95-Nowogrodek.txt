@@ -13,12 +13,13 @@ state={
 
 		}
 		add_core_of = NUL
+		add_core_of = NUL
+
 	}
 
-	provinces = { 
-3280 3365 3392 6357 6411 9233 9301 9356 11337 13199
-}
-
+	provinces={
+		318 3281 3366 3393 6359 6413 9236 9304 9359 11341 13206 
+	}
 	manpower=1598900
 	buildings_max_level_factor=1.000
 	state_category=rural

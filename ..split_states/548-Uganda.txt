@@ -1,0 +1,27 @@
+state={
+	id=548
+	name="STATE_548"
+
+	state_category = rural
+	resources={
+		rubber=3 # was: 4
+	}
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = NUL
+		victory_points = {
+			12989 1
+		}
+	}
+
+	provinces = { 
+3853 1492 7086 1631 7131 4597 4561 7557 12922 7615 7560 7632 12982 7921 13170
+}
+
+	manpower=3515625
+	buildings_max_level_factor=1.000
+}

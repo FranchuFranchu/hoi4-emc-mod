@@ -17,10 +17,10 @@ state={
 			6682 1 
 		}
 		add_core_of = NUL
+		add_core_of = NUL
 	}
 
-	provinces = { 
-696 6680 6695 9637
-}
-
+	provinces={
+		696 6682 6697 9640 
+	}
 }

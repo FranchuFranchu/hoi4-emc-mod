@@ -1,0 +1,21 @@
+
+state={
+	id=256
+	name="STATE_256"
+	manpower = 1572061
+	
+	state_category = town
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 4
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+6355 9277 9370 11251 11259 11282 11352 11383
+}
+
+}

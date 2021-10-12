@@ -1,0 +1,29 @@
+
+state={
+	id=571
+	name="STATE_571" # Omsk
+	manpower = 1317157
+	
+	state_category = town
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+		}
+		victory_points = {
+			10696 3 
+		}
+		add_core_of = NUL
+		1939.1.1 = {
+			buildings = {
+				arms_factory = 2
+			}
+		}
+	}
+
+	provinces = { 
+1834 10564 10692 12645
+}
+
+}

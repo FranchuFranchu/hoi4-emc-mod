@@ -13,12 +13,14 @@ state={
 
 		}
 		add_core_of = NUL
+		add_core_of = NUL
+		add_core_of = NUL
+
 	}
 
-	provinces = { 
-6938 9846 9871 9887
-}
-
+	provinces={
+		6940 9849 9874 9890 
+	}
 	manpower=616000
 	buildings_max_level_factor=1.000
 	state_category=pastoral

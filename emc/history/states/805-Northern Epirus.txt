@@ -1,10 +1,9 @@
 state={
 	id=805
 	name="STATE_805"
-	provinces = { 
-14366
-}
-
+	provinces={
+		914 14372 14373
+	}
 	manpower = 262200
 	resources={
 		#chromium=45 # was: 84
@@ -22,13 +21,13 @@ state={
 			infrastructure = 2
 		}
 		add_core_of = NUL
-		add_claim_by = GRE
-		add_claim_by = ITA
+		
+		
 
 		1939.4.12 = {
 			owner = NUL
 			
-			remove_claim_by = ITA
+			
 		}
 	}
 }

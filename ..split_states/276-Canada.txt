@@ -1,0 +1,32 @@
+
+state={
+	id=276
+	name="STATE_276" # Southern Ontario
+	manpower = 3117017
+	
+	state_category = large_city
+	
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 7
+			arms_factory = 2
+			industrial_complex = 4
+			air_base = 5
+		}
+		add_core_of = NUL
+		victory_points = {
+			3778 20 
+		}
+		victory_points = {
+			3775 10
+		}
+
+	}
+
+	provinces = { 
+722 749 774 3604 3607 3634 3639 3660 3774 3777 4268 6605 6608 6623 6628 6660 6674 6795 9577 9580 9582 9631 9708 9740 11563 11565 11581 11598 11691 11721 11724 13149
+}
+
+	
+}

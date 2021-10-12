@@ -1,0 +1,52 @@
+
+state={
+	id=607
+	name="STATE_607"
+	manpower=34289800
+	
+	state_category = town
+	
+	buildings_max_level_factor=1.000
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+		}
+		victory_points = {
+			9958 1 
+		}
+
+		1938.10.25 = {		
+			buildings = {
+				industrial_complex = 4
+				infrastructure = 8
+				air_base = 2
+				arms_factory = 2
+			}
+			JAP = {
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			} 			
+		}
+	}
+
+	provinces = { 
+1004 1138 1602 4009 4065 4112 4142 4517 4545 4604 6930 7072 7083 7124 7127 7456 7505 7537 7565 7653 9954 9991 10094 10360 10430 10442 11926 12006 12419
+}
+
+}

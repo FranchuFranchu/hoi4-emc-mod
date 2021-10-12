@@ -1,0 +1,35 @@
+
+state={
+	id=481
+	name="STATE_481" # Durango
+	manpower = 1255094
+	
+	state_category = rural
+	
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 3
+			dockyard = 1
+			8057 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = NUL
+		victory_points = {
+			7921 10
+		}
+		#victory_points = {
+		#	8057 10
+		#}
+		#victory_points = {
+		#	10895 5
+		#}
+	}
+
+	provinces = { 
+1944 18734 3620 18735 4944 18736 7918 18737 8000 18739 18738 18740 8054 18742 18741 18743 10849 18745 18744 18746 10867 18748 18747 18749 10891 18750 12797 18752 18751 18753
+}
+
+	
+}

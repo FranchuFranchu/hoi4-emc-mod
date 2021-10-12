@@ -1,0 +1,22 @@
+
+state={
+	id=655
+	name="STATE_655"
+	manpower = 94759
+	
+	state_category = pastoral
+	history={
+		owner = NUL
+		add_core_of = NUL
+		add_claim_by = JAP
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+		}
+	}
+
+	provinces = { 
+855 1229 1224 1251 1741 1315 1303 1403 1754 2046 1415 2169
+}
+
+}

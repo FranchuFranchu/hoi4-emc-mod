@@ -1,0 +1,30 @@
+state={
+	id=680
+	name="STATE_680"
+	manpower = 324110
+	
+	state_category = wasteland
+
+	history={
+		owner = NUL
+		victory_points = {
+			3942 1
+		}
+		victory_points = {
+			1549 1
+		}
+		victory_points = {
+			6883 1
+		}
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = NUL
+	}
+
+
+	provinces = { 
+901 1548 1577 1605 1633 2012 3941 18728 6881 7510 10379 10878 12309 12435
+}
+
+}

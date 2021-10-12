@@ -21,11 +21,10 @@ state={
 
 		}
 		add_core_of = NUL
-		add_claim_by = BUL
+		
 	}
 
-	provinces = { 
-9788 9927 11770 11901
-}
-
+	provinces={
+		9791 9930 11774 11905 
+	}
 }

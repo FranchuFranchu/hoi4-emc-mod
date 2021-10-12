@@ -1,0 +1,38 @@
+state={
+	id=146
+	name="STATE_146"
+
+	state_category = town
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+
+			#Mannerheim Line
+			9100 = {
+				bunker = 2
+			}
+			9105 = {
+				bunker = 2
+			}
+			9206 = {
+				coastal_bunker = 1
+			}
+		}
+		victory_points = {
+			9206 3 
+		}
+		
+
+	}
+
+	provinces = { 
+2331 3382 3351 4735 3049 3059 3132 3186 6050 6148 6151 9097 9102 9147 9173 9203 11042 11152 11158
+}
+
+	manpower=418635
+	buildings_max_level_factor=1.000
+}

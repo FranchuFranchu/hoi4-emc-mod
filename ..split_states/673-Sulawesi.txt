@@ -1,0 +1,34 @@
+state={
+	id=673
+	name="STATE_673"
+	manpower = 4232000
+	resources={
+		rubber=30 # was: 52
+	}
+
+	state_category = town
+
+
+	history= {
+		owner = NUL
+		add_core_of = NUL
+		victory_points = {
+			10263 3 
+		}
+
+		buildings = {
+			infrastructure = 3
+			air_base = 4
+			10153 = {
+				naval_base = 3
+			}
+			10263 = {
+				naval_base = 3
+			}
+		}
+	}
+	provinces = { 
+1097 1288 1560 1588 4491 7308 7595 10149 10218 12437
+}
+
+}

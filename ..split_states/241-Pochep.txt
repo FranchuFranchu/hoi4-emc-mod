@@ -1,0 +1,25 @@
+
+state={
+	id=241
+	name="STATE_241" # Gomel
+	manpower = 943422
+	
+	state_category = rural
+
+	history={
+		owner = NUL
+		victory_points = {
+			9288 10 
+		}
+		buildings = {
+			infrastructure = 5
+			air_base = 3
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+289 6231 6342 6352 9244 9285 9339 9368 9393 11226 11267 11351 11379
+}
+
+}

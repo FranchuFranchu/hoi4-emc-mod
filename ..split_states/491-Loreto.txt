@@ -1,0 +1,21 @@
+
+state={
+	id=491
+	name="STATE_491"
+	manpower = 176626
+
+	state_category = pastoral
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+5160 15993 15992 15994 3498 15996 15995 15997 8210 16000 15999 16001 15998 16003 16002 16004 10966 16007 16006 16008 16005 16010 16009 16011 12862 16012
+}
+
+}

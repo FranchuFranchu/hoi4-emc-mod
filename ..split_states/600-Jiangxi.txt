@@ -1,0 +1,41 @@
+state={
+	id=600
+	name="STATE_600"
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+
+		}
+		victory_points = {
+			3992 3 
+		}
+		1938.10.25 = {
+			JAP = {
+				
+				
+				
+				
+				
+				
+				
+				
+				
+
+			}
+
+		}
+
+	}
+
+	provinces = { 
+1053 1066 1109 1627 3991 4037 4080 4082 4154 4181 4183 7002 7052 7170 7197 7650 9939 9980 10053 10108 10110 10497 11940 11955 11982 12023 12488 13134
+}
+
+	manpower=15820400
+	buildings_max_level_factor=1.000
+	state_category=town
+}

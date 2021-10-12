@@ -1,0 +1,25 @@
+state=
+{
+	id=457
+	name="STATE_457" # Arabian Desert
+	manpower = 2194
+	
+	state_category = wasteland
+	
+	history = {
+		owner = NUL
+		buildings = {
+			infrastructure = 1
+		}
+
+		victory_points = {
+			12002 1
+		}
+
+		add_core_of = NUL
+	}
+	provinces = { 
+1080 4067 4908 1308 5067 1390 7154 9953 10122 11996 12882
+}
+
+}

@@ -1,0 +1,35 @@
+state={
+	id=431
+	name="STATE_431"
+	resources={
+		steel=13.000
+		# tungsten=11.000
+	}
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			dockyard = 1
+			air_base = 2
+			4245 = {
+				naval_base = 6
+
+			}
+
+		}
+		victory_points = {
+			4245 5 
+		}
+
+	}
+
+	provinces = { 
+1158 1608 1655 4061 4202 4243 4433 4642 7217 7534 10073 12043 12331
+}
+
+	manpower=18778100
+	buildings_max_level_factor=1.000
+	state_category=city
+}

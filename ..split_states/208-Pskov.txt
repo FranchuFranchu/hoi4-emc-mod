@@ -1,0 +1,25 @@
+
+state={
+	id=208
+	name="STATE_208" # Luga
+	manpower = 341819
+	
+	state_category = rural
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 5
+			air_base = 3
+		}
+		add_core_of = NUL
+		victory_points = {
+			9098 1
+		}
+	}
+
+	provinces = { 
+104 126 181 3119 6137 6195 9094 9095 11028 11076 11135 11182
+}
+
+}

@@ -1,0 +1,33 @@
+
+state={
+	id=461
+	name="STATE_461"
+	resources={
+		chromium=12.000 #added due to portugal setup
+	}
+
+	manpower = 3197719
+	
+	state_category = rural
+	
+	history={
+		owner = NUL
+		add_core_of = NUL
+		victory_points = {
+			7069 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 4
+			7069 = {
+				naval_base = 4
+			}
+		}
+	}
+
+	provinces = { 
+989 1079 1110 1193 4083 4095 4137 14791 7067 7098 7114 7171 10009 10019 10066 11938 14792 11981 12035
+}
+
+}

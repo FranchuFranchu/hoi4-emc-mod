@@ -1,0 +1,29 @@
+
+state={
+	id=448
+	name="STATE_448"
+	manpower = 469136
+	
+	state_category = town
+
+	history={
+		owner = NUL
+		
+		victory_points = {
+			1149 10 
+		}
+		buildings = {
+			infrastructure = 3
+			air_base = 6
+			1149 = {
+				naval_base = 5
+			}
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+1117 1148 7064 12032
+}
+
+}

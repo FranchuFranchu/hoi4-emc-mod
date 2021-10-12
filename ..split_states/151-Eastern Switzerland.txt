@@ -1,0 +1,30 @@
+
+state={
+	id=151
+	name="STATE_151"
+	manpower = 1854711
+	
+	
+	state_category = city
+	
+	resources={
+		aluminium=15 # was: 24
+	}
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+		}
+		victory_points = {
+			663 10 
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+661 663 3659 3661 9597 11597 11619
+}
+
+}

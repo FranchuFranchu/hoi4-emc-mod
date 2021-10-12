@@ -15,10 +15,10 @@ state=
 			}
 		}
 		add_core_of = NUL
+		add_core_of = NUL
 		start_resistance = CRO #Yugoslavia shouldn't resist occupation
 	} 
-	provinces = { 
-3942
-}
-
+	provinces={	
+		3943 
+	}
 }

@@ -22,10 +22,10 @@ state= {
 			}
 		}
 		add_core_of = NUL
+		add_core_of = NUL
 	}
 
-	provinces = { 
-253 311 377 407 3273 6361 9361 11357
-}
-
+	provinces=
+	{
+253 311 377 407 3274 6363 9364 11361 	}
 }

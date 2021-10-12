@@ -1,0 +1,40 @@
+
+state={
+	id=529
+	name="STATE_529" # Chugoku
+	manpower = 5341000
+	state_category = large_city
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 7
+			air_base = 3
+			dockyard = 2
+			arms_factory = 2
+			industrial_complex = 2
+			1092 = {
+				naval_base = 10
+
+			}
+		}
+		
+		victory_points = {
+			1092 30
+		}
+		1939.1.1 = {
+			buildings = {
+				dockyard = 3
+				arms_factory = 3
+				industrial_complex = 3
+			}
+		}
+
+	}
+
+	provinces = { 
+1166 1190 4195 7143 7210 9964 10048 10051 11941 11979
+}
+
+}

@@ -18,8 +18,7 @@ state=
 		add_core_of = NUL
 	}
 	
-	provinces = { 
-9225
-}
-
+	provinces=	{
+		9228
+	}
 }

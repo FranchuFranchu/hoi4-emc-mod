@@ -1,0 +1,28 @@
+state={
+	id=588
+	name="STATE_588"
+	
+	state_category = rural
+	
+	resources={
+		chromium=16 # was: 22.000
+	}
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 4
+
+		}		victory_points = {
+			12594 1
+		}
+	}
+
+	provinces = { 
+1748 1863 4668 10198 10288 10580 10626 13144
+}
+
+	manpower=659223
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,24 @@
+
+state={
+	id=513
+	name="STATE_513" # Tlmecen
+	manpower = 811486
+	
+	state_category = wasteland
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		victory_points = {
+			12034 1 
+		}
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = { 
+1125 4405 1127 14733 1966 4017 14734 4148 4968 5051 7006 7031 7038 7147 9940 9956 1140 10041 10055 12012 12014 12027 12881 3990 13067 14735
+}
+
+}

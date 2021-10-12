@@ -1,0 +1,28 @@
+
+state={
+	id=619
+	name="STATE_619" # Yarkand
+	manpower = 1430700
+	
+	state_category = pastoral
+	
+	resources={
+		aluminium=2 # was: 2
+		chromium=2 # was: 3
+	}
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+	}
+
+	provinces = { 
+1969 4826 5014 12112
+}
+
+}

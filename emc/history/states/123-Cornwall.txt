@@ -23,8 +23,7 @@ state= {
 		add_core_of = NUL
 	}
 
-	provinces = { 
-3421 3462 6524 9559 11402
-}
-
+	provinces= {
+		540 3422 3463 6526 9562 11406
+ 	}
 }

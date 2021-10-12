@@ -13,6 +13,7 @@ state= {
 		owner = NUL
 		add_core_of = NUL
 		add_core_of = NUL
+		add_core_of = NUL
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -27,16 +28,15 @@ state= {
 			remove_core_of = GXC
 			owner = NUL
 			JAP = {
-				
-				
-				
-				
-				
+				set_province_controller = 1202
+				set_province_controller = 4050
+				set_province_controller = 7108
+				set_province_controller = 9938
+				set_province_controller = 12095
 			} 			
 		}
 	}
-	provinces = { 
-1078 1119 1161 1201 4163 4205 7065 7106 7139 7180 9935 9966 9974 9993 10076 12008 12088
-}
-
+	provinces={
+		1078 1120 1162 1202 4050 4165 4207 7067 7108 7141 7182 9938 9970 9978 9997 10080 12014 12095 
+	}
 }

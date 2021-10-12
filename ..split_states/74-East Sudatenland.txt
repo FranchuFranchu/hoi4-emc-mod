@@ -1,0 +1,31 @@
+state=
+{
+	id=74
+	name="STATE_74"
+	manpower = 820000
+	
+	state_category = rural
+	
+	
+	history=
+	{
+		victory_points = {
+			3583 5
+		}
+		owner = NUL
+		buildings = {
+			infrastructure = 7
+			arms_factory = 1
+		}
+		add_core_of = NUL
+
+		1938.9.30 = {
+			owner = NUL
+			
+		}
+	}
+	provinces = { 
+421 3582 6483
+}
+
+}

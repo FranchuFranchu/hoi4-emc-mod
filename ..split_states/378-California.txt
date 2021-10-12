@@ -1,0 +1,59 @@
+
+state={
+	id=378
+	name="STATE_378"
+	manpower = 5677248
+	
+	state_category = metropolis
+	
+	resources={
+		oil=180 # was: 350
+		aluminium=8 # was: 14
+	}
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 6
+			dockyard = 2
+			air_base = 10
+			1562 = {
+				naval_base = 10
+			}
+			9671 = {
+				naval_base = 4
+			}
+			9814 = {
+				naval_base = 5
+			}
+			610 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = NUL
+		victory_points = {
+			9814 30
+		}
+		victory_points = {
+			1562 15 
+		}
+		victory_points = {
+			9671 25
+		}
+		victory_points = {
+			9713 1 
+		}
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 7
+			}
+		}
+	}
+
+	provinces = { 
+610 677 710 10120 766 14192 768 781 823 941 14251 986 1431 14264 1561 1600 1650 18836 3587 18837 3643 3676 3677 3783 3839 4329 18838 4516 4655 18839 4725 18840 6480 6663 6679 6692 6697 6743 6755 6770 6859 6874 6879 7514 7664 18841 7983 18842 9634 9668 9694 9710 9727 9811 9852 9908 10155 18843 10383 18844 10479 11654 11694 18845 11753 11759 18846 11791 11855 11872 12296 12367
+}
+
+}

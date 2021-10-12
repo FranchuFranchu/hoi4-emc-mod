@@ -1,0 +1,35 @@
+state=
+{
+	id=597
+	name="STATE_597"
+	manpower = 38373200
+	state_category = town
+	
+	
+	history=
+	{
+		owner = NUL
+		add_core_of = NUL
+		victory_points = {
+			1069 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 3
+			4205 = {
+				naval_base = 2
+				coastal_bunker = 1
+				bunker = 1
+			}
+		}
+
+		1938.10.25 = {
+			
+		}
+	}
+	provinces = { 
+1069 1084 1103 1123 1153 1183 1199 4036 4070 4088 4155 4179 4184 4203 7053 7087 7103 7158 7187 9967 9983 10014 10039 10068 10098 11928 11956 12009 12038 12062 12067 12086
+}
+
+}

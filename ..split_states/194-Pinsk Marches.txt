@@ -1,0 +1,25 @@
+
+state={
+	id=194
+	name="STATE_194" # Mozyr
+	manpower = 934632
+	
+	state_category = rural
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 3
+			air_base = 3
+		}
+		victory_points = {
+			6232 1
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+215 3202 3292 3506 6230 6317 6554 9246 9551 11449
+}
+
+}

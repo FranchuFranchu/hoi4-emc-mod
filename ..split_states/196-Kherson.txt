@@ -1,0 +1,29 @@
+
+state={
+	id=196
+	name="STATE_196"
+	manpower = 728363
+	
+	state_category = rural
+	
+	resources={
+		chromium=15 # was: 22
+	}
+
+	history={
+		victory_points = {
+			721 1
+		}
+		owner = NUL
+		buildings = {
+			infrastructure = 5
+			air_base = 3
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+721 3572 6769 9709 11711
+}
+
+}

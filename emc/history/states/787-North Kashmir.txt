@@ -14,10 +14,11 @@ state={
 			infrastructure = 2
 		}
 		add_core_of = NUL
+		add_core_of = NUL
+
 	}
 
-	provinces = { 
-1909 10817
-}
-
+	provinces={
+		1910 2041 2084 10821 
+	}
 }

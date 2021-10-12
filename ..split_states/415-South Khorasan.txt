@@ -1,0 +1,27 @@
+
+state={
+	id=415
+	name="STATE_415" # Herat
+	manpower = 1632860
+	
+	state_category = rural
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			4893 1 
+		}
+		victory_points = {
+			5064 1 
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+1947 980 516 6596 1994 6737 2016 6882 2061 6931 2077 11415 2100 16721 4891 16722 4947 16724 16723 16725 5018 16726 5062 16727 8050 16728 8087 16729 10785 16731 16730 16732 12781 16733 12864 16734
+}
+
+}

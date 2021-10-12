@@ -1,0 +1,46 @@
+state={
+	id=672
+	name="STATE_672"
+	manpower = 8254900
+	
+	state_category = town
+	
+	resources={
+		rubber=150 # was: 268
+		oil=12 # was: 24
+		aluminium=28 # was: 50
+	}
+
+
+	history=
+	{
+		owner = NUL
+		add_core_of = NUL
+		victory_points = {
+			4652 1 
+		}
+		
+		victory_points = {
+			12268 1 
+		}
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 1
+			4652 = {
+				naval_base = 3
+			}
+			1648 = {
+				naval_base = 1
+			}
+			12268 = {
+				naval_base = 1
+			}
+		}
+	}
+	provinces = { 
+1273 1312 1331 1341 1344 1372 1400 1427 1459 1532 4209 4274 4318 4359 4362 4379 7305 7324 7365 7381 7437 7460 7670 10146 10190 10205 10221 10290 10318 10350 10378 10505 12119 12131 12158 12161 12174 12177 12202 12205 12261 12289 12295 12336 12408 12481
+}
+
+}

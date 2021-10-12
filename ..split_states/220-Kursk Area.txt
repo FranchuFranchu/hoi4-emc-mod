@@ -1,0 +1,24 @@
+
+state={
+	id=220
+	name="STATE_220"
+	manpower = 1680086
+	state_category = city
+
+	history={
+		owner = NUL
+		victory_points = {
+			3580 5
+		}
+		buildings = {
+			infrastructure = 5
+			air_base = 1
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+457 558 580 3553 3579 6252 6302 6541 6601 9257 9539 9576 11240 11522
+}
+
+}

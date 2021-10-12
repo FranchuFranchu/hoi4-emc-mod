@@ -1,0 +1,22 @@
+
+state={
+	id=514
+	name="STATE_514" # Algerian Desert
+	manpower = 207733
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 0
+		}
+	}
+
+	provinces = { 
+1957 5033 5093 8074 8085 10745 12704 12835 12842 1043
+}
+
+}

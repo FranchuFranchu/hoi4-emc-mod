@@ -9,6 +9,7 @@ state={
 	history={
 		owner = NUL
 		add_core_of = NUL
+		add_core_of = NUL
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
@@ -35,8 +36,7 @@ state={
 		}
 	}
 
-	provinces = { 
-1089 7012 7118 10072 11909 11923 11976 13135
-}
-
+	provinces={
+		996 1089 4091 7014 7120 10034 10076 11913 11928 11982 12052 12076 13142 
+	}
 }

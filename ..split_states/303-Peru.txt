@@ -1,0 +1,34 @@
+
+state={
+	id=303
+	name="STATE_303" # Lima
+	manpower = 3563249
+	resources={
+		oil=14 # was: 18
+	}
+	
+	state_category = large_city
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 6
+			air_base = 3
+			12997 = {
+				naval_base = 5
+			}
+		}
+		add_core_of = NUL
+		victory_points = {
+			12997 5 
+		}
+
+	}
+
+	provinces = { 
+2155 2161 2009 575 2092 5188 4207 3535 4657 8196 12962 4778 4752 4822 12976 6502 4992 7678 12990 7771
+}
+
+}

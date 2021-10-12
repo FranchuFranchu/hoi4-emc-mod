@@ -1,0 +1,39 @@
+state={
+	id=737
+	name="STATE_737"
+
+	history={
+		add_core_of = NUL
+		owner = NUL
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			7251 = {
+				naval_base = 5
+
+			}
+			4352 = {
+				naval_base = 1
+
+			}
+			7339 = {
+				naval_base = 1
+
+			}			
+
+		}
+		
+		victory_points = {
+			7251 5 
+		}
+		
+	}
+
+	provinces = { 
+1285 1300 1360 4419 7248 7336 12215
+}
+
+	manpower=345640
+	buildings_max_level_factor=1
+	state_category="rural"
+}

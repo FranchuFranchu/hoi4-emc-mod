@@ -1,0 +1,35 @@
+state= {
+	id=120
+	name="STATE_120"
+	manpower = 265873
+	
+	state_category = rural
+
+	resources={
+		chromium=1 # was: 2
+		tungsten=16 # was: 22
+		aluminium=9 # was: 12
+	}
+
+	history= {
+		add_core_of = NUL
+		owner = NUL
+		victory_points = { 11064 1 }
+		buildings = {
+			infrastructure = 4
+			anti_air_building = 2
+			industrial_complex = 1
+			air_base = 1
+			11064 = {
+				naval_base = 8	
+			}
+			6196 = {
+				naval_base = 1	
+			}
+		}	}
+
+	provinces = { 
+131 284 3158 3177 3372 6044 6060 6102 6194 6203 9072 9087 11060 16678 11157 11262
+}
+
+}

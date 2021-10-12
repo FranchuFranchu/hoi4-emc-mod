@@ -6,6 +6,7 @@ state={
 		owner = NUL
 		add_core_of = NUL
 		add_core_of = NUL
+		add_core_of = NUL
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
@@ -24,10 +25,9 @@ state={
 
 	}
 
-	provinces = { 
-2086 757 4523 1837 7046 3434 7156 3460 7628 10420 10625 3486 12324 4702 12396 4841 12602 6484 12873 6618
-}
-
+	provinces={
+		2087 4525 7048 7158 7631 10424 10629 12331 12403 12609 12880 
+	}
 	manpower=1583700
 	buildings_max_level_factor=1.000
 	state_category=pastoral

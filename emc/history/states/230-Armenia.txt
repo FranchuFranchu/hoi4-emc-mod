@@ -17,6 +17,7 @@ state={
 
 		}
 		add_core_of = NUL
+		add_core_of = NUL
 		1939.1.1 = {
 			buildings = {
 				industrial_complex = 3
@@ -27,10 +28,9 @@ state={
 
 	}
 
-	provinces = { 
-3563 4658 6640 6995 12313 12373 12434 12443 13116
-}
-
+	provinces={
+		3564 4660 6642 6997 11708 12320 12380 12441 12450 13123 
+	}
 	manpower=1250082
 	buildings_max_level_factor=1.000
 	state_category=town

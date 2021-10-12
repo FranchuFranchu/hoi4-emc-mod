@@ -18,10 +18,10 @@ state={
 			}
 		}
 		add_core_of = NUL
+		add_core_of = NUL
 	}
 
-	provinces = { 
-3837 9848 11800
-}
-
+	provinces={
+		3838 9851 11804 
+	}
 }

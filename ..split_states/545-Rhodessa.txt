@@ -1,0 +1,26 @@
+state={
+	id=545
+	
+	state_category = pastoral
+	
+	name="STATE_545"
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = {
+			10929 1 
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+1873 4021 1988 4106 1206 4931 4152 7201 2150 8043 7905 16271 2215 16273 16272 16274 4849 16276 16275 16277 7839 16279 16278 16280 10925 16282 16281 16283
+}
+
+	manpower=1171336
+	buildings_max_level_factor=1.000
+}

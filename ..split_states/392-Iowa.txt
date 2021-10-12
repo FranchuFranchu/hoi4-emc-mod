@@ -1,0 +1,32 @@
+
+state={
+	id=392
+	name="STATE_392"
+	manpower = 2470938
+	
+	state_category = city
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 4
+		}
+		add_core_of = NUL
+		victory_points = {
+			1770 3 
+		}
+
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 5
+			}
+		}
+
+	}
+
+	provinces = { 
+1585 7303 7536 9907 10474 10662 11965 12411 12639
+}
+
+}

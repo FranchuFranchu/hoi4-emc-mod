@@ -8,6 +8,7 @@ state=
 	{
 		owner = NUL
 		add_core_of = NUL
+		add_core_of = NUL
 		buildings = {
 			infrastructure = 3
 			air_base = 3
@@ -24,8 +25,7 @@ state=
 		 }
 
 	}
-	provinces = { 
-3994 13016 13017
-}
-
+	provinces={
+		3995 13023 13024 
+	}
 }

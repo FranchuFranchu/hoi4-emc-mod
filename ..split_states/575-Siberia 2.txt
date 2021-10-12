@@ -1,0 +1,21 @@
+
+state={
+	id=575
+	name="STATE_575" # Kirensk
+	manpower = 146494
+	
+	state_category = wasteland
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+4701 7825 10553 10684 12524 12601 12661 12674 13052 12
+}
+
+}

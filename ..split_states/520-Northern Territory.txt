@@ -1,0 +1,34 @@
+
+state={
+	id=520
+	name="STATE_520"
+
+	manpower = 13000
+	
+	state_category = wasteland
+	
+	
+	resources={
+		steel=22 # was: 28
+	}
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			7669 = {
+				naval_base = 1
+			}
+		}
+		victory_points = {
+			7669 5 
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+1409 1421 1477 2138 4413 4460 4485 7454 7478 7666 8206 8244 10272 10284 10312 10514 10933 10954 11012 12097 12239 12283 12304 12319 12332 12492 13126
+}
+
+}

@@ -1,0 +1,28 @@
+state={
+	id=582
+	name="STATE_582"
+	resources={
+		steel=40.000
+		oil=6.000
+	}
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 5
+
+		}
+		add_core_of = NUL
+		victory_points = {
+			10256 3
+		}
+	}
+
+	provinces = { 
+1333 1405 4213 4263 4409 10192 12193
+}
+
+	manpower=1044991
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

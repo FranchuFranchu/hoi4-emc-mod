@@ -1,0 +1,33 @@
+
+state={
+	id=249
+	name="STATE_249"
+	manpower = 2761291
+	
+	state_category = town
+	resources={
+		steel=25 # was: 40
+	}
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 6
+			arms_factory = 1
+		}
+		victory_points = {
+			6338 10
+		}
+		add_core_of = NUL
+		1939.1.1 = {
+			buildings = {
+				arms_factory = 2
+			}
+		}
+	}
+
+	provinces = { 
+403 404 3364 6336 9382 9511 10297 11335 11492
+}
+
+}

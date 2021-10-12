@@ -1,0 +1,28 @@
+
+state={
+	id=250
+	name="STATE_250"
+	manpower = 1630524
+	
+	state_category = town
+	resources={
+		steel=14 # was: 20
+	}
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		add_core_of = NUL
+		victory_points = {
+			392 1
+		}
+	}
+
+	provinces = { 
+6292 6335 6392 9335 11269 11369
+}
+
+}

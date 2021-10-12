@@ -1,14 +1,14 @@
 state={
 	id=745
 	name="STATE_745"
-	provinces = { 
-1149 6849
-}
-
+	provinces={
+		1150 6851 
+	}
 	state_category = large_town
 	history=
 	{
 		owner = NUL
+		add_core_of = NUL
 		add_core_of = NUL
 		add_core_of = NUL
 		victory_points = {

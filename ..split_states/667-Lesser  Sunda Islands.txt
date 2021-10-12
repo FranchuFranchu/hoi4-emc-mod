@@ -1,0 +1,37 @@
+state={
+	id=667
+	name="STATE_667"
+	resources={
+		rubber=12 # was: 16
+	}
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 3
+			1355 = {
+				naval_base = 1
+
+			}
+			10175 = {
+				naval_base = 1
+
+			}
+			12234 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces = { 
+1297 1338 1354 4271 4356 7290 7318 10171 10187 10215 12144 12155 12212 12227
+}
+
+	manpower=3460200
+	buildings_max_level_factor=1
+	state_category="town"
+}

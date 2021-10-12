@@ -20,8 +20,7 @@ state=
 		}
 		add_core_of = NUL
 	}
-	provinces = { 
-10661 12638
-}
-
+	provinces={
+		2183 2189 5181 5187 10665 12645
+	}
 }

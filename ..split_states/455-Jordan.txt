@@ -1,0 +1,29 @@
+
+state={
+	id=455
+	name="STATE_455"
+	manpower = 932000
+	
+	state_category = rural
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		victory_points = {
+			7151 1 
+		}
+		victory_points = {
+			11976 1 
+		}
+
+		add_core_of = NUL
+	}
+
+	provinces = { 
+1543 4016 4113 4438 4560 4572 4589 4601 6999 7149 7168 10085 11970
+}
+
+}

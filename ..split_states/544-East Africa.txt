@@ -1,0 +1,31 @@
+
+state={
+	id=544
+	name="STATE_544" #Mozambique
+	manpower = 4125000
+	
+	state_category = rural
+	
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			8245 = {
+				naval_base = 1
+			}
+			2123 = {
+				naval_base = 1
+			}
+		}
+		victory_points = {
+			8245 1 
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+2119 16232 12776 16233 2122 16234 2158 16236 16235 16237 2179 16239 16238 16240 2192 2201 16242 16241 16243 2216 16245 16244 16246 5153 16248 16247 16249 5162 16250 5175 16252 16251 16253 5210 16254 8242 16256 16255 16257 10968 16259 16258 16260 12928 16262 16261 16263 12943 16265 16264 16266 12964 16267
+}
+
+}

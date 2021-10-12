@@ -1,0 +1,29 @@
+state={
+	id=679
+	name="STATE_679"
+	manpower = 1511000
+	
+	state_category = pastoral
+
+	history={
+		owner = NUL
+		victory_points = {
+			12758 1 
+		}
+		victory_points = {
+			12883 1 
+		}
+		buildings = {
+			infrastructure = 3
+			12883 = {
+				naval_base = 5
+			}
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+1033 17828 1922 17830 17829 17831 2026 17832 2032 17833 2089 17835 17834 17836 2094 17837 4979 17838 5004 17839 5035 17840 7931 17841 8070 8089 17842 10744 17843 10782 17845 17844 17846 10831 17847 12094 17848 12751 17849 12876 17850
+}
+
+}

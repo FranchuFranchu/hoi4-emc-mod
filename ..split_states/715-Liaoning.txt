@@ -1,0 +1,24 @@
+state={
+	id=715
+	name="STATE_715"
+	manpower = 3643373
+	
+	state_category = town
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+		}
+
+	}
+
+	provinces = { 
+916 1115 1498 1507 1557 1626 1637 930 3876 3977 1995 4559 7528 4631 4640 6891 7809 9828 10425 11832 11899 12330 12462 12471
+}
+
+}

@@ -13,8 +13,7 @@ state={
 		add_core_of = NUL
 	}
 
-	provinces = { 
-13422
-}
-
+	provinces={
+		13429
+	}
 }

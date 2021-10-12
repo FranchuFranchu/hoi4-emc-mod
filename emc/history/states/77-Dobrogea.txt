@@ -16,11 +16,10 @@ state={
 			industrial_complex = 2
 		}
 		add_core_of = NUL
-		add_claim_by = BUL
+		
 	}
 
-	provinces = { 
-9611 11593
-}
-
+	provinces={
+		9614 11597 
+	}
 }

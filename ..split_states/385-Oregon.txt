@@ -1,0 +1,30 @@
+
+state={
+	id=385
+	name="STATE_385"
+	manpower = 953785
+	
+	state_category = town
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			air_base = 6
+			12211 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = NUL
+		victory_points = {
+			3513 1 
+		}
+
+	}
+
+	provinces = { 
+505 528 1413 672 654 772 3470 3512 4272 4326 1529 4345 4718 1598 14697 4378 4824 14699 14698 14700 7395 14701 7718 14703 14702 14704 7862 14705 10147 14706 10179 10301 14708 14707 14709 10621 14711 14710 14712 11491 11729 14713 12176 14714 12204 12274 12546 14716 14715 14717
+}
+
+}

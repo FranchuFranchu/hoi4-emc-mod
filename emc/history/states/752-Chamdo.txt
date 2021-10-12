@@ -1,15 +1,15 @@
 state={
 	id=752
 	name="STATE_752"
-	provinces = { 
-1917 3166 3176 8101 12717 3263 12830 4375 4997 6087
-}
-
+	provinces={
+		1918 7988 8104 12724 12837 4999
+	}
 	manpower=300000
 	buildings_max_level_factor=1.000
 	state_category = pastoral
 	history={
 		owner = NUL
+		add_core_of = NUL
 		add_core_of = NUL
 		victory_points = {
 			4999 1

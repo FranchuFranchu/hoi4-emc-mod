@@ -1,0 +1,39 @@
+state = {
+	id=484
+	name="STATE_484"
+	manpower = 108841
+	state_category = rural
+	
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 3
+			air_base = 3
+			1892 = {
+				naval_base = 2
+			}
+			12736 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = NUL
+
+		victory_points = {
+			12461 10
+		}
+		#victory_points = {
+		#	12736 3
+		#}
+		#victory_points = {
+		#	1892 3
+		#}
+		#victory_points = {
+		#	13215 5
+		#}
+
+	}
+	provinces = { 
+1891 14237 1903 14248 16711 7961 16712 8116 16714 16713 16715 12454 16716 12729 16718 16717 16719 12852 16720 13208 13209
+}
+
+}

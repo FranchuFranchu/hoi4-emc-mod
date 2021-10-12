@@ -16,9 +16,8 @@ state=
 			9627 3 
 		}
 		add_core_of = NUL
+		add_core_of = NUL
 	}
-	provinces = { 
-3630 3653 6670 9593 9624
-}
-
+	provinces={
+		596 665 3631 3654 6650 6672 9596 9627 }
 	}

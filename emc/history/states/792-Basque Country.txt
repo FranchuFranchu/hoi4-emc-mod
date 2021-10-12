@@ -20,12 +20,13 @@ state={
 			}
 			air_base = 1
 		}
+		add_core_of = NUL
+
 	}
 
-	provinces = { 
-3734 13226
-}
-
+	provinces={
+		740 3735 6756 13233 
+	}
 	manpower=928094
 	buildings_max_level_factor=1.000
 	state_category=town

@@ -1,0 +1,30 @@
+
+state={
+	id=460
+	name="STATE_460" # Constantine
+	manpower = 2343837
+	
+	state_category = town
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		victory_points = {
+			7081 1 
+		}
+		victory_points = {
+			12051 3 
+		}
+		buildings = {
+			infrastructure = 4
+			7081 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces = { 
+1058 1159 4045 7063 7079 7164 9972 10074 11948 12044 13070
+}
+
+}

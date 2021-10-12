@@ -8,6 +8,7 @@ state={
 	history={
 		owner = NUL
 		add_core_of = NUL
+		add_core_of = NUL
 		victory_points = {
 			4189 1 
 		}
@@ -19,8 +20,7 @@ state={
 		}
 	}
 	
-	provinces = { 
-4187
-}
-
+	provinces={
+		4189 
+	}
 }

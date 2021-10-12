@@ -1,0 +1,21 @@
+
+state={
+	id=449
+	name="STATE_449" # El Agheila
+	manpower = 40431
+	
+	state_category = enclave
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+1041 10042 12081
+}
+
+}

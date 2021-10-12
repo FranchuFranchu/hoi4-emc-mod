@@ -1,0 +1,24 @@
+state={
+	id=432
+	name="STATE_432"
+	resources={
+		oil=5.000
+	}
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces = { 
+997 1075 1580 7452 7631 10345 12359 12388
+}
+
+	manpower=8977100
+	buildings_max_level_factor=1.000
+	state_category=town
+}

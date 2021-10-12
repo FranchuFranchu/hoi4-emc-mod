@@ -16,12 +16,13 @@ state={
 
 		}
 		add_core_of = NUL
+		add_core_of = NUL
+
 	}
 
-	provinces = { 
-630 3921 3938 6951 6968 6996 9599 9753 9903 11883
-}
-
+	provinces={
+		630 3922 3939 6953 6970 6998 9602 9756 9906 11887 
+	}
 	manpower=707000
 	buildings_max_level_factor=1.000
 	state_category=town

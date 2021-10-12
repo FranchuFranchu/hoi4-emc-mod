@@ -1,0 +1,26 @@
+state={
+	id=175
+	name="STATE_175"
+
+	history={
+		owner = NUL
+		victory_points = {
+			6832 1 
+		}
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 6
+
+		}
+		add_core_of = NUL
+
+	}
+
+	provinces = { 
+3952 6894 9825 9878 11859 12074
+}
+
+	manpower=526903
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

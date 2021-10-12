@@ -1,0 +1,24 @@
+state={
+	id=515
+	name="STATE_515"
+	
+	state_category = pastoral
+	impassable = yes
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces = { 
+4911 8125 10776 10801 10913
+}
+
+	manpower=1456356
+	buildings_max_level_factor=1.000
+}

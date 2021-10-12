@@ -18,10 +18,10 @@ state={
 			infrastructure = 5
 		}
 		add_core_of = NUL
+		add_core_of = NUL
 	}
 
-	provinces = { 
-463 501 522 3454 3519 9474 9563 11458 11549
-}
-
+	provinces={
+		463 501 522 3225 3455 3520 6565 9477 9566 11462 11553 
+	}
 }

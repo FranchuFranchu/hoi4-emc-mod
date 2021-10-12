@@ -1,0 +1,24 @@
+
+state={
+	id=53
+	name="STATE_53"
+	manpower = 1453365
+	
+	state_category = city
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 6
+		}
+		add_core_of = NUL
+		victory_points = {
+			9515 3
+		}
+	}
+
+	provinces = { 
+532 571 586 3298 3540 3570 6723 9512 9678 11493
+}
+
+}

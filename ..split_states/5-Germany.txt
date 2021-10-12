@@ -1,0 +1,28 @@
+
+state={
+	id=5
+	name="STATE_5"
+	manpower = 1238108
+	state_category = town
+
+	history={
+		victory_points = {
+			6375 3
+		}
+		#victory_points = {
+		#	11386 1
+		#}
+		owner = NUL
+		
+		
+		buildings = {
+			infrastructure = 6
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+266 3350 3379 6373 6400 9324 9343 9369 9395 11241 11382
+}
+
+}

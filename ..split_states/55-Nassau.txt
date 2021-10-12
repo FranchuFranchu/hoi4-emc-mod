@@ -1,0 +1,36 @@
+
+state={
+	id=55
+	name="STATE_55"
+	manpower = 3798235
+
+	state_category = large_city
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 7
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		victory_points = {
+			6488 20.0 
+		}
+		victory_points = {
+			564 3
+		}
+		add_core_of = NUL
+
+		1939.1.1 = {
+			buildings = {
+				air_base = 3
+				arms_factory = 4
+			}
+		}
+	}
+
+	provinces = { 
+564 3396 3523 3573 6442 6486 6547 9483 9521 9544 11441 11529 11556
+}
+
+}

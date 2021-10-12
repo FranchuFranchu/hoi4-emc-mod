@@ -1,0 +1,32 @@
+
+state={
+	id=22
+	name="STATE_22" # Languedoc
+	manpower = 1691200
+	
+	
+	state_category = town
+	
+	resources={
+		steel=70 # was: 136
+		aluminium=50 # was: 96
+	}
+
+	history={
+		owner = NUL
+		victory_points = {
+			9898 1 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+			air_base = 2
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+752 760 3750 6768 6958 6960 9720 9895 11705 11707 11873
+}
+
+}

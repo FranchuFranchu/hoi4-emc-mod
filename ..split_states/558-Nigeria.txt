@@ -1,0 +1,32 @@
+
+state={
+	id=558
+	name="STATE_558"
+	manpower = 19757000
+	
+	state_category = rural
+	resources={
+		rubber=2 # was: 3
+	}
+	history={
+		owner = NUL
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 3
+			arms_factory = 0
+			industrial_complex = 1
+			2050 = {
+				naval_base = 3
+			}
+		}
+		victory_points = {
+			2050 1
+		}
+
+	}
+
+	provinces = { 
+1991 2024 2049 4887 4950 4970 4995 7975 8018 8031 8106 10816 10827 12724 12810 12893
+}
+
+}

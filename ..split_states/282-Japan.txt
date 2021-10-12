@@ -1,0 +1,45 @@
+
+state={
+	id=282
+	name="STATE_282" # Kanto
+	manpower = 13773000
+	
+	state_category = megalopolis
+	
+	resources={
+		aluminium=1 # was: 2
+	}
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 8
+			air_base = 6
+			industrial_complex = 5
+			arms_factory = 2
+			dockyard = 4
+			9998 = {
+				naval_base = 6
+
+			}
+
+		}
+		victory_points = {
+			1182 50 
+		}
+		1939.1.1 = {
+			buildings = {
+				arms_factory = 4
+				dockyard = 4
+				industrial_complex = 6
+			}
+		}
+
+	}
+
+	provinces = { 
+1096 1112 1181 3999 4098 4182 4186 7014 9994 11904
+}
+
+}

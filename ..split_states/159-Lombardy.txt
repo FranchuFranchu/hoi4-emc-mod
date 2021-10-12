@@ -1,0 +1,33 @@
+
+state={
+	id=159
+	name="STATE_159"
+	manpower = 5597704
+	state_category = metropolis
+
+	history={
+		owner = NUL
+		victory_points = {
+			3780 15 
+		}
+		buildings = {
+			infrastructure = 8
+			arms_factory = 7
+			industrial_complex = 3
+			air_base = 10
+
+		}
+		add_core_of = NUL
+		1939.1.1 = {
+			buildings = {
+				arms_factory = 7
+				industrial_complex = 4
+			}
+		}
+	}
+
+	provinces = { 
+969 3775 6659 9581 11564 11583 11730
+}
+
+}

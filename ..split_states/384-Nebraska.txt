@@ -1,0 +1,26 @@
+
+state={
+	id=384
+	name="STATE_384"
+	manpower = 1377962
+	
+	state_category = large_town
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		add_core_of = NUL
+		victory_points = {
+			12586 1 
+		}
+
+	}
+
+	provinces = { 
+1682 3612 3707 3854 4747 4758 4828 7837 7849 10602 10672 12509 12579
+}
+
+}

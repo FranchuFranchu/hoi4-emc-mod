@@ -1,0 +1,25 @@
+state={
+	id=665
+	name="STATE_665"
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		victory_points = {
+			7005 1 
+		}
+		buildings = {
+			infrastructure = 3
+
+		}
+	}
+	
+	state_category = pastoral
+
+	provinces = { 
+1104 3986 10022 11930 13172
+}
+
+	manpower=427824
+	buildings_max_level_factor=1.000
+}

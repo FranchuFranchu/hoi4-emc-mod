@@ -1,0 +1,25 @@
+state={
+	id=652
+	name="STATE_652"
+	resources={
+		steel=20.000
+	}
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = NUL
+
+	}
+
+	provinces = { 
+227 1349 9442 11429 12263 12291
+}
+
+	manpower=1225870
+	buildings_max_level_factor=1.000
+	state_category=city
+}

@@ -1,0 +1,18 @@
+state={
+	id=829
+	name="STATE_829"
+	manpower=89
+	
+	state_category = small_island
+	impassable = yes
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+	}
+	
+	provinces = { 
+13215
+}
+
+}

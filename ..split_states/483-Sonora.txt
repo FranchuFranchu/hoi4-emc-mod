@@ -1,0 +1,37 @@
+
+state={
+	id=483
+	name="STATE_483"
+	manpower = 303987
+	
+	state_category = rural
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 3
+			4908 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = NUL
+		#victory_points = {
+		#	4977 3
+		#}
+		#victory_points = {
+		#	4908 1
+		#}
+		#victory_points = {
+		#	5071 1
+		#}
+		victory_points = {
+			10765 5
+		}
+	}
+
+	provinces = { 
+2068 648 4906 1326 1291 1774 4975 4012 5069 8009 6139 4240 7056 8030 7144 10761 7282 7189 9289 10844 10166 10054 12099 12826 12150 13207 12280
+}
+
+	
+}

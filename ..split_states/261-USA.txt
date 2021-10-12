@@ -1,0 +1,42 @@
+state={
+	id=261
+	name="STATE_261"
+	resources={
+		steel=28 # was: 48.000
+		aluminium=9 # was: 16.000
+	}
+	
+	state_category = metropolis
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 7
+			arms_factory = 1
+			industrial_complex = 6
+
+		}
+		add_core_of = NUL
+		victory_points = {
+			6855 5 
+		}
+		victory_points = {
+			6890 10 
+		}
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 7
+
+			}
+
+		}
+
+	}
+
+	provinces = { 
+659 689 827 831 882 971 3684 3828 3852 3871 4440 4599 6853 6872 6888 7525 9757 9772 9805 9822 11756 11772 11787 11886 13147 7843 7830 8065
+}
+
+	manpower=6646694
+	buildings_max_level_factor=1.000
+}

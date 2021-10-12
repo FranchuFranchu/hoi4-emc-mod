@@ -1,0 +1,20 @@
+state={
+	id=911
+	name="STATE_911"
+	manpower=1232
+	
+	state_category = wasteland 
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = { 
+13292 13293 13294 13318 13889
+}
+
+}

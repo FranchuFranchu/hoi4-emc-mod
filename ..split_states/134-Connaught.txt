@@ -1,0 +1,23 @@
+
+state=
+{
+	id=134
+	name="STATE_134"
+	manpower = 667100
+	
+	state_category = town
+
+	history=
+	{
+		owner = NUL
+		buildings = {
+			infrastructure = 6
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+337 3395 9252 9300 9318 9366 11234 11283 11367
+}
+
+}

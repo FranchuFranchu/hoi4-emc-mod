@@ -1,0 +1,27 @@
+
+state={
+	id=388
+	name="STATE_388"
+	manpower = 537605
+	state_category = rural
+	resources={
+		tungsten=11 # was: 16
+	}
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 4
+		}
+		add_core_of = NUL
+		victory_points = {
+			4860 1 
+		}
+
+	}
+
+	provinces = { 
+1735 615 477 3458 1766 1850 1853 3621 3617 4259 1856 4739 4309 4836 4336 4855 4858 4861 6740 4381 7757 7776 4394 7877 7880 10583 10589 10620 10702 11708 4427 12565 12578 12669 5007
+}
+
+}

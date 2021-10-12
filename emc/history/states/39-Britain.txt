@@ -20,10 +20,10 @@ state={
 			industrial_complex = 1
 		}
 		add_core_of = NUL
+		add_core_of = NUL
 	}
 
-	provinces = { 
-6629 6673 9595 11594 11611
-}
-
+	provinces={
+		656 6631 6675 9598 9630 11598 11615 
+	}
 }

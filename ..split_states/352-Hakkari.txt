@@ -1,0 +1,35 @@
+
+state={
+	id=352
+	name="STATE_352" # Van
+	manpower = 262095
+
+	state_category = rural
+
+	history={
+		owner = NUL
+		victory_points = {
+			12476 1 
+		}
+		buildings = {
+			infrastructure = 2
+		}
+		if = {
+			limit = {
+				has_dlc = "Battle for the Bosporus"
+			}
+			add_core_of = NUL
+		}
+		if = {
+			limit = {
+				NOT = { has_dlc = "Battle for the Bosporus" }
+			}			add_core_of = NUL
+		}
+	}
+
+	provinces = { 
+864 1462 7527 10493 11735 12311 12469
+}
+
+}
+

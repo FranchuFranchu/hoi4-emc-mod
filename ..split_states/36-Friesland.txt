@@ -1,0 +1,39 @@
+state={
+	id=36
+	name="STATE_36"
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		victory_points = {
+			6241 5 
+		}
+		victory_points = {
+			9363 1 
+		}
+		victory_points = {
+			9335 3 
+		}
+		victory_points = {
+			6336 1 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+			6336 = {
+				naval_base = 3
+
+			}
+
+		}
+
+	}
+
+	provinces = { 
+6239 6284 6334 8619 9306 9332 9360 9400 11314
+}
+
+	manpower=2364000
+	buildings_max_level_factor=1.000
+	state_category=city
+}

@@ -19,10 +19,11 @@ state={
 			6300 = {
 				naval_base = 5
 			}
-		}	}
+		}
+		add_core_of = NUL
+	}
 
-	provinces = { 
-6298 9311 9380 9389 11374
-}
-
+	provinces={
+		159 6300 9314 9383 9392 11378 
+	}
 }

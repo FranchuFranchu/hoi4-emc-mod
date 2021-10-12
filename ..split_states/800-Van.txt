@@ -1,0 +1,32 @@
+state={
+	id=800
+	name="STATE_800" #Van
+
+	history={
+		owner = NUL
+		victory_points = {
+			6935 5 
+		}
+		buildings = {
+			infrastructure = 2
+		}
+		if = {
+			limit = {
+				has_dlc = "Battle for the Bosporus"
+			}
+			add_core_of = NUL
+		}
+		if = {
+			limit = {
+				NOT = { has_dlc = "Battle for the Bosporus" }
+			}			add_core_of = NUL
+		}
+	}
+
+	provinces = { 
+652 4581 7467 11876 12369 13114
+}
+
+	manpower = 365490
+	state_category = rural
+}

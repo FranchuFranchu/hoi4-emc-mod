@@ -1,0 +1,21 @@
+
+state={
+	id=507
+	name="STATE_507" # Magallanes
+	manpower = 68693
+	
+	state_category = pastoral
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+2160 5116 5157 5199 5213 8195 8215 8910 10957
+}
+
+}

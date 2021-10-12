@@ -23,8 +23,5 @@ state={
 		}
 	}
 	
-	provinces = { 
-3283 13005
-}
-
+	provinces={ 3284 13012 }
 }

@@ -1,0 +1,27 @@
+
+state={
+	id=660
+	name="STATE_660"
+	manpower = 1136921
+	
+	state_category = pastoral
+	resources={
+		rubber=3 # was: 4
+	}
+	history={
+		owner = NUL
+		add_core_of = NUL
+		victory_points = {
+			12830 1
+		}
+		buildings = {
+			infrastructure = 2
+		}
+
+	}
+
+	provinces = { 
+1973 2052 214 2098 3164 3346 2183 3930 5082 4277 4234 4321 3932 5174 4333 6133 8075 11104 6947 6356 7224 12712 8218 7412 9155 7352 9520 9156 9531 12823 10233 10177 10262 11008 10321
+}
+
+}

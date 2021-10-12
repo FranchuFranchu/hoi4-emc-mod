@@ -1,0 +1,32 @@
+state={
+	id=229
+	name="STATE_229"
+	resources={
+		oil=70 # was: 126.000
+	}
+
+	history={
+		owner = NUL
+		victory_points = {
+			7661 10 
+		}
+		victory_points = {
+			11674 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			fuel_silo = 1
+			air_base = 1
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+1466 1535 1538 1609 4456 4471 4475 4543 4612 6761 7492 7658 9712 11641 11670 11700 12427
+}
+
+	manpower=2881049
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

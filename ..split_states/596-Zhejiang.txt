@@ -1,0 +1,57 @@
+state=
+{
+	id=596
+	name="STATE_596"
+	manpower = 21230700
+	state_category = city
+	history=
+	{
+		owner = NUL
+		add_core_of = NUL
+		
+		victory_points = { 
+			9974 1 
+		}
+		victory_points = { 
+			7191 1 
+		}
+		
+		buildings = {
+			infrastructure = 4
+
+			7191 = {
+				naval_base = 1
+				coastal_bunker = 1
+				bunker = 1
+			}
+			9974 = {
+				naval_base = 3
+				coastal_bunker = 1
+				bunker = 1
+			}
+			1055 = {
+				naval_base = 3
+				coastal_bunker = 1
+				bunker = 1
+			}
+		}
+
+		1938.10.25 = {		
+			JAP = {
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			} 			
+		}
+	}
+	provinces = { 
+1055 1095 1167 1194 4041 4097 7084 7172 9941 9968 9970 10010 10082 10097 11915 11942 11985 12052
+}
+
+}

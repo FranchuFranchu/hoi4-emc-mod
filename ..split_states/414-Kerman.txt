@@ -1,0 +1,27 @@
+
+state={
+	id=414
+	name="STATE_414"
+	manpower = 486013
+	
+	state_category = wasteland
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {
+			10913 1 
+		}
+		victory_points = {
+			7990 1 
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+1985 16453 7987 16454 10755 16455 10886 16456 10909 16457 11245 16459 16458 16460 12732 16461 12802 16463 16462 16464 12845 16465 12888 16467 16466 16468
+}
+
+}

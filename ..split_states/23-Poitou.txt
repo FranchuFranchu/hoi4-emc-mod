@@ -1,0 +1,32 @@
+
+state={
+	id=23
+	name="STATE_23"
+	manpower = 1603100
+	
+	state_category = town
+	
+	resources={
+		steel=30 # was: 48
+	}
+
+	history={
+		owner = NUL
+		victory_points = {
+			6657 5
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			6657 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+595 629 655 3658 6655 9594 9628 11578 11592 11596
+}
+
+}

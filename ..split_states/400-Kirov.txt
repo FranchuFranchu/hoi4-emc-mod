@@ -1,0 +1,24 @@
+
+state={
+	id=400
+	name="STATE_400"
+	manpower = 2115475
+	resources={
+		aluminium=14 # was: 20
+	}
+
+	state_category = town
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 4
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+88 3185 3362 6108 6122 6160 6211 9062 9111 9152 9169 9177 9211 11047 11083 11129 11145 11154 11350
+}
+
+}

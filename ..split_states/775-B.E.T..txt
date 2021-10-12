@@ -1,0 +1,22 @@
+state={
+	id=775
+	name="STATE_775" # BET - Borkou-Ennedi-Tibesti region
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 0
+		}
+	}
+
+	provinces = { 
+4900 5134 10889
+}
+
+	manpower=18744
+	buildings_max_level_factor=1.000
+}

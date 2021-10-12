@@ -1,0 +1,31 @@
+
+state={
+	id=272
+	name="STATE_272"
+	manpower = 1638000
+	resources={
+		steel=3 # was: 4
+	}
+	
+	state_category = pastoral
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		victory_points = {
+			4948 5 
+		}
+		buildings = {
+			infrastructure = 3
+			air_base = 4
+			4948 = {
+				naval_base = 3
+			}
+		}
+	}
+
+	provinces = { 
+2099 4946 7969 8012 12703 12827
+}
+
+}

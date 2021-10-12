@@ -1,0 +1,25 @@
+
+state={
+	id=264
+	name="STATE_264"
+	manpower = 185559
+	
+	state_category = rural
+
+	history={
+		owner = NUL
+		victory_points = {
+			3140 1 
+		}
+		buildings = {
+			infrastructure = 4
+			air_base = 1
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+39 57 93 152 172 194 3084 3139 3141 3162 6129 6167 9057 9079 9104 9108 9150 9174 9181 9187 11044 11055 11079 11089 11127 11161 13122
+}
+
+}

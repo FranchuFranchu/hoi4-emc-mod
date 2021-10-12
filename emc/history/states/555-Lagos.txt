@@ -9,7 +9,7 @@ state={
 	history={
 		owner = NUL
 		#add_core_of = NUL
-		#add_claim_by = SOV # Removed because of too much aggression
+		#
 		buildings = {
 			infrastructure = 3
 			1399 = {
@@ -21,8 +21,7 @@ state={
 
 	}
 
-	provinces = { 
-1398 1514 13030
-}
-
+	provinces={
+		1399 1515 13037 
+	}
 }

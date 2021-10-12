@@ -1,0 +1,25 @@
+state={
+	id=741
+	name="STATE_741"
+	history = {
+		add_core_of = NUL
+		owner = NUL
+		victory_points = {
+			7376 1
+		}
+		buildings = {
+			infrastructure = 1
+			7432 = {
+				naval_base = 1
+			}
+
+		}
+	}
+	provinces = { 
+4249 7401 12160 12184 12281 12440 12468
+}
+
+	manpower=5245000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

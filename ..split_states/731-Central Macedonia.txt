@@ -1,0 +1,33 @@
+
+state={
+	id=731
+	name="STATE_731"
+
+	history={
+		owner = NUL
+		victory_points = {
+			11818 5 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			air_base = 2
+			11818 = {
+				naval_base = 3
+
+			}
+
+		}
+		add_core_of = NUL
+		add_claim_by = BUL
+
+	}
+
+	provinces = { 
+895 936 966 3525 3843 3935 6988 10159 11814
+}
+
+	manpower=1155700
+	buildings_max_level_factor=1.000
+	state_category=town
+}

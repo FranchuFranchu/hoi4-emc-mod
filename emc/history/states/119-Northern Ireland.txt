@@ -20,12 +20,12 @@ state={
 		}
 		add_core_of = NUL
 		add_core_of = NUL
+		add_core_of = NUL
 	}
 
-	provinces = { 
-385 3216 3241 3328 3378 11253
-}
-
+	provinces={
+		276 385 3217 3242 3329 3379 11257 
+	}
 	manpower=1198537
 	buildings_max_level_factor=1
 	state_category="city"

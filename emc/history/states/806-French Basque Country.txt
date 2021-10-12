@@ -13,12 +13,13 @@ state={
 			infrastructure = 6
 
 		}
+		add_core_of = NUL
+
 	}
 
-	provinces = { 
-743 9707 11693
-}
-
+	provinces={
+		743 9710 11697 
+	}
 	manpower=280723
 	buildings_max_level_factor=1.000
 	state_category=town

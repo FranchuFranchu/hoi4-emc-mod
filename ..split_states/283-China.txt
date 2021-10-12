@@ -1,0 +1,40 @@
+state={
+	id=283
+	name="STATE_283"
+	resources={
+		tungsten=1.000
+	}
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+		1938.10.25 = {
+			if = {
+				limit = {
+					NOT = {
+						has_dlc = "Waking the Tiger"
+					}
+
+				}
+				CHI = {
+					transfer_state = PREV
+
+				}
+			}
+		}
+	}
+
+	provinces = { 
+531 556 1629 3034 1646 16013 1932 1984 2021 3744 4311 5023 16014 6636 7394 7908 16015 12790 12875
+}
+
+	manpower=3705400
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

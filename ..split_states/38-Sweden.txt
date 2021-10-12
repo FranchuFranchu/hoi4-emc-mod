@@ -1,0 +1,33 @@
+
+state={
+	id=38
+	name="STATE_38"
+	manpower=931955
+	resources={
+		steel=40 # was: 62
+	}
+	
+	state_category = town
+	
+
+	history={
+		owner = NUL
+		victory_points = {
+			156 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 3
+			130 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+46 49 77 113 114 125 130 168 184 202 205 3004 3044 3069 3107 3110 3147 3161 3190 6008 6021 6061 6065 6091 6121 6124 6127 6145 6183 6205 9032 9048 9063 9065 9085 9114 9138 9145 9148 9151 9168 9170 9179 9190 9226 11036 11045 11048 11049 11087 11112 11116 11119 11125 11143 11144 11181 11183 11193 11205 13092 13110
+}
+
+}

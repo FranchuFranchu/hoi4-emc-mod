@@ -1,0 +1,24 @@
+
+state={
+	id=618
+	name="STATE_618" # Dzungaria
+	manpower = 670800
+
+	state_category = pastoral
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+
+	}
+
+	provinces = { 
+7690 7734 7863 10670 12730
+}
+
+}

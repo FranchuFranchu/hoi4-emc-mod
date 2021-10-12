@@ -1,0 +1,37 @@
+
+state={
+	id=478
+	name="STATE_478" # Jalisco
+	manpower = 2470875
+	
+	state_category = town
+	
+	resources={
+		tungsten=8 # was: 10
+	}
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		add_core_of = NUL
+		victory_points = {
+			13089 10
+		}
+		victory_points = {
+			10172 5
+		}
+		victory_points = {
+			12746 1
+		}
+
+	}
+
+	provinces = { 
+2050 779 605 1188 5050 1865 1718 1866 10168 4192 3762 7207 12739 9891 9664 9976 12866 13945 13942 13946 13082 13947
+}
+
+	
+}

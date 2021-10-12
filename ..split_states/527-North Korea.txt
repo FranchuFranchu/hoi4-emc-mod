@@ -1,0 +1,30 @@
+
+state={
+	id=527
+	name="STATE_527"
+	manpower = 6774200
+	state_category = town
+	resources={
+		steel=18 # was: 30
+		tungsten=28 # was: 52
+	}
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		
+		victory_points = {
+			4052 1
+		}	
+
+		add_core_of = NUL
+	}
+
+	provinces = { 
+848 852 898 906 912 959 978 1003 3802 3851 3859 3903 3911 3980 4051 4105 6820 6920 6926 6942 6961 7068 7153 7169 9787 9792 9896 9915 9977 10061 10079 11766 11771 11824 11831 11874 11892 11910 12033
+}
+
+}

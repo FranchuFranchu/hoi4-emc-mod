@@ -19,10 +19,10 @@ state={
 			air_base = 5
 		}
 		add_core_of = NUL
+		add_core_of = NUL
 	}
 
-	provinces = { 
-438 491 536 3482 3561 9451 9465 9555 11423 11475
-}
-
+	provinces={
+		438 491 536 3483 3562 9454 9468 9558 11427 11479 
+	}
 }

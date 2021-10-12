@@ -1,10 +1,9 @@
 strategic_region={
 	id=235
 	name="STRATEGICREGION_235"
-	provinces = { 
-2775 2752 5381
-}
-
+	provinces={
+		2776 2753 5383
+	}
 	weather={
 		period={
 			between={ 0.0 30.0 }

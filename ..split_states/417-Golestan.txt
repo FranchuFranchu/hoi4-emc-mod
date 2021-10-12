@@ -1,0 +1,26 @@
+
+state={
+	id=417
+	name="STATE_417" # Hamadan
+	manpower = 796396
+	state_category = rural
+
+	history={
+		owner = NUL
+		victory_points = {
+			8040 3 
+		}
+		victory_points = {
+			2065 1 
+		}
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+1981 1867 2064 2060 8037 4173 8122 4208 10918 4423
+}
+
+}

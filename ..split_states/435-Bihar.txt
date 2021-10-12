@@ -1,0 +1,24 @@
+state={
+	id=435
+	name="STATE_435"
+
+	history={
+		owner = NUL
+		victory_points = {
+			4516 1 
+		}
+		buildings = {
+			infrastructure = 5
+
+		}
+
+	}
+
+	provinces = { 
+1443 1540 1568 4542 10354 10874 12028 12300 12445
+}
+
+	manpower=36574500
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,23 @@
+state={
+	id=675
+	name="STATE_675"
+	manpower = 122093
+	
+	state_category = wasteland
+
+	history={
+		owner = NUL
+		victory_points = {
+			12413 1 
+		}
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = NUL
+	}
+	
+	provinces = { 
+1630 9468 3204 9937 4949 10196 9975 10268 10740 11021 10302 11106 12406 11120 12872 11188 11166 11189
+}
+
+}

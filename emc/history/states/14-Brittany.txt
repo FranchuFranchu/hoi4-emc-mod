@@ -34,6 +34,7 @@ state={
 			}
 		}
 		add_core_of = NUL
+		add_core_of = NUL
 		1939.1.1 = {
 			buildings = {
 				dockyard = 5
@@ -41,8 +42,7 @@ state={
 		}
 	}
 
-	provinces = { 
-542 3551 3757 6534 6546 6570 9492 9507 9522 11504
-}
-
+	provinces={
+		542 3552 3758 6536 6548 6572 9495 9510 9525 11508 
+	}
 }

@@ -1,0 +1,35 @@
+
+state={
+	id=165
+	name="STATE_165"
+	manpower = 3036537
+	
+	state_category = large_city
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		victory_points = {
+			9764 30
+		}
+		victory_points = {
+			6966 1
+		}
+		victory_points = {
+			6927 1
+		}
+		buildings = {
+			infrastructure = 7
+			arms_factory = 1
+			industrial_complex = 1
+			air_base = 2
+			9764 = {
+				naval_base = 4
+			}
+		}	}
+
+	provinces = { 
+3897 3898 6810 6834 6863 6925 6964 9761 9794 9821 11775
+}
+
+}

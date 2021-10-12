@@ -1,0 +1,24 @@
+
+state={
+	id=578
+	name="STATE_578" # Tomsk
+	manpower = 609304
+	
+	state_category = rural
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = NUL
+		victory_points = {
+			7789 1
+		}
+	}
+
+	provinces = { 
+1764 4825 12167 12529 12592
+}
+
+}

@@ -1,0 +1,39 @@
+
+state={
+	id=234
+	name="STATE_234"
+	manpower = 2903371
+	
+	state_category = city
+	resources={
+		tungsten=17 # was: 26
+		oil=12 # was: 18
+	}
+
+	history={
+		owner = NUL
+		victory_points = {
+			3720 1 
+		}
+		victory_points = {
+			719 3
+		}
+		victory_points = {
+			3734 5
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			719 = {
+				naval_base = 3
+				coastal_bunker = 1
+			}
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+750 3719 3764 6734 6739 6779 6781 9691 9693 9706 9741 11677 11725
+}
+
+}

@@ -1,0 +1,25 @@
+
+state={
+	id=136
+	name="STATE_136"
+	manpower = 745466
+	
+	state_category = town
+	resources={
+		tungsten=4 # was: 6
+		aluminium=3 # was: 4
+	}
+
+	history={
+		add_core_of = NUL
+		owner = NUL
+		buildings = {
+			infrastructure = 6
+			dockyard = 2
+		}	}
+
+	provinces = { 
+200 3149 9158 11051 11132 11203 11302
+}
+
+}

@@ -1,0 +1,28 @@
+
+state={
+	id=31
+	name="STATE_31"
+
+	history={
+		owner = NUL
+		victory_points = {
+			6766 5 
+		}
+		buildings = {
+			infrastructure = 6
+			arms_factory = 1
+			industrial_complex = 1
+			air_base = 2
+
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+929 943 3739 3748 3945 3947 6757 6764 6913 6915 6929 9850 9879 9881 11695 11698 12162
+}
+
+	manpower=1825000
+	buildings_max_level_factor=1.000
+	state_category=city
+}

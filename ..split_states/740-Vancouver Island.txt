@@ -1,0 +1,22 @@
+
+state={
+	id=740
+	name="STATE_740"
+	manpower = 259612
+	
+	state_category = rural
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+7256 794 1213 12252 12265 1419
+}
+
+	
+}

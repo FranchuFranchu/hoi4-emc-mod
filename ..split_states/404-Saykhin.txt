@@ -1,0 +1,24 @@
+state={
+	id=404
+	name="STATE_404"
+
+	history={
+		owner = NUL
+		victory_points = {
+			7597 1
+		}
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+
+	provinces = { 
+1242 1401 4248 4275 4576 4684 7389 7553 7654 7774 12104 12170 12480
+}
+
+	manpower=667036
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

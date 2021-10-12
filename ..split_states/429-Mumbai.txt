@@ -1,0 +1,32 @@
+
+state={
+	id=429
+	name="STATE_429"
+	manpower = 17355600
+	state_category = town
+	
+	resources={
+		#tungsten=19 # was: 26
+	}
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 2
+			1349 = {
+				naval_base = 6
+			}
+		}
+		victory_points = {
+			1349 10 
+		}
+
+	}
+
+	provinces = { 
+1348 1404 4071 10206 12135 12175 12262
+}
+
+}

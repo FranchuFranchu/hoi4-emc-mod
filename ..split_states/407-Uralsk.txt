@@ -1,0 +1,23 @@
+state={
+	id=407
+	name="STATE_407"
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 3
+
+		}		victory_points = {
+			11537 1
+		}
+	}
+
+	provinces = { 
+470 545 1317 3403 3405 3501 3514 6523 6549 9525 11453 11468 11476 11506 11534 11548
+}
+
+	manpower=268572
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

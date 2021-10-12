@@ -1,0 +1,40 @@
+state= {
+	id=599
+	name="STATE_599"
+	manpower = 8685200
+	state_category = town
+	resources={
+		tungsten=15 # was: 20
+		steel= 15 # was: 20
+		chromium = 3 # was: 4
+	}
+
+	history= {
+		owner = NUL
+		add_core_of = NUL
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 2
+		}
+		victory_points = { 
+			10404 3 
+		}
+
+		1938.10.25 = {
+			if = {
+				limit = {
+					NOT = { has_dlc = "Waking the Tiger" }
+				}
+				CHI = { transfer_state = PREV }
+			}
+		}
+
+	}
+	provinces = { 
+1023 1468 1596 1624 4027 4076 4084 4132 4150 4626 4654 7093 7126 7166 7208 7647 10035 10117 10400 10427 10455 12400 12429
+}
+
+}

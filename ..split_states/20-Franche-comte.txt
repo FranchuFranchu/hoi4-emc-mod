@@ -1,0 +1,37 @@
+
+state={
+	id=20
+	name="STATE_20" # Rhone
+	manpower = 2973200
+	resources={
+		steel=60 # was: 128
+		aluminium=35 # was: 72
+	}
+
+	state_category = city
+
+	history={
+		owner = NUL
+		victory_points = {
+			6613 10
+		}
+		buildings = {
+			infrastructure = 7
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 4
+		}
+		add_core_of = NUL
+		1939.1.1 = {
+			buildings = {
+				arms_factory = 2
+				industrial_complex = 3
+			}
+		}
+	}
+
+	provinces = { 
+3649 3769 6637 6666 6784 9587 9725 9729 11589 11712 11790
+}
+
+}

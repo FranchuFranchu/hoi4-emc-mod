@@ -1,0 +1,35 @@
+
+state={
+	id=167
+	name="STATE_167"
+	manpower = 1979294
+	
+	state_category = large_town
+
+	history={
+		owner = NUL
+		victory_points = {
+			6906 10
+		}
+		victory_points = {
+			4098 3
+		}
+		buildings = {
+			infrastructure = 6
+			dockyard = 1
+			air_base = 3
+			6906 = {
+				naval_base = 3
+			}
+			4098 = {
+				naval_base = 2
+			}
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+3872 6854 6957 9886 9893
+}
+
+}

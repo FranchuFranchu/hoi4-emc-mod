@@ -1,0 +1,24 @@
+
+state={
+	id=590
+	name="STATE_590" # Akmolinsk
+	manpower = 980533
+	
+	state_category = pastoral
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		victory_points = {
+			4333 1
+		}
+		buildings = {
+			infrastructure = 4
+		}		#add_core_of = NUL
+	}
+
+	provinces = { 
+1222 1374 1679 7380 7404 7871 12612
+}
+
+}

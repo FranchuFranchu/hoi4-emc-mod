@@ -13,8 +13,7 @@ state=
 		}
 		add_core_of = NUL
 	}
-	provinces = { 
-1310 4371
-}
-
+	provinces={
+		1224 1311 1340 4269 4373 
+	}
 }

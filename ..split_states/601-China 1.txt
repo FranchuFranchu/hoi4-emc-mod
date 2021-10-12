@@ -1,0 +1,36 @@
+state={
+	id=601
+	name="STATE_601"
+	resources={
+		oil=2.000
+	}
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+		add_core_of = NUL
+		buildings = {
+			infrastructure = 1
+
+		}
+		victory_points = {
+			10856 1
+		}
+		1939.1.1 = {
+			buildings = {
+				infrastructure = 2
+
+			}
+
+		}
+
+	}
+
+	provinces = { 
+5207 5016 5078 5100 8056 8038 10737 10852
+}
+
+	manpower=368200
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

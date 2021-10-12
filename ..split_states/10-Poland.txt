@@ -1,0 +1,30 @@
+state={
+	id=10
+	name="STATE_10"
+	manpower = 3089000
+
+	state_category = large_city
+
+	history={
+		owner = NUL
+		victory_points = {
+			3544 25
+		}
+		victory_points = {
+			402 1
+		}
+		buildings = {
+			infrastructure = 7
+			arms_factory = 6
+			industrial_complex = 2
+			anti_air_building = 2
+			air_base = 5
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+402 467 524 3481 3543 6509 9397 11488 12555
+}
+
+}

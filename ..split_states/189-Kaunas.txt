@@ -1,0 +1,34 @@
+
+state={
+	id=189
+	name="STATE_189"
+	manpower = 697100
+	
+	state_category = town
+	
+	resources={
+		steel=2 # was: 3
+	}
+
+	history={
+		owner = NUL
+		victory_points = {
+			9483 5
+		}
+		victory_points = {
+			6314 3
+		}
+		buildings = {
+			infrastructure = 5
+			6314 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+530 3336 3353 6227 6312 6358 6374 9480 9496 9728
+}
+
+}

@@ -1,0 +1,41 @@
+
+state={
+	id=186
+	name="STATE_186"
+	manpower=945000
+	
+	state_category = town
+
+	history={
+		victory_points = {
+			7211 5
+		}
+		victory_points = {
+			7096 1
+		}
+		victory_points = {
+			11965 1
+		}
+		owner = NUL
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			11965 = {
+				naval_base = 1
+
+			}
+			7211 = {
+				naval_base = 2
+
+			}
+
+		}
+		add_core_of = NUL
+
+	}
+
+	provinces = { 
+1172 4077 4176 4191 7094 7209 11959
+}
+
+}

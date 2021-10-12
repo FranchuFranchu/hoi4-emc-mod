@@ -15,8 +15,7 @@ state=
 			}
 		}
 	}
-	provinces = { 
-1279
-}
-
+	provinces={
+		1280 
+	}
 }
