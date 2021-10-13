@@ -1,0 +1,21 @@
+state={
+	id=891
+	name="STATE_891"
+	provinces={
+		14360
+	}
+	manpower=30
+	state_category = small_island
+	history={
+		owner = NUL
+		add_core_of = NUL
+		add_core_of = NUL
+		
+		buildings = {
+			infrastructure = 1
+			14360 = {
+				naval_base = 1
+			}
+		}
+	}
+}

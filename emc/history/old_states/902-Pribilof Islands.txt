@@ -1,0 +1,22 @@
+state={
+	id=902
+	name="STATE_902"
+	manpower=200
+	
+	state_category = wasteland 
+
+	history={
+		owner = NUL
+		#add_core_of = NUL
+		buildings = {
+			infrastructure = 0
+			# 13230 = {
+			# 	naval_base = 3
+			# }
+		}
+	}
+	
+	provinces={
+		13230
+	}
+}

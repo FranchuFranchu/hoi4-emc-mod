@@ -1,0 +1,28 @@
+
+state={
+	id = 920
+	name="STATE_512"
+	manpower = 226638
+	
+	state_category = rural
+	
+	resources={
+		oil=5 # was: 6
+	}
+
+	history={
+		owner = NUL
+		buildings = {
+			infrastructure = 3
+			10953 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = NUL
+	}
+
+	provinces = { 
+12321 10981 12494
+}
+
+}

@@ -1,0 +1,19 @@
+state={
+	id=887
+	name="STATE_887"
+	manpower=1
+
+	state_category = wasteland 
+	impassable = yes
+
+	history={
+		owner = NUL
+		add_core_of = NUL
+	}
+	
+	provinces={
+		14347
+
+	}
+}
+

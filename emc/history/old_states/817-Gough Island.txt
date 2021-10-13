@@ -1,0 +1,16 @@
+state={
+	id=817
+	name="STATE_817"
+	manpower=12
+
+	state_category = small_island
+
+	history={
+		owner = NUL
+		#add_core_of = NUL
+	}
+	
+	provinces={
+		13231
+	}
+}
