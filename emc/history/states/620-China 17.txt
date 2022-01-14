@@ -8,25 +8,14 @@ state={
 		add_core_of = NUL
 		buildings = {
 			infrastructure = 3
-			 = 3
-			 = 2
-
 		}
 		victory_points = {
 			4619 5 
 		}
 		1938.10.25 = {
 			buildings = {
-				 = 3
 				infrastructure = 6
-				 = 2
-				 = 2
-
 			}
-			JAP = {
-				set_province_				set_province_				set_province_				set_province_				set_province_				set_province_				set_province_
-			}
-
 		}
 
 	}

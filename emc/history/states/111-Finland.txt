@@ -19,18 +19,7 @@ state={
 		}
 		buildings = {
 			infrastructure = 6
-			 = 3
-			 = 2
-			 = 1
-			 = 5
-			11105 = {
-				 = 5
-				coastal_ = 2
-			}
-			3083 = {
-				 = 3
-				coastal_ = 1
-			}
+			
 		}
 		add_core_of = NUL
 	}

@@ -12,19 +12,6 @@ state= {
 		add_core_of = NUL
 		buildings = {
 			infrastructure = 3
-			 = 1
-			9938 = {
-				 = 1
-				coastal_ = 1
-				 = 1
-			}
-		}
-
-		1938.10.25 = {		
-			remove_core_of = GXC
-			owner = NUL
-			JAP = {
-				set_province_				set_province_				set_province_				set_province_				set_province_			} 			
 		}
 	}
 	provinces={

@@ -1,14 +1,58 @@
+capital = 16
 
 set_convoys = 20
 set_politics = {
-    ruling_party = neutrality
+    ruling_party = fascism
     last_election = "2019.1.1"
     election_frequency = 72
     elections_allowed = no
 }
 set_popularities = {
     democratic = 0
-    fascism = 0
+    fascism = 80
     communism = 0
-    neutrality = 100
+    neutrality = 20
+}
+
+create_country_leader = {
+    name = "Cactusinapumkin"
+    desc = ""
+    picture = "gfx/portraits/Ferrarinu.dds"
+    expire = "1965.1.1"
+    ideology = liberalism
+    traits = {
+        #
+    }
+}
+create_country_leader = {
+    name = "Trajan"
+    desc = ""
+    picture = "gfx/portraits/Trajan.dds"
+    expire = "1965.1.1"
+    ideology = nazism
+    traits = {
+        #
+    }
+}
+
+create_country_leader = {
+    name = "Kaze"
+    desc = ""
+    picture = "gfx/leaders/South America/Portrait_South_America_Generic_navy_1.dds"
+    expire = "1965.1.1"
+    ideology = marxism
+    traits = {
+        #
+    }
+}
+
+create_corps_commander = {
+    name = "Caeso"
+    portrait_path = "gfx/leaders/South America/Portrait_South_America_Generic_land_5.dds"
+    traits = { trait_mountaineer }
+    skill = 4
+    attack_skill = 5
+    defense_skill = 1
+    planning_skill = 6
+    logistics_skill = 1
 }

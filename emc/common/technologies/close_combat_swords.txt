@@ -312,7 +312,6 @@ technologies = {
         
         categories = {
             close_combat_swords
-			leads_to_tech = close_combat_swords_10
         }
         
         ai_will_do = {

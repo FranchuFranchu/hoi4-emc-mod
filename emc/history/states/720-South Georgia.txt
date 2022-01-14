@@ -9,9 +9,6 @@ state={
 		owner = NUL
 		buildings = {
 			infrastructure = 1
-			10995 = {
-				 = 1
-			}
 		}
 		add_claim_by = ARG
 	}

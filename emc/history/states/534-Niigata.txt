@@ -11,8 +11,6 @@ state={
 		add_core_of = NUL
 		buildings = {
 			infrastructure = 4
-			 = 2
-			 = 2
 			food_storage_unit = 1
 		}
 		

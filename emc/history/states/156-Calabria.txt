@@ -12,22 +12,10 @@ state={
 		}
 		buildings = {
 			infrastructure = 5
-			 = 4
-			food_storage_unit = 1
-			 = 5
-			11837 = {
-				 = 10
-			}
-			11998 = {
-				 = 2
-			}
+			food_storage_unit = 1 
 		}
 		add_core_of = NUL
-		1939.1.1 = {
-			buildings = {
-				 = 5
-			}
-		}
+		
 	}
 
 	provinces={

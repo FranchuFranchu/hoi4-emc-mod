@@ -7,7 +7,7 @@ state={
 	state_category = city
 
 	history={
-		owner = NUL
+		owner = FRA
 		victory_points = {
 			3552 20
 		}
@@ -19,27 +19,11 @@ state={
 		}
 		buildings = {
 			infrastructure = 6
-			 = 5
-			 = 5
-			3552 = {
-				 = 10
-				coastal_ = 1
-			}
-			6536 = {
-				 = 4
-				coastal_ = 1
-			}
-			9510 = {
-				 = 1
-			}
+			 
 		}
 		add_core_of = NUL
 		add_core_of = NUL
-		1939.1.1 = {
-			buildings = {
-				 = 5
-			}
-		}
+		
 	}
 
 	provinces={

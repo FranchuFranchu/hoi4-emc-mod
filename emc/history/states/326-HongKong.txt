@@ -14,11 +14,7 @@ state=
 		}
 		buildings = {
 			infrastructure = 5
-			 = 1
-			10062 = {
-				 = 6
-				coastal_ = 1
-			}
+			
 		}
 	}
 	provinces={

@@ -11,9 +11,6 @@ state={
 		add_core_of = GUY
 		buildings = {
 			infrastructure = 2
-			12885 = {
-				 = 1
-			}
 		}
 		victory_points = {
 			12885 1 

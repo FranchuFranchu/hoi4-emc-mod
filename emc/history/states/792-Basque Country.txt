@@ -11,17 +11,9 @@ state={
 		add_core_of = NUL
 		buildings = {
 			infrastructure = 6
-			 = 1
-			 = 1
-			740 = {
-				 = 1
-			}
-			 = 1
 		}
 		add_core_of = NUL
-
 	}
-
 	provinces={
 		740 3735 6756 13233 
 	}

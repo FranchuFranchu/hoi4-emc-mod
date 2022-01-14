@@ -9,19 +9,13 @@ state={
 		add_core_of = NUL
 		buildings = {
 			infrastructure = 4
-			 = 1
-
 		}
 		victory_points = {
 			7222 1 
 		}
 		1938.10.25 = {
-						buildings = {
-				 = 3
+			buildings = {
 				infrastructure = 6
-				 = 1
-				 = 1
-
 			}
 
 		}

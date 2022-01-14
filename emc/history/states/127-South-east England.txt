@@ -11,28 +11,11 @@ state={
 		victory_points = { 9458 15 }
 		buildings = {
 			infrastructure = 8
-			 = 1
-			 = 1
-			 = 2
 			food_storage_unit = 1
-			 = 2
-			radar_station = 1
-			 = 10
-			3501 = {
-				 = 6
-				coastal_ = 3
-			}
-			9458 = {
-				 = 10
-			}
+			
 		}
 		add_core_of = BRI
-		1939.1.1 = {
-			buildings = {
-				 = 3
-				 = 2
-			}
-		}
+		
 	}
 
 	provinces={

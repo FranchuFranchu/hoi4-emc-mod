@@ -16,19 +16,7 @@ state= {
 		}
 		buildings = {
 			infrastructure = 8
-			 = 2
-			 = 4
-			 = 2
-			 = 6
-			6287 = {
-				 = 8
-			}
-			3325 = {
-				 = 3
-			}
-			6361 = {
-				 = 1
-			}
+			
 		}
 		add_core_of = DEN
 	}

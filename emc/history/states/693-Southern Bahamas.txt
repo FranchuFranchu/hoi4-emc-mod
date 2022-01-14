@@ -10,12 +10,6 @@ state={
 		owner = NUL
 		buildings = {
 			infrastructure = 4
-			10440 = {
-				 = 1
-			}
-			1513 = {
-				 = 1
-			}
 		}
 	}
 	

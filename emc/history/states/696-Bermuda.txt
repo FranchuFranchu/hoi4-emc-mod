@@ -11,9 +11,6 @@ state={
 		}
 		buildings = {
 			infrastructure = 4
-			13010 = {
-				 = 1
-			}
 		}
 	}
 	

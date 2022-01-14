@@ -10,9 +10,7 @@ state={
 		owner = ECU
 		buildings = {
 			infrastructure = 3
-			 = 1
-			 = 5
-			 = 2
+			 
 		}
 		add_core_of = ECU
 		victory_points = {

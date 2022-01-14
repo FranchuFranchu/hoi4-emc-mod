@@ -12,10 +12,6 @@ state={
         owner = UTF
         buildings = {
             infrastructure = 3
-             = 4
-            10953 = {
-                 = 1
-            }
         }
         add_core_of = UTF
     }

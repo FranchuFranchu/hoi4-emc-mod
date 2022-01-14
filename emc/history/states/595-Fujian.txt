@@ -10,28 +10,12 @@ state= {
 		add_core_of = NUL
 		buildings = {
 			infrastructure = 3
-			 = 1
-			7071 = {
-				 = 1
-				coastal_ = 1
-				 = 1
-			}
-			4196 = {
-				 = 3
-				coastal_ = 1
-				 = 1
-			}
 		}
 		victory_points = { 
 			4196 3 
 		}
 		victory_points = { 
 			7071 1 
-		}
-
-		1938.10.25 = {		
-			JAP = {
-				set_province_				set_province_			} 			
 		}
 	}
 	provinces={

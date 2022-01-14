@@ -68,15 +68,19 @@ BOL = {
   color_ui = rgb { 189 204 255 }
 }
 BRI = {
-  color = rgb { 2  10  222 }
+  color = rgb { 45  101  79 }
   color_ui = rgb { 255 255 155}
 }
+BUR = {
+  color = rgb { 167  0  127 }
+  color_ui = rgb { 255 255 155}
+  }
 GER = {
-  color = rgb { 2  10  222 }
+  color = rgb { 45  101  79 }
   color_ui = rgb { 255 255 155}
 }
 FRA = {
-  color = rgb { 2  10  222 }
+  color = rgb { 15  27  255 }
   color_ui = rgb { 255 255 155}
 }
 SPA = {
@@ -84,15 +88,15 @@ SPA = {
   color_ui = rgb { 255 255 155}
 }
 LUX = {
-  color = rgb { 2  10  222 }
+  color = rgb { 255  93  29 }
   color_ui = rgb { 255 255 155}
 }
 DEN = {
-  color = rgb { 2  10  222 }
+  color = rgb { 120  0  0 }
   color_ui = rgb { 255 255 155}
 }
 KSR = {
-  color = rgb { 2  10  222 }
+  color = rgb { 45  101  79 }
   color_ui = rgb { 255 255 155}
 }
 VIN = {
@@ -111,7 +115,18 @@ MAL = {
   color = rgb { 107 31 110 }
   color_ui = rgb { 150 18 18 }
 }
+
+FRK = {
+  color = rgb { 15  27  255 }
+  color_ui = rgb { 255 255 155}
+}
+SWI = {
+  color = rgb { 255  0  0 }
+  color_ui = rgb { 255 255 155}
+}
+
 INO = {
 color = rgb { 150 18 18 }
 color_ui = rgb { 150 18 18 }
 }
+

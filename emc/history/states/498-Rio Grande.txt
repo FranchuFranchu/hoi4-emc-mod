@@ -10,14 +10,6 @@ state={
 		owner = CEA
 		buildings = {
 			infrastructure = 5
-			 = 6
-			 = 2
-			5107 = {
-				 = 3
-			}
-			5168 = {
-				 = 1
-			}
 		}
 		add_core_of = CEA
 		victory_points = {

@@ -17,17 +17,10 @@ state={
 		}
 		buildings = {
 			infrastructure = 7
-			 = 2
-			 = 1
-			 = 6
+			
 		}
 		add_core_of = GER
 
-		1939.1.1 = {
-			buildings = {
-				 = 10
-			}
-		}
 	}
 
 	provinces={

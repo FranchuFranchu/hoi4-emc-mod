@@ -261,6 +261,31 @@
   BOL_DEF:0 "Bolivia"
   BOL_ADJ:0 "Bolivian"
 
+  FRK_fascism:0 "Kingdom of the Franks"
+  FRK_fascism_DEF:0 "Kingdom of the Franks"
+  FRK_democratic:0 "Frankish Constitutional Monarchy"
+  FRK_democratic_DEF:0 "Frankish Constitutional Monarchy"
+  FRK_neutrality:0 "Kingdom of the Franks"
+  FRK_neutrality_DEF:0 "Kingdom of the Franks"
+  FRK_communism:0 "United Duchies"
+  FRK_communism_DEF:0 "United Duchies"
+  FRK_fascism_ADJ:0 "Franks"
+  FRK_democratic_ADJ:0 "Franks"
+  FRK_neutrality_ADJ:0 "Franks"
+  FRK_communism_ADJ:0 "Franks"
+  FRK:0 "Francia"
+  FRK_DEF:0 "Francia"
+  FRK_ADJ:0 "Franks"
+    
+  BUR:0 "Burgundy"
+  BUR_DEF:0 "Burgundians"
+  BUR_ADJ:0 "Burgundians"
+  
+  SWI:0 "Switzerland"
+  SWI_DEF:0 "Swiss"
+  SWI_ADJ:0 "Swiss"
+
+=======
   BRI_fascism:0 "British Empire"
   BRI_fascism_DEF:0 "the British Empire"
   BRI_democratic:0 "Commonwealth of Britain"
@@ -388,3 +413,4 @@
   LUX:0 "Luxemborg"
   LUX_DEF:0 "Luxemborg"
   LUX_ADJ:0 "Luxemborg"
+

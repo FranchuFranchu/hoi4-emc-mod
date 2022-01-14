@@ -14,23 +14,10 @@ state={
 		}
 		buildings = {
 			infrastructure = 6
-			 = 1
-			 = 4
-			 = 6
-			351 = {
-				 = 6
-			}
-			3311 = {
-				 = 1
-			}
+			
 		}
 		add_core_of = BRI
-		1939.1.1 = {
-			buildings = {
-				 = 5
-				 = 2
-			}
-		}
+		
 	}
 
 	provinces={

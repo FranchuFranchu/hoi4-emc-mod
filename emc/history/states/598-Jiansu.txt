@@ -11,11 +11,7 @@ state={
 		add_core_of = NUL
 		buildings = {
 			infrastructure = 3
-
 		}
-
-		1938.10.25 = {
-					}
 	}
 
 	provinces={

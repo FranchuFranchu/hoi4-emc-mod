@@ -12,11 +12,7 @@ state=
 		}
 		buildings = {
 			infrastructure = 3
-			 = 3
-			12003 = {
-				 = 3
-				coastal_ = 1
-			}
+			 
 		}
 	}
 	provinces= { 12003 }

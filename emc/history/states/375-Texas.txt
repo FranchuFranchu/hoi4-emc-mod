@@ -6,22 +6,10 @@ state={
 	
 	
 	state_category = metropolis
-	
-	
-
-
 	history={
 		owner = NUL
 		buildings = {
 			infrastructure = 6
-			 = 9
-			 = 3
-			10337 = {
-				 = 3
-			}
-			6785 = {
-				 = 1
-			}
 		}
 		add_core_of = NUL
 		victory_points = {

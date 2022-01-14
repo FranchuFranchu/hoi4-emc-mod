@@ -10,8 +10,6 @@ state={
 		owner = INC
 		buildings = {
 			infrastructure = 3
-			 = 1
-			 = 1
 		}
 		add_core_of = PRU
 		add_core_of = INC

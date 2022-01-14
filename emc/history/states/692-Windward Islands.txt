@@ -9,9 +9,7 @@ state={
 		owner = VEN
 		buildings = {
 			infrastructure = 4
-			11350 = {
-				 = 1
-			}
+			
 		}
 		victory_points = {
 			11350 1

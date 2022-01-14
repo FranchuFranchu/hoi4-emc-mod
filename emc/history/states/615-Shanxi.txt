@@ -17,15 +17,6 @@ state=
 		}
 		buildings = {
 			infrastructure = 3
-			 = 2
-			 = 2
-		}
-
-		1938.10.25 = {
-			#remove_core_of = SHX
-			owner = NUL
-						PRC = {
-				set_province_				set_province_				set_province_				set_province_			}
 		}
 	}
 	provinces={

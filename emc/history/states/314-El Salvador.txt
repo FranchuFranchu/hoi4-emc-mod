@@ -12,12 +12,7 @@ state=
 		owner = YUC
 		buildings = {
 			infrastructure = 4
-			 = 1
-			 = 2 
-			 = 1
-			12823 = {
-				 = 1
-			}
+			 
 		}
 		add_core_of = YUC
 		victory_points = {

@@ -15,9 +15,7 @@ state={
 		}
 		buildings = {
 			infrastructure = 5
-			 = 6
-			 = 3
-		}
+			 }
 		add_core_of = NUL
 	}
 

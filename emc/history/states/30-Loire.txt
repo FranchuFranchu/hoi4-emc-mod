@@ -7,18 +7,15 @@ state={
 	state_category = city
 
 	history={
-		owner = NUL
+		owner = FRA
 		victory_points = {
 			11465 5
 		}
 		
 		buildings = {
 			infrastructure = 7
-			 = 1
-			 = 1
-			 = 2
 		}
-		add_core_of = NUL
+		add_core_of = FRA
 	}
 
 	provinces={

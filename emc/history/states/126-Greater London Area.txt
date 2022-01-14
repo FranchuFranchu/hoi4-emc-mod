@@ -12,23 +12,10 @@ state={
 		}
 		buildings = {
 			infrastructure = 9
-			 = 3
-			 = 3
-			 = 1
-			 = 5
-			radar_station = 1
-			 = 10
-			11374 = {
-				 = 10
-			}
+			 
 		}
 		add_core_of = BRI
-		1939.1.1 = {
-			buildings = {
-				 = 4
-				 = 4
-			}
-		}
+		
 	}
 
 	provinces={

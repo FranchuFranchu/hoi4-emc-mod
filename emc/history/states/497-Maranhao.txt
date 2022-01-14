@@ -12,11 +12,6 @@ state={
 		owner = PRA
 		buildings = {
 			infrastructure = 3
-			 = 1
-			 = 1
-			12853 = {
-				 = 2
-			}
 		}
 		add_core_of = PRA
 		victory_points = {

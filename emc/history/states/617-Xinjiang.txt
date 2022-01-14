@@ -9,13 +9,10 @@ state={
 		add_core_of = NUL
 		buildings = {
 			infrastructure = 3
-			 = 2
-
 		}
 		victory_points = {
 			4709 3 
 		}
-
 	}
 
 	provinces={

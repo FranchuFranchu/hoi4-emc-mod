@@ -16,13 +16,6 @@ state={
 
 		buildings = {
 			infrastructure = 3
-			 = 4
-			10153 = {
-				 = 3
-			}
-			10263 = {
-				 = 3
-			}
 		}
 	}
 	provinces={

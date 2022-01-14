@@ -17,9 +17,7 @@ state=
 		add_core_of = NUL
 		buildings = {
 			infrastructure = 3
-			10833 = {
-				 = 1
-			}
+			
 		}
 	}
 	provinces={

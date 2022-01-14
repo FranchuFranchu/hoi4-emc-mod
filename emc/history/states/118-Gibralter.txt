@@ -10,11 +10,7 @@ state=
 		victory_points = { 4135 10 }
 		buildings = {
 			infrastructure = 6
-			 = 2
-			4135 = {
-				 = 5
-				coastal_ = 2
-			}
+			
 		}
 		add_claim_by = SPR
 	}

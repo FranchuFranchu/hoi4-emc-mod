@@ -17,19 +17,13 @@ state={
 		}
 		buildings = {
 			infrastructure = 3
-			 = 1
-			 = 2 
-			 = 3
-			11767 = {
-				 = 4
-			}
 		}
 		add_core_of = NUL
 		add_claim_by = ITA
 
 		1939.4.12 = {
 			owner = NUL
-						remove_claim_by = ITA
+			remove_claim_by = ITA
 		}
 	}
 

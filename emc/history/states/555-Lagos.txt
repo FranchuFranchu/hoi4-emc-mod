@@ -12,11 +12,6 @@ state={
 		#add_claim_by = SOV # Removed because of too much aggression
 		buildings = {
 			infrastructure = 3
-			1399 = {
-				 = 3
-
-			}
-
 		}
 
 	}

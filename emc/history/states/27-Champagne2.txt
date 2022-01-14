@@ -9,21 +9,16 @@ state={
 	 
 
 	history={
-		owner = NUL
+		owner = FRA
 		victory_points = {
 			3652 5 
 		}
 		buildings = {
 			infrastructure = 7
-			 = 2
-			 = 2
+			
 		}
-		add_core_of = NUL
-		1939.1.1 = {
-			buildings = {
-				 = 3
-			}
-		}
+		add_core_of = FRA
+		
 	}
 
 	provinces={

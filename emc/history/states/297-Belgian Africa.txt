@@ -15,15 +15,8 @@ state=
 		}
 		buildings = {
 			infrastructure = 2
-			1903 = {
-				 = 1
-			}
-			8244 = {
-				 = 1
-			}
 		}
 	}
 	provinces=
-	{
-1903 8244 	}
+	{   1903 8244 	}
 }

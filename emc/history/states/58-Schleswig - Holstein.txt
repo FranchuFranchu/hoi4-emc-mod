@@ -15,22 +15,10 @@ state= {
 		owner = DEN
 		buildings = {
 			infrastructure = 6
-			 = 2
-			 = 6
-			 = 5
-			6389 ={
-				 = 8
-			}
+
 		}
 		add_core_of = DEN
-		1939.1.1 = {
-			buildings = {
-				 = 3
-				 = 5
-				 = 7
-				 = 4
-			}
-		}
+	
 	}
 
 	provinces= {

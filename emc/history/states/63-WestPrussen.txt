@@ -8,7 +8,7 @@ state={
 	state_category = town
 
 	history={
-		owner = NUL
+		owner = DEN
 		victory_points = {
 			6282 5
 		}
@@ -17,17 +17,11 @@ state={
 		}
 		buildings = {
 			infrastructure = 6
-			 = 1
-			11372 = {
-				 = 1
-			}
-			6282 = {
-				 = 4
-
-			}
-			 = 3
+			 
 		}
-		add_core_of = NUL
+		add_core_of = DEN
+		add_core_of = KSR
+		add_core_of = GER
 	}
 
 	provinces={
